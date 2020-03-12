@@ -2,7 +2,7 @@
 body { background: url(../img/virus-4835301_1920.jpg) no-repeat top center; font-family: arial, helvetica, sans-serif; }
 #contenedor { width: 960px; margin: 0 auto;}
 #cabecera { position: relative; padding-top: 20px; }
-#logo { width: 16%; float: left; color: #FFF; font-size: 30px; background: url(../img/nube.png) no-repeat left center; padding-left: 4%}
+#logo { width: 16%; float: left; color: #FFF; font-size: 30px; background: url(../img/nube.png) no-repeat left center; padding-left: 4%;}
 #menu { width: 80%; float: right; text-align: right; padding-top: 15px; }
 #menu ul { list-style-type: none; }
 #menu ul li { display: inline-block; }
@@ -12,13 +12,13 @@ body { background: url(../img/virus-4835301_1920.jpg) no-repeat top center; font
 #mensaje { clear: both; height: 340px; position: relative; text-align:center; color: #FFF; background: url(../img/nube-mensaje.png) no-repeat center 90px; }
 #mensaje_que_es { position: relative; font-size: 32px; text-transform: uppercase; font-weight: normal; top: 100px;}
 #mensaje_que_es p { position: relative; font-size: 18px; letter-spacing: 4px; top: 10px; }
-#mensaje_que_es a { position: relative; color: #FFF; text-decoration: none; top: 20px;}
+#mensaje_que_es a { position: relative; color: #FFF; text-decoration: none; top: 30px; border: 2px solid #FFF; padding: 10px 30px; font-size: 14px }
 #mensaje_etsisi { position: relative; font-size: 32px; text-transform: uppercase; font-weight: normal; top: 200px;}
 #mensaje_etsisi p { position: relative; font-size: 18px; letter-spacing: 4px; top: 10px; }
-#mensaje_etsisi a { position: relative; color: #FFF; text-decoration: none; top: 20px; border: 2px solid #FFF; padding: 10px 30px; font-size: 14px }
+#mensaje_etsisi a { position: relative; color: #FFF; text-decoration: none; top: 30px; border: 2px solid #FFF; padding: 10px 30px; font-size: 14px }
 #mensaje_enseñanza_telematica { position: relative; font-size: 32px; text-transform: uppercase; font-weight: normal; top: 300px;}
-#mensaje_enseñanza_telematica p { position: relative; font-size: 18px; letter-spacing: 4px; top: 170px; }
-#mensaje_enseñanza_telematica a { position: relative; color: #FFF; text-decoration: none; top: 210px; border: 2px solid #FFF; padding: 10px 30px; font-size: 14px }
+#mensaje_enseñanza_telematica p { position: relative; font-size: 18px; letter-spacing: 4px; top: 10px; }
+#mensaje_enseñanza_telematica a { position: relative; color: #FFF; text-decoration: none; top: 30px; border: 2px solid #FFF; padding: 10px 30px; font-size: 14px }
 #principal, #footer { padding: 20px 0; }
 #principal img { width: 50%; float: right; margin-left: 20px; }
 #principal h1 {color: #F60; background: url(../img/nube-naranja.png) no-repeat left center; padding-left: 30px; margin-bottom: 15px; }
@@ -28,4 +28,4 @@ body { background: url(../img/virus-4835301_1920.jpg) no-repeat top center; font
 #footer {background: #CCC; text-align: center; position: relative;}
 #footer p { color: #555; font-size: 12px;}
 #footer img {position: absolute; right: 5px; top 50%; margin-top: -8px}
-#redes { position: fixed; right: 0; top: 410px; width: 36px}
+#redes { position: absolute; right: 0; top: 410px; width: 36px}
