@@ -2,8 +2,8 @@
 body { background: url(../img/fondo_cabecera.jpg.png) no-repeat top center; font-family: arial, helvetica, sans-serif; }
 #contenedor { width: 80%; margin: 0 auto;}
 #cabecera { position: relative; padding-top: 20px; }
-#logo img{ padding: 1% 1%; width: 10%;}
-#menu { width: 100%; display: inline-block; text-align: center; }
+#logo img { padding: 1% 1%; width: 10%;}
+#menu { width: 100%; text-align: center;}
 #menu ul { list-style-type: none; }
 #menu ul li { display: inline-block; }
 #menu ul li a { color: white; text-decoration: none; padding: 5px 15px; font-size: 24px; }
