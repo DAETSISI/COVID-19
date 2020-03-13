@@ -5,7 +5,7 @@
 a:link, a:visited, a:hover, a:active {
 ;
   color: white;
-  padding: 14px 20px;
+  padding: 14px 18px;
   text-align: left;
   display: inline-block;
 }
@@ -13,18 +13,32 @@ a:link, a:visited, a:hover, a:active {
 #cabecera {
    
     color: white;
+    width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+	left: 0; /* Posicionamos la cabecera al lado izquierdo */
+	top: 0; /* Posicionamos la cabecera pegada arriba */
+	position: fixed; /* Hacemos que la cabecera tenga una posición fija */
     
     background: url(../img/virus-4835301_1920.jpg);
-    height: 250px;
-    width: 1000px;
-    font-size: px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    /*background-attachment: fixed;/*Fija la imagen, determinar si la quiero*/*/ 
 }
 
 #mensaje{
-    padding-top: 20px;
+    padding-top: 60px;
     padding-bottom: 0px;
+    position: sticky;
+    
 }
 
+#cuerpo {
+   
+	 /* Hacemos que la cabecera tenga una posición fija */
+    position: absolute;
+    padding-top: 110px;
+    
+}
 h1 {
     font-size: 50px;
     text-align: center;
@@ -44,5 +58,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#About{
+    background-color: black;
+    color: white;
+}
 
 
