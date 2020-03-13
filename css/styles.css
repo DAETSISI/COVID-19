@@ -23,4 +23,4 @@ body { background: url(../img/fondo.jpg) no-repeat center center fixed; backgrou
 #footer {background: #CCC; text-align: center; position: relative; top: 2000px}
 #footer p { color: #555; font-size: 12px;}
 #footer img {position: absolute; right: 5px; top 50%; margin-top: -8px}
-#redes { position: absolute; right: 0; top: 410px; right: 200px; width: 36px;}
+#redes { position: absolute; right: 0; top: 410px; width: 36px}
