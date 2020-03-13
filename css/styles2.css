@@ -1,0 +1,120 @@
+body{
+    font-family: Arial, helvetica, sans-serif;
+    color: #333;
+    font-size: 1.3rem;
+    line-height: 1.4em; /*MIrar el font-size y la line-height*/
+    margin: 0;
+   
+}
+
+h1{
+    font-size: 2rem;
+    line-height: 1.3em;
+}
+
+p{
+    margin-bottom: 1.6em;
+}
+
+.container{
+    width: 85%;
+    max-width: 850px;
+}
+
+.header{
+    background-image: url("../img/virus-4835301_1920.jpg");
+    background-position: center;
+    color:white;
+    padding: 2rem 0; /*Primer número los de arriba y abajo, segundo número los de la derecha e izquierda.*/
+    position: fixed;
+    left: 0;
+    top: 0;
+    right:0;
+}
+
+.header a{
+    color:white;
+    text-decoration: none; /*Qu no tengan el subrayado cunado pulsas*/
+}
+
+.logo-nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; /*Si un elemento tiene más ancho  que lo pase abajo y no le fuerce a estar al lado.*/
+}
+
+.logo {
+    letter-spacing: 1px;
+    font-size: 1.3em;
+    
+}
+
+
+.navigation ul{
+    margin:0;
+    padding:0;
+    list-style:none; /*Ni elementos de lista ni padding dentro de los propios contenidos*/
+}
+
+    .navigation ul li{
+        display: inline-block;
+    }
+
+        .navigation ul li a{
+            display:block;
+            padding: 0.5rem 1rem;
+            transition: all 0.4s linear; /*Por lo que visualizo es lo que haces que tarde*/
+            
+        }
+
+            .navigation ul li a:hover{
+                background: #da2427;
+            }
+
+main{
+    padding-top:12rem;
+}
+
+.card{
+    
+}
+.footer{
+    background: #f2f2f2;
+    padding: 4rem;
+    text-align: center;
+    margin-top: 6rem;
+}
+
+/*@media only screen and (max-width: 767px)    /*Aplicas estos estilos cuando el máximo de la pantalla sea lo puesto (IPAD)
+
+.menu-icon{
+        display:block;
+        cursor: pointer;
+        padding: 0.5rem 1rem;
+}
+    
+.navigation {
+        width: 100%;
+}
+
+.navigation ul{
+    display:none;
+    }
+
+    .navigation ul li { 
+        display: block;
+        margin: 1rem;
+    }
+
+        .navigation ul li a{
+            display:block;
+            padding: 0.5rem 0;
+            transition: all 0.4s linear; Por lo que visualizo es lo que haces que tarde
+            
+        }
+
+            .navigation ul li a:hover{
+                background: #da2427;
+            }
+*/
