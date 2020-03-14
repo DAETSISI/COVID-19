@@ -24,17 +24,21 @@ p{
 .header{
     background-image: url("../img/virus-4835301_1920.jpg");
     background-position: center;
+    background-attachment: fixed;
     color:white;
-    padding: 2rem 0; /*Primer número los de arriba y abajo, segundo número los de la derecha e izquierda.*/
+    padding: 2.5rem 0; /*Primer número los de arriba y abajo, segundo número los de la derecha e izquierda.*/
     position: fixed;
     left: 0;
     top: 0;
-    right:0;
+    width: 100%;
+    text-align: center;
+    z-index: 3; /*Establece que el orden de prioridad es mayor que las cajas del bootstraap.*/
 }
 
 .header a{
     color:white;
     text-decoration: none; /*Qu no tengan el subrayado cunado pulsas*/
+
 }
 
 .logo-nav-container{
@@ -42,12 +46,6 @@ p{
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap; /*Si un elemento tiene más ancho  que lo pase abajo y no le fuerce a estar al lado.*/
-}
-
-.logo {
-    letter-spacing: 1px;
-    font-size: 1.3em;
-    
 }
 
 
@@ -69,18 +67,16 @@ p{
         }
 
             .navigation ul li a:hover{
-                background: #da2427;
+                background: #005a8e	;
             }
 
 main{
-    padding-top:12rem;
+    padding-top:10rem;
+    background-position: center;
 }
 
-.card{
-    
-}
 .footer{
-    background: #f2f2f2;
+    background: #0699db;
     padding: 4rem;
     text-align: center;
     margin-top: 6rem;

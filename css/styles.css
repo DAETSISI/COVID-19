@@ -19,7 +19,7 @@ a:link, a:visited, a:hover, a:active {
 	position: fixed; /* Hacemos que la cabecera tenga una posición fija */
     
     background: url(../img/virus-4835301_1920.jpg);
-    background-position: center center;
+    position: center center;
     background-repeat: no-repeat;
     background-size:cover;
     /*background-attachment: fixed;/*Fija la imagen, determinar si la quiero*/*/ 
