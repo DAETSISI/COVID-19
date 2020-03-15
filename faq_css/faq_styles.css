@@ -22,7 +22,7 @@ p{
 }
 
 .header{
-    background-image: url("../img/virus-4835301_1920.jpg");
+    background-image: url("../faq_img/faq_covid19.jpg");
     background-position: center;
     background-attachment: fixed;
     color:white;
@@ -76,41 +76,10 @@ main{
 }
 
 .footer{
-    background: #0699db;
+    background: black;
+    color: white;
     padding: 4rem;
     text-align: center;
     margin-top: 6rem;
 }
 
-/*@media only screen and (max-width: 767px)    /*Aplicas estos estilos cuando el máximo de la pantalla sea lo puesto (IPAD)
-
-.menu-icon{
-        display:block;
-        cursor: pointer;
-        padding: 0.5rem 1rem;
-}
-    
-.navigation {
-        width: 100%;
-}
-
-.navigation ul{
-    display:none;
-    }
-
-    .navigation ul li { 
-        display: block;
-        margin: 1rem;
-    }
-
-        .navigation ul li a{
-            display:block;
-            padding: 0.5rem 0;
-            transition: all 0.4s linear; Por lo que visualizo es lo que haces que tarde
-            
-        }
-
-            .navigation ul li a:hover{
-                background: #da2427;
-            }
-*/
