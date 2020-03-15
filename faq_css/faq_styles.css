@@ -1,0 +1,85 @@
+body{
+    font-family: Arial, helvetica, sans-serif;
+    color: #333;
+    font-size: 1.3rem;
+    line-height: 1.4em; /*MIrar el font-size y la line-height*/
+    margin: 0;
+   
+}
+
+h1{
+    font-size: 2rem;
+    line-height: 1.3em;
+}
+
+p{
+    margin-bottom: 1.6em;
+}
+
+.container{
+    width: 85%;
+    max-width: 850px;
+}
+
+.header{
+    background-image: url("../faq_img/faq_covid19.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    color:white;
+    padding: 2.5rem 0; /*Primer número los de arriba y abajo, segundo número los de la derecha e izquierda.*/
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 3; /*Establece que el orden de prioridad es mayor que las cajas del bootstraap.*/
+}
+
+.header a{
+    color:white;
+    text-decoration: none; /*Qu no tengan el subrayado cunado pulsas*/
+
+}
+
+.logo-nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; /*Si un elemento tiene más ancho  que lo pase abajo y no le fuerce a estar al lado.*/
+}
+
+
+.navigation ul{
+    margin:0;
+    padding:0;
+    list-style:none; /*Ni elementos de lista ni padding dentro de los propios contenidos*/
+}
+
+    .navigation ul li{
+        display: inline-block;
+    }
+
+        .navigation ul li a{
+            display:block;
+            padding: 0.5rem 1rem;
+            transition: all 0.4s linear; /*Por lo que visualizo es lo que haces que tarde*/
+            
+        }
+
+            .navigation ul li a:hover{
+                background: #005a8e	;
+            }
+
+main{
+    padding-top:10rem;
+    background-position: center;
+}
+
+.footer{
+    background: black;
+    color: white;
+    padding: 4rem;
+    text-align: center;
+    margin-top: 6rem;
+}
+
