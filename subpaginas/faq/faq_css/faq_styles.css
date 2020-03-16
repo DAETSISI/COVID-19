@@ -24,7 +24,6 @@ p{
 .header{
     background-image: url("../faq_img/faq_covid19.jpg");
     background-position: center;
-    background-attachment: fixed;
     color:white;
     padding: 2.5rem 0; /*Primer número los de arriba y abajo, segundo número los de la derecha e izquierda.*/
     position: fixed;
@@ -75,11 +74,16 @@ main{
     background-position: center;
 }
 
+#mensaje{
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
 .footer{
     background: black;
     color: white;
     padding: 4rem;
     text-align: center;
-    margin-top: 6rem;
+    margin-top: 3em;
 }
 
