@@ -78,14 +78,12 @@ main{
     margin-top: 4em;
 }
 .row{
-    padding-left: 7%;
+   
 }
 #Contacto{
     margin-left: 2em;
 }
-.col{
-    margin: 4em;/*Mirar que hace este margin*/
-}
+
 
 #RRSS{
     line-height: 2.5em;
@@ -111,7 +109,7 @@ hr{    /*Conseguir traer el hr hacia delante*/
 #copyRight{   
     text-align: left;
     padding-top: 1em;
-    padding-left: 9%;
+    padding-left: 2em;
     margin:0;
 }
 
