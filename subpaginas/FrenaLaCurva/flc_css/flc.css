@@ -1,7 +1,7 @@
 body{
     font-family: Arial, helvetica, sans-serif;
     font-size: 1.3rem;
-    line-height: 1.4em; /*MIrar el font-size y la line-height*/
+    line-height: 1.4em; /*Mirar el font-size y la line-height*/
     margin: 0;
 }
 
@@ -11,10 +11,10 @@ body{
 }
 
 .header{
-    background-image: url("../faq_img/faq_covid19.jpg");
-    background-position: center;
+    background-image: url("../../../subpaginas/faq/faq_img/faq_covid19.jpg");
+    background-position: center center;
     color:white;
-    padding: 2.5em; /*Primer número los de arriba y abajo, segundo número los de la derecha e izquierda.*/
+    padding: 2em; /*Primer número los de arriba y abajo, segundo número los de la derecha e izquierda.*/
     position: fixed;
     margin:0;
     width: 100%;
@@ -114,3 +114,4 @@ hr{    /*Conseguir traer el hr hacia delante*/
     padding-left: 9%;
     margin:0;
 }
+
