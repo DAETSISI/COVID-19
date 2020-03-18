@@ -29,7 +29,7 @@ body{
 }
 
 .logo-nav-container{
-    display: flex;  /*¿Qué hacía esta propiedad?*/
+    display: flex;  /*¿Qué hacía esta propiedad? -> Trata a los elementos como si fueran texto*/
     justify-content: space-between; /*¿Qué hacía esta propiedad?*/
     flex-wrap: wrap; /*Si un elemento tiene más ancho  que lo pase abajo y no le fuerce a estar al lado.*/
     
@@ -79,17 +79,35 @@ main{
 #Contacto{
     margin-left: 2em;
 }
-.colRRSS{
-    margin-left: 18em;/*Mirar que hace este margin*/
+.col{
+    margin: 4em;/*Mirar que hace este margin*/
 }
 
-.RRSS{
+#RRSS{
     line-height: 2.5em;
+    text-align:justify;
+    
 }
 
-#copyRight{
-    text-align: center;
-    padding-top: 2em;
+#Contacto{
+    text-align: justify;
+}
+
+.RRSS a:link, a:hover, a:visited, a:active{
+    text-decoration:none;
+    color:white;
+}
+
+hr{    /*Conseguir traer el hr hacia delante*/
+    border-top: 50px solid white;
+    height: 0;
+    display: block;
+}
+
+#copyRight{   
+    text-align: left;
+    padding-top: 1em;
+    padding-left:2em;
     margin:0;
 }
 
