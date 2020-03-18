@@ -1,19 +1,8 @@
 body{
     font-family: Arial, helvetica, sans-serif;
-    color: #333;
     font-size: 1.3rem;
     line-height: 1.4em; /*MIrar el font-size y la line-height*/
     margin: 0;
-   
-}
-
-h1{
-    font-size: 2rem;
-    line-height: 1.3em;
-}
-
-p{
-    margin-bottom: 1.6em;
 }
 
 .container{
@@ -25,10 +14,9 @@ p{
     background-image: url("../faq_img/faq_covid19.jpg");
     background-position: center;
     color:white;
-    padding: 2.5rem 0; /*Primer número los de arriba y abajo, segundo número los de la derecha e izquierda.*/
+    padding: 2.5em; /*Primer número los de arriba y abajo, segundo número los de la derecha e izquierda.*/
     position: fixed;
-    left: 0;
-    top: 0;
+    margin:0;
     width: 100%;
     text-align: center;
     z-index: 3; /*Establece que el orden de prioridad es mayor que las cajas del bootstraap.*/
@@ -41,10 +29,10 @@ p{
 }
 
 .logo-nav-container{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    display: flex;  /*¿Qué hacía esta propiedad? -> Trata a los elementos como si fueran texto*/
+    justify-content: space-between; /*¿Qué hacía esta propiedad?*/
     flex-wrap: wrap; /*Si un elemento tiene más ancho  que lo pase abajo y no le fuerce a estar al lado.*/
+    
 }
 
 
@@ -52,6 +40,8 @@ p{
     margin:0;
     padding:0;
     list-style:none; /*Ni elementos de lista ni padding dentro de los propios contenidos*/
+    padding-left: 0em;    /*Intentar encontrar forma de que se ponga en mitad*/
+   
 }
 
     .navigation ul li{
@@ -60,30 +50,64 @@ p{
 
         .navigation ul li a{
             display:block;
-            padding: 0.5rem 1rem;
+            padding: 0.5em 1.5em;
             transition: all 0.4s linear; /*Por lo que visualizo es lo que haces que tarde*/
             
         }
 
             .navigation ul li a:hover{
-                background: #005a8e	;
+                background: darkblue.ligthness();
             }
-
+#mensaje{
+    margin-bottom: 1.5em;
+}
 main{
-    padding-top:10rem;
+    padding-top: 9em;
     background-position: center;
 }
 
-#mensaje{
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
-}
 
 .footer{
     background: black;
     color: white;
-    padding: 4rem;
-    text-align: center;
-    margin-top: 3em;
+    padding: 2em;
+    margin-top: 4em;
+}
+.row{
+    
+}
+#Contacto{
+    margin-left: 2em;
+}
+.col{
+    margin: 4em;/*Mirar que hace este margin*/
+}
+
+#RRSS{
+    line-height: 2.5em;
+    text-align:justify;
+    
+}
+
+#Contacto{
+    text-align: justify;
+}
+
+.RRSS a:link, a:hover, a:visited, a:active{
+    text-decoration:none;
+    color:white;
+}
+
+hr{    /*Conseguir traer el hr hacia delante*/
+    border-top: 50px solid white;
+    height: 0;
+    display: block;
+}
+
+#copyRight{   
+    text-align: left;
+    padding-top: 1em;
+    padding-left:2em;
+    margin:0;
 }
 
