@@ -9,6 +9,19 @@ class NavigationItem {
 	}
 }
 
+function parsedUrlForLocalhost($url) {
+	$whitelist = array(
+		'127.0.0.1',
+		'::1'
+	);
+
+	if($url != '/' && in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
+		return $url . ".php";
+	} else {
+		return $url;
+	}
+}
+
 $requestURI = strtok($_SERVER['REQUEST_URI'], '?');
 
 $navigationSections = [
@@ -20,48 +33,50 @@ $navigationSections = [
 ]
 
 ?>
-<?= $requestURI ?>
-<style type="text/css">
-	.navbar {
-        background: url(../img/navbar-background.jpg) center center;
-        padding-top: 20px;
-		padding-bottom: 20px;
-	}
 
-	.nav-link {
-		color: white !important;
-	}
-
-	.nav-link:hover {
-		color: #EFB810 !important;
-	}
-
-	.nav-item-active {
-		color: #EFB810 !important;
-	}
-
-</style>
-
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark">
-    <a class="navbar-brand" href="/">
-        <img src="img/daetsisi.png" width="30" height="30"
-             alt="">
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-	        <?php
-	        foreach ($navigationSections as $item) {
-	        ?>
-                <li class="nav-item">
-			        <a class="nav-link <?= ($item->url === $requestURI) ? "nav-item-active" : "" ?>" href="<?= $item->url ?>"><?= $item->title ?></span></a>
-		        </li>
-		        <?php
-	        }
-	        ?>
-        </ul>
+<header style="margin-bottom: 20px">
+    <div class="header-area ">
+        <div id="sticky-header" class="main-header-area">
+            <div class="container-fluid p-0">
+                <div class="row align-items-center justify-content-between no-gutters">
+                    <div class="col-xl-2 col-lg-2">
+                        <div class="logo-img">
+                            <a href="/">
+                                <img src="../img/daetsisi-white.png" height="57px" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-xl-7 col-lg-8">
+                        <div class="main-menu d-none d-lg-block">
+                            <nav>
+                                <ul id="navigation">
+	                                <?php
+	                                foreach ($navigationSections as $item) {
+		                                ?>
+                                        <li class="nav-item">
+                                            <a <?= (parsedUrlForLocalhost($item->url) === $requestURI) ? "class=\"active\"" : "" ?> href="<?= parsedUrlForLocalhost($item->url) ?>"><?= $item->title ?></a>
+                                        </li>
+		                                <?php
+	                                }
+	                                ?>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-2 d-none d-lg-block">
+                        <div class="social_media_links">
+                            <ul>
+                                <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
+                                <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
+                                <li><a href="#"> <i class="fa fa-instagram"></i> </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="mobile_menu d-block d-lg-none"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-</nav>
-
+</header>
