@@ -21,12 +21,12 @@ main {
     background-position: center;
 }
 
-.enlaces a{
+a{
     text-decoration:none;
     color:black !important;
 }
 
-.enlaces a:hover{
+a:hover{
     color: #EFB810 !important;
 }
 

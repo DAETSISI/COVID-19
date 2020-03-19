@@ -16,21 +16,13 @@
         text-align:justify;
 
     }
-    #RRSS a:hover {
-        color: #EFB810 !important;
-    }
-
-    #RRSS a:link, a:visited, a:active{
+    #RRSS a{
         color:white;
     }
 
-
-
-    hr{    /*Conseguir traer el hr hacia delante*/
-        border-top: 1px solid white !important;
-        display: block;
+    #RRSS a:hover{
+        color:#EFB810;
     }
-
     #copyRight{
         text-align: left;
     }
@@ -54,18 +46,18 @@
                 <div id="RRSS">
                     <h5>¡Conoce Nuestras Redes Sociales!</h5>
                     <a href="https://twitter.com/dalumETSISI?s=20" alt="Twitter" target="_blank">
-                        <i class="fab fa-twitter"></i> Twitter
+                        <i class="fa fa-twitter"></i> Twitter
                     </a><br>
                     <a href="https://www.instagram.com/dalumetsisi/" alt="Instagram" target="_blank">
-                        <i class="fab fa-instagram"></i> Instagram
+                        <i class="fa fa-instagram"></i> Instagram
                     </a><br>
                     <a href="https://t.me/canaldaetsisi" alt="Canal Telegram" target="_blank">
-                        <i class="fab fa-telegram"></i> Canal de Telegram
+                        <i class="fa fa-telegram"></i> Canal de Telegram
                     </a>
                 </div>
             </div>
         </div>
-        <hr>
+        <hr style="border-top: 1px solid white; display:block">
         <p id="copyRight">&copy;2020 Delegación de Alumnos ETSISI - Todos los derechos reservados</p>
     </div>
 </div>

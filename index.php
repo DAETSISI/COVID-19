@@ -15,7 +15,6 @@
         <div class="col-md-6">
 
         <p id ="IntroduccionCOVID">
-            Queridos compañeros,
             <br> Desde la Delegación de Alumnos hemos habilitado esta plataforma con el objetivo de comunicar de una manera más eficaz y sencilla todas las novedades
             y toda la información disponible que tenemos sobre la situación que estamos viviendo.
             <br>También, podréis trasladarnos vuestras preocupaciones sobre la metodología, material o forma en la que se están gestionando las diferentes asignaturas.
