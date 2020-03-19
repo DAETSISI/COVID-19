@@ -56,7 +56,7 @@ body{
         }
 
             .navigation ul li a:hover{
-                background: darkblue.ligthness();
+                background: darkblue;
             }
 #mensaje{
     margin-bottom: 1.5em;
