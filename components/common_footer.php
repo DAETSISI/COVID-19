@@ -3,12 +3,42 @@
 
 <style type="text/css">
 
+    .footer{
+        background: black;
+        color: white;
+        padding: 2em;
+        margin-top: 4em;
+    }
+
+
+    #RRSS{
+        line-height: 2.5em;
+        text-align:justify;
+
+    }
+    #RRSS a:hover {
+        color: #EFB810 !important;
+    }
+
+    #RRSS a:link, a:visited, a:active{
+        color:white;
+    }
+
+
+
+    hr{    /*Conseguir traer el hr hacia delante*/
+        border-top: 1px solid white !important;
+        display: block;
+    }
+
+    #copyRight{
+        text-align: left;
     }
 
 </style>
 
 <div class="footer">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-6">
                 <div id="Contacto">

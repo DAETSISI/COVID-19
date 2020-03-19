@@ -1,0 +1,43 @@
+
+body{
+    font-family: Arial, helvetica, sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.4em;
+    margin: 0;
+}
+
+.container{
+    width: 85%;
+    max-width: 850px;
+}
+
+#mensaje{
+    margin-bottom: 1.5em;
+}
+
+
+main{
+    padding-top: 5em;
+    background-position: center;
+}
+
+.enlaces a{
+    text-decoration:none;
+    color:black !important;
+}
+
+.enlaces a:hover{
+    color: #EFB810 !important;
+}
+
+/* Página web de Información */
+
+#IntroduccionCOVID{
+    padding-top:1em;
+    text-align:left;
+    color:black;
+}
+
+.row{
+    margin-top:2em;
+}

@@ -39,6 +39,7 @@ $navigationSections = [
 	.nav-item-active {
 		color: #EFB810 !important;
 	}
+
 </style>
 
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark">
@@ -53,7 +54,6 @@ $navigationSections = [
         <ul class="navbar-nav">
 	        <?php
 	        foreach ($navigationSections as $item) {
-
 	        ?>
                 <li class="nav-item">
 			        <a class="nav-link <?= ($item->url === $requestURI) ? "nav-item-active" : "" ?>" href="<?= $item->url ?>"><?= $item->title ?></span></a>
@@ -64,3 +64,4 @@ $navigationSections = [
         </ul>
     </div>
 </nav>
+

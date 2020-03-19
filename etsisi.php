@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale = 1">
 
-    <link rel="stylesheet" type="text/css" href="subpaginas/ETSISI/etsisi_css/etsisi.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
@@ -21,9 +21,50 @@
     <div class="container">
 
         <h1>Medidas de la ETSI Sistemas Informáticos</h1>
+        <p>Desde la Dirección de la Escuela se ha pedido que cada asignatura remita un cronograma en el que se incluya las acciones que se van a tomar. En cada una de las secciones
+            que hemos habilitado para los distintos cursos, podréis encontrar toda la información correspondiente que hemos recopilado hasta ahora.<br></p>
+        <h4 style="padding-top:1em">Información de Asignaturas</h4>
         <hr>
-        <p>Queridos compañeros,<br> Desde la Delegación de Alumnos hemos habilitado esta plataforma con el objetivo de comunicar de una manera más eficaz y sencilla el plan de acción que se está realizando desde la Escuela.
-            También, podréis trasladarnos vuestras preocupaciones sobre la metodología, material o forma en la que se están gestionando las diferentes asignaturas.</p>
+        <div class="row row-cols-1 row-cols-md-2">
+            <div class="col mb-4">
+                <div class="card">
+                    <img src="" class="card-img-top" alt="Logo de la Escuela para Primero">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Primero</h5>
+                        <p class="card-text">Todas las asignaturas de primero, las guías modificadas y los medios que se van a emplear.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="card">
+                    <img src="" class="card-img-top" alt="Logo de la Escuela para Segundo">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Segundo</h5>
+                        <p class="card-text">Todas las asignaturas de segundo, las guías modificadas y los medios que se van a emplear.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="card">
+                    <img src="" class="card-img-top" alt="Logo de la Escuela para Tercero">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Tercero</h5>
+                        <p class="card-text">Todas las asignaturas de tercero, las guías modificadas y los medios que se van a emplear.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="card">
+                    <img src="" class="card-img-top" alt="Logo de la Escuela para Cuarto">
+                    <div class="card-body">
+                        <h5 class="card-title text-center" >Cuarto</h5>
+                        <p class="card-text">Todas las asignaturas de cuarto, las guías modificadas y los medios que se van a emplear.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
 
 
     </div>
