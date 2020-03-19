@@ -16,7 +16,7 @@ body{
 }
 
 
-main{
+main {
     padding-top: 5em;
     background-position: center;
 }
@@ -36,8 +36,4 @@ main{
     padding-top:1em;
     text-align:left;
     color:black;
-}
-
-.row{
-    margin-top:2em;
 }
