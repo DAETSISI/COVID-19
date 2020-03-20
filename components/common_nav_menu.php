@@ -49,7 +49,7 @@ $navigationSections = [
                     <div class="col-xl-7 col-lg-8">
                         <div class="main-menu d-none d-lg-block">
                             <nav>
-                                <ul id="navigation">
+                                <ul id="navigation" style="margin:0px;padding:0px">
 	                                <?php
 	                                foreach ($navigationSections as $item) {
 		                                ?>
@@ -65,7 +65,7 @@ $navigationSections = [
                     </div>
                     <div class="col-xl-3 col-lg-2 d-none d-lg-block">
                         <div class="social_media_links">
-                            <ul>
+                            <ul style="margin:0px;padding:0px">
                                 <li><a href="https://twitter.com/dalumETSISI?s=20" target="_blank" alt="Redirecció Twitter"> <i class="fa fa-twitter"></i> </a></li>
                                 <li><a href="https://www.instagram.com/dalumetsisi/" target="_blank" alt="Redirección Instagram"> <i class="fa fa-instagram"></i> </a></li>
                                 <li><a href="https://t.me/canaldaetsisi" target="_blank" alt="Redirección Canal de Telegram"> <i class="fa fa-telegram"></i> </a></li>

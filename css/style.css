@@ -65,10 +65,10 @@ button {
 }
 
 /* line 56, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
-ul {
+/*ul {
   margin: 0px;
   padding: 0px;
-}
+}*/
 
 /* line 60, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 li {
@@ -573,7 +573,7 @@ h3 {
   position: absolute;
   left: 0;
   right: 0;
-  margin: auto;
+  margin: auto!important;
   top: 0px;
 }
 
