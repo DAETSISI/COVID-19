@@ -331,6 +331,24 @@
                             <li class="list-group-item">
                                 <div class="row">
                                     <div class="col-sm-12"><p class="card-title"><b>
+                                                <a href="./Documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_4.pdf" target="_blank">Cuarto Comunicado del Rector</a></b>
+                                    </div>
+                                    <div class="col-sm-8">
+                                        <p class="card-text fecha" style="margin-bottom: -0.2rem;">20/03/2020</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;">Comunicado del Rector</p>
+                                        <p class="card-text persona" style="margin-bottom: -0.2rem;">Guillermo Cisneros</p>
+                                    </div>
+                                    <div class="col-sm-4" style="text-align: end;">
+                                        <div style="margin-top: 0.8rem;display: inline-block;">
+                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_4.pdf" target="_blank" role="button">Enlace a pdf</a></div>
+                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-danger"">DEROGADO</div>
+                                    </div>
+                                </div>
+                            </li>   <!--Cuarto Comunicado del Rector -->
+
+                            <li class="list-group-item">
+                                <div class="row">
+                                    <div class="col-sm-12"><p class="card-title"><b>
                                                 <a href="./Documentacion/UPM/RECTOR/Resoluciones/Resolución_Rectoral_Suspensión_Elecciones.pdf" target="_blank">Resolución Rectoral sobre la Suspensión de las Elecciones a Rector en la UPM</a></b>
                                     </div>
                                     <div class="col-sm-8">
