@@ -102,7 +102,7 @@
                 </div>
                 <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                     <div class="card-body">
-                        No te preocupes, estos días no cuentan para la beca de comedor ya que no se está realizando seguimiento debido a que la cafetería se encuentra cerrada
+                        No te preocupes, estos días no cuentan para la beca de comedor ya que no se está realizando seguimiento debido a que la cafetería se encuentra cerrada.
                     </div>
                 </div>
             </div>
@@ -192,7 +192,7 @@
                 </div>
                 <div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordionExample">
                     <div class="card-body">
-                        No, la biblioteca se encuentra totalmente cerrada hasta nuevo piso.
+                        No, la biblioteca se encuentra totalmente cerrada hasta nuevo aviso.
                     </div>
                 </div>
             </div>

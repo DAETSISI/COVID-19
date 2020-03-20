@@ -417,7 +417,7 @@
                                     </div>
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
-                                            <a class="btn btn-pdf" target="_blank" href="./Documentacion/UPM/RECTOR/Resoluciones/Resolución_Rectoral_Suspensión_Elecciones.pdf" role="button">Enlace a pdf</a></div>
+                                            <a class="btn btn-pdf" target="_blank" href="./Documentacion/UPM/Vicerrectorados/Comunicado_vicalumnos_deportes.pdf" role="button">Enlace a pdf</a></div>
                                         <div style="display: inline-block;vertical-align:super;">
                                             <div class="btn btn-success">ACTIVO</div>
                                         </div>
@@ -433,7 +433,7 @@
                                     </div>
                                     <div class="col-sm-8">
                                         <p class="card-text fecha" style="margin-bottom: -0.2rem;">13/03/2020</p>
-                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;">Comunicado de Prensa</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;">Vicerrectorado de Estrategia Académica e Internacionalización</p>
                                         <p class="card-text órgano" style="margin-bottom: -0.2rem;">José Miguel Atienza</p>
                                     </div>
                                     <div class="col-sm-4" style="text-align: end;">

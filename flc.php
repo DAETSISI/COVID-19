@@ -10,6 +10,7 @@
 <main class="main">
     <h1 class="text-center">Frena la Curva</h1>
     <div class="container">
+
         <p>Cupidatat familiaritatem ita consequat et aliquip ex amet senserit. Malis hic
             arbitror de legam. Irure nescius reprehenderit, aut est cillum mentitum et legam
             offendit ea adipisicing, do senserit consectetur. Aliquip quae fugiat qui culpa
