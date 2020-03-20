@@ -6,7 +6,21 @@
 <body>
 
 <?php include 'components/common_nav_menu.php'; ?>
+<style>
+    ul{
+        padding-top:0.5em;
+    }
 
+    #lista a:hover{
+        color: #EFB810;
+    }
+
+    #lista a:link,a:visited,a:active{
+        color: black;
+    }
+
+
+</style>
 <main class="main">
     <h1 class="text-center">Información General</h1>
 
@@ -30,18 +44,19 @@
             </p>
 
             <hr style="border-top: 1px solid black !important; display:block">
-            Finalmente puedes encontrar más información oficial a través de los siguientes enlaces:
-            <ul class="enlaces">
+            Finalmente puedes encontrar más información oficial a través de los siguientes enlaces:<br>
+            <ul id="lista">
                 <li><a href="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm" target="_blank"</li>Ministerio de Sanidad<a/>
                 <li><a href="https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus" target="_blank"</li>Comunidad de Madrid</a>
                 <li><a href="http://www.upm.es/UPM/SalaPrensa/NoticiasPortada/Avisos" target="_blank"</li>Universidad Politécnica de Madrid</a>
+                <li><a href="https://www.esn-spain.org/news/comunicado-coronavirus" target="_blank"</li>Erasmus Student Network Spain</a>
             </ul>
         </p>
 
 
         </div>
 
-        <div class="col-md-6">
+        <div class="col-md-6" style="padding-top:1em">
             <a class="twitter-timeline" href="https://twitter.com/dalumETSISI/timelines/1240621718659633155?ref_src=twsrc%5Etfw">COVID-19 - Curated tweets by dalumETSISI</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
         </div>

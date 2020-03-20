@@ -66,9 +66,9 @@ $navigationSections = [
                     <div class="col-xl-3 col-lg-2 d-none d-lg-block">
                         <div class="social_media_links">
                             <ul>
-                                <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
-                                <li><a href="#"> <i class="fa fa-instagram"></i> </a></li>
+                                <li><a href="https://twitter.com/dalumETSISI?s=20" target="_blank" alt="Redirecció Twitter"> <i class="fa fa-twitter"></i> </a></li>
+                                <li><a href="https://www.instagram.com/dalumetsisi/" target="_blank" alt="Redirección Instagram"> <i class="fa fa-instagram"></i> </a></li>
+                                <li><a href="https://t.me/canaldaetsisi" target="_blank" alt="Redirección Canal de Telegram"> <i class="fa fa-telegram"></i> </a></li>
                             </ul>
                         </div>
                     </div>
