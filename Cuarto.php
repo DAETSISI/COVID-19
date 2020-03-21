@@ -152,15 +152,32 @@
                     <div class="card-header">
                         <h3>Inglés Nivel Avanzado</h3>
                     </div>
+
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-7">
                                 <p class="card-text">
-                                    Docencia Telemática:
+                                    <b>Docencia Telemática:</b> Clases mediante zoom, teams.
                                 <hr>
-                                Material de Estudio:
+                                <b>Actividades Prácticas:</b>
+                                <hr>
+                                <b>Evaluación Continua:</b>
+                                <ul>
+                                    <lh></lh>
+                                    <hr>
+                                    <li>Examen 1: 25% (Cancelado)</li>
+                                    <li>Examen 2: 25% (Cancelado)</li>
+                                    <li>Examen Final: 50%</li>
+                                    <li></li>
+                                </ul>
+                                <hr>
+                                <b>Recursos Didácticos:</b> Moodle(Recursos Web y Foro). Vídeos explicativos de páginas web.
+                                <hr>
+                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/Inglés-Medio-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <hr>
                                 </p>
                             </div>
+
                             <div class="col-md-5">
                                 <h5 class="card-title">¡Dános tu Opión!</h5>
                                 <p class="card-text">
