@@ -35,14 +35,14 @@ $navigationSections = [
 ?>
 
 <header style="margin-bottom: 20px">
-    <div class="header-area ">
+    <div class="header-area">
         <div id="sticky-header" class="main-header-area">
             <div class="container-fluid p-0">
                 <div class="row align-items-center justify-content-between no-gutters">
                     <div class="col-xl-2 col-lg-2">
                         <div class="logo-img">
-                            <a href="/">
-                                <img src="../img/daetsisi-white.png" height="57px" alt="">
+                            <a href="/" class="logo-img-child">
+                                <img src="../img/header-image.png" class="logo-img-child" alt="">
                             </a>
                         </div>
                     </div>
