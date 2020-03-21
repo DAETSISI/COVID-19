@@ -11,6 +11,15 @@
     .card-header{
         text-align:center;
     }
+
+    .btn {
+        border: 0px;
+    }
+    .btn:focus{
+        outline: 0;
+        box-shadow: 0 0 0 0rem rgba(0,0,0,0);
+        color:black;
+    }
 </style>
 <body>
 

@@ -20,6 +20,8 @@
         color:#EFB810;
         text-align: center;
     }
+
+
 </style>
 <main class="main">
     <h1 class="text-center">Medidas de la ETSI Sistemas Informáticos</h1>
