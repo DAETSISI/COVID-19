@@ -4,7 +4,6 @@
 
 .container{
   width: 85%;
-  max-width: 850px;
 }
 .flex-center-start {
   display: -webkit-box;
@@ -41,12 +40,6 @@ a:focus,
 .button:focus, button:focus {
   text-decoration: none;
   outline: none;
-}
-
-/* line 27, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
-a:focus {
-  color: #fff;
-  text-decoration: none;
 }
 
 /* line 31, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */

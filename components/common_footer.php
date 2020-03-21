@@ -3,58 +3,56 @@
 
 <style type="text/css">
 
-    .footer{
+    .footer {
         background: black;
         color: white;
         padding: 2em;
         margin-top: 4em;
     }
 
-    #RRSS{
-        line-height: 2.5em;
-        text-align:justify;
-
-    }
-    #RRSS a{
-        color:white;
+    .footer a {
+        color: #ffffff;
+        text-decoration: none;
     }
 
-    #RRSS a:hover{
-        color:#EFB810;
+    .footer a:hover {
+        color: #EFB810;
+        text-decoration: none;
     }
-    #copyRight{
+
+    #copyRight {
         text-align: left;
     }
-
-
 </style>
 
 <div class="footer">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-6">
-                <div id="Contacto">
-                    <h5>Contacto</h5>
-                    <p><strong>Delegación de Alumnos ETSISI</strong><br/>
-                        <strong>Universidad Politécnica de Madrid</strong><br/>
-                        <strong>Teléfono:</strong> 91 067 35 19<br/>
-                        <strong>Email:</strong> dalum.etsisi@gmail.com<br/>
-                        <strong>Web:</strong> daetsisi.es</p>
+                <h3>Contacto</h3>
+                <div>
+                    <b>Delegación de Alumnos ETSISI</b>
+                    <br>
+                    <b>Universidad Politécnica de Madrid</b>
+                    <br>
+                    <b>Teléfono:</b> 91 067 35 19
+                    <br>
+                    <b>Email:</b> <a href="mailto:dalum.etsisi@gmail.com">dalum.etsisi@gmail.com</a>
+                    <br>
+                    <b>Web:</b> <a href="https://daetsisi.es" target="_blank">daetsisi.es</a>
                 </div>
             </div>
-            <div class="col-md-6">
-                <div id="RRSS">
-                    <h5>¡Conoce Nuestras Redes Sociales!</h5>
-                    <a href="https://twitter.com/dalumETSISI?s=20" alt="Twitter" target="_blank">
-                        <i class="fa fa-twitter"></i> Twitter
-                    </a><br>
-                    <a href="https://www.instagram.com/dalumetsisi/" alt="Instagram" target="_blank">
-                        <i class="fa fa-instagram"></i> Instagram
-                    </a><br>
-                    <a href="https://t.me/canaldaetsisi" alt="Canal Telegram" target="_blank">
-                        <i class="fa fa-telegram"></i> Canal de Telegram
-                    </a>
-                </div>
+            <div class="col-md-6" style="line-height: 2.5em;">
+                <h3>¡Conoce Nuestras Redes Sociales!</h3>
+                <a href="https://twitter.com/dalumETSISI?s=20" alt="Twitter" target="_blank">
+                    <i class="fa fa-twitter"></i> Twitter
+                </a><br>
+                <a href="https://www.instagram.com/dalumetsisi/" alt="Instagram" target="_blank">
+                    <i class="fa fa-instagram"></i> Instagram
+                </a><br>
+                <a href="https://t.me/canaldaetsisi" alt="Canal Telegram" target="_blank">
+                    <i class="fa fa-telegram"></i> Canal de Telegram
+                </a>
             </div>
         </div>
         <hr style="border-top: 1px solid white; display:block">

@@ -54,7 +54,7 @@ $navigationSections = [
 	                                foreach ($navigationSections as $item) {
 		                                ?>
                                         <li class="nav-item">
-                                            <a <?= (parsedUrlForLocalhost($item->url) === $requestURI) ? "class=\"active\"" : "" ?> href="<?= parsedUrlForLocalhost($item->url) ?>"><?= $item->title ?></a>
+                                            <a <?= (parsedUrlForLocalhost($item->url) === $requestURI) ? "class=\"active\"" : "" ?> href="<?= parsedUrlForLocalhost($item->url) ?>" style="text-decoration: none;"><?= $item->title ?></a>
                                         </li>
 		                                <?php
 	                                }

@@ -1,5 +1,5 @@
 <head>
-    <Title>COVID-19</Title>
+    <Title>DA-ETSISI: Información académica COVID-19</Title>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale = 1">
@@ -14,4 +14,5 @@
     <link rel="stylesheet" href="../css/flaticon.css">
     <link rel="stylesheet" href="../css/slicknav.css">
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/main.css">
 </head>
