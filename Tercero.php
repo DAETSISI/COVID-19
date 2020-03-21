@@ -202,33 +202,51 @@
                     </div>  <!--Construcción y Diseño de Interfaces Gráficas de Usuario -->
 
                     <div class="row">
-                            <div class="col-md-12">
-                                <div class="card">
-                                    <div class="card-header">
-                                        <h3>Evolución y Mantenimiento del Software</h3>
-                                    </div>
-                                    <div class="card-body">
-                                        <div class="row">
-                                            <div class="col-md-7">
-                                                <p class="card-text">
-                                                    Docencia Telemática:
+                        <div class="col-md-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3>Evolución y Mantenimiento del Software</h3>
+                                </div>
+
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-7">
+                                            <p class="card-text">
+                                                <b>Docencia Telemática:</b> Clases magistrales grabadas en vídeos. Tutorías grupales por Teams.
+                                            <hr>
+                                            <b>Actividades Prácticas:</b> Laboratorios guiados paso a paso.
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
                                                 <hr>
-                                                Material de Estudio:
-                                                </p>
-                                            </div>
-                                            <div class="col-md-5">
-                                                <h5 class="card-title">¡Dános tu Opión!</h5>
-                                                <p class="card-text">
-                                                    Docencia Telemática:<br>
-                                                <hr>
-                                                Material de Estudio:
-                                                </p>
-                                            </div>
+                                                <li>Trabajo 1: 10%</li>
+                                                <li>Trabajo 2 Test Git/Github : 15%</li>
+                                                <li>Trabajo 3 Patrones de mantenibilidad: 15%</li>
+                                                <li>Reingeniería de un Sistema Legado: 30%</li>
+                                                <li>Test Global de la Asignatura: 30%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle (Recursos Web y Chat).
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/EMS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
+                                            </p>
+                                        </div>
+
+                                        <div class="col-md-5">
+                                            <h5 class="card-title">¡Dános tu Opión!</h5>
+                                            <p class="card-text">
+                                                Docencia Telemática:<br>
+                                            <hr>
+                                            Material de Estudio:
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>  <!--Evolución y Mantenimiento del Software -->
+                        </div>
+                    </div>  <!--Evolución y Mantenimiento del Software -->
 
                     <div class="row">
                         <div class="col-md-12">
@@ -861,21 +879,36 @@
                     </div>  <!--Redes Avanzadas -->
 
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h3>Computación Ubicua, móvil y en la nube</h3>
+                                    <h3>Computación Ubícua, móvil y en la nube</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b> Lecciones magistrales
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b> Prácticas de tipo laboratorio, vía teleconferencia o vídeos.
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Exposición Oral de la Práctica: 20%</li>
+                                                <li>Evaluación Práctica: 20%</li>
+                                                <li>Evaluación Ejercicios Cloud: 60%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle (Recursos Web). Apuntes del curso elaborados por los profesores.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/Computación-ubicua-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -888,8 +921,7 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>  <!--Computación Ubícua, móvil y en la nube -->
+                    </div>   <!--Computación Ubícua, móvil y en la nube -->
 
                     <div class="row">
                         <div class="col-md-12">

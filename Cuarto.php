@@ -40,19 +40,21 @@
                                 <p class="card-text">
                                     <b>Docencia Telemática:</b>
                                 <hr>
-                                <b>Actividades Prácticas:</b>
+                                <b>Actividades Prácticas:</b> Las tareas se subirán al Moodle.
                                 <hr>
-                                <b>Criterios de evaluación:</b>
+                                <b>Evaluación Continua:</b>
                                 <ul>
-                                    <lh>Convocatoria Ordinaria</lh>
+                                    <lh></lh>
                                     <hr>
-                                    <li>Implementación de un Servicio: 40%</li>
-                                    <li>Proyecto Final: 60%</li>
+                                    <li>Informa Técnico: 20%</li>
+                                    <li>Presentación: 10%</li>
+                                    <li>Presentación Oral: 20%</li>
+                                    <li>Examen: 50%</li>
                                 </ul>
                                 <hr>
-                                <b>Recursos Didácticos:</b> Academic writing
+                                <b>Recursos Didácticos:</b> Moodle. Material complementario.
                                 <hr>
-                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/AOS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/EPAC-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                 <hr>
                                 </p>
                             </div>
@@ -106,15 +108,30 @@
                     <div class="card-header">
                         <h3>Inglés Nivel Medio</h3>
                     </div>
+
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-7">
                                 <p class="card-text">
-                                    Docencia Telemática:
+                                    <b>Docencia Telemática:</b> Los contenidos se ven online por Moodle
                                 <hr>
-                                Material de Estudio:
+                                <b>Actividades Prácticas:</b>
+                                <hr>
+                                <b>Evaluación Continua:</b>
+                                <ul>
+                                    <lh></lh>
+                                    <hr>
+                                    <li>Pruebas sumativas: 50%</li>
+                                    <li>Prueba final: 50%</li>
+                                </ul>
+                                <hr>
+                                <b>Recursos Didácticos:</b> Moodle. Recursos Web.
+                                <hr>
+                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/Inglés-Medio-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <hr>
                                 </p>
                             </div>
+
                             <div class="col-md-5">
                                 <h5 class="card-title">¡Dános tu Opión!</h5>
                                 <p class="card-text">
@@ -164,15 +181,31 @@
                     <div class="card-header">
                         <h3>Tecnologías de Desarrollo para Web</h3>
                     </div>
+
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-7">
                                 <p class="card-text">
-                                    Docencia Telemática:
+                                    <b>Docencia Telemática:</b> Clases magistrales grabadas en vídeo, tutoriales interactivos. Tutorías online.
                                 <hr>
-                                Material de Estudio:
+                                <b>Actividades Prácticas:</b> Práctica guiada no evaluable.
+                                <hr>
+                                <b>Criterios de evaluación:</b>
+                                <ul>
+                                    <lh>Convocatoria Ordinaria</lh>
+                                    <hr>
+                                    <li>Asistencia y participación en el aula: 5%</li>
+                                    <li>Evaluación de Actividades prácticas: 90%</li>
+                                    <li>Evaluación de Test: 5%</li>
+                                </ul>
+                                <hr>
+                                <b>Recursos Didácticos:</b> Moodle de la Asignatura.
+                                <hr>
+                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/TDW-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <hr>
                                 </p>
                             </div>
+
                             <div class="col-md-5">
                                 <h5 class="card-title">¡Dános tu Opión!</h5>
                                 <p class="card-text">
@@ -229,7 +262,7 @@
                     </div>
                 </div>
             </div>
-        </div>   <!--Arquitecturas Orientadas a Servicios -->
+        </div>  <!--Arquitecturas Orientadas a Servicios -->
 
         <div class="row">
             <div class="col-md-12">
@@ -275,7 +308,7 @@
                     </div>
                 </div>
             </div>
-        </div>    <!--Procesamiento Digital de la Señal -->
+        </div>  <!--Procesamiento Digital de la Señal -->
 
         <div class="row">
             <div class="col-md-12">
