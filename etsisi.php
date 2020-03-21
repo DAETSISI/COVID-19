@@ -36,11 +36,7 @@
             <div class="col mb-4">
                 <a href="./Primero.php" target="_blank">
                 <div class="card">
-                    <img src="" class="card-img-top" alt="Logo de la Escuela para Primero">
-                    <div class="card-body">
-                        <h5 class="card-title text-center">Primero</h5>
-                        <p class="card-text">Todas las asignaturas de primero, las guías modificadas y los medios que se van a emplear.</p>
-                    </div>
+                    <img src="./img/1.png" class="card-img-top" alt="Logo de la Escuela para Primero">
                 </div>
                 </a>
 
@@ -49,11 +45,7 @@
             <div class="col mb-4">
                 <a href="./Segundo.php" target="_blank">
                 <div class="card">
-                    <img src="" class="card-img-top" alt="Logo de la Escuela para Segundo">
-                    <div class="card-body">
-                        <h5 class="card-title text-center">Segundo</h5>
-                        <p class="card-text">Todas las asignaturas de segundo, las guías modificadas y los medios que se van a emplear.</p>
-                    </div>
+                    <img src="./img/2.png" class="card-img-top" alt="Logo de la Escuela para Segundo">
                 </div>
                 </a>
             </div>
@@ -61,11 +53,7 @@
             <div class="col mb-4">
                 <a href="./Tercero.php" target="_blank">
                 <div class="card">
-                    <img src="" class="card-img-top" alt="Logo de la Escuela para Tercero">
-                    <div class="card-body">
-                        <h5 class="card-title text-center">Tercero</h5>
-                        <p class="card-text">Todas las asignaturas de tercero, las guías modificadas y los medios que se van a emplear.</p>
-                    </div>
+                    <img src="./img/3.png" class="card-img-top" alt="Logo de la Escuela para Tercero">
                 </div>
                 </a>
             </div>
@@ -73,11 +61,7 @@
             <div class="col mb-4">
                 <a href="./Cuarto.php" target="_blank">
                 <div class="card">
-                    <img src="" class="card-img-top" alt="Logo de la Escuela para Cuarto">
-                    <div class="card-body">
-                        <h5 class="card-title text-center" >Cuarto</h5>
-                        <p class="card-text">Todas las asignaturas de cuarto, las guías modificadas y los medios que se van a emplear.</p>
-                    </div>
+                    <img src="./img/4.png" class="card-img-top" alt="Logo de la Escuela para Cuarto">
                 </div>
                 </a>
             </div>
