@@ -88,7 +88,7 @@
                                                 <li>Examen: 30%</li>
                                             </ul>
                                             <hr>
-                                            <b>Recursos Didácticos:</b> Moodle Asignatura. Contenido de Consulta Online.
+                                            <b>Recursos Didácticos:</b> Moodle de la Asignatura. Contenido de Consulta Online.
                                             <hr>
                                             <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/ADS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
@@ -526,7 +526,7 @@
 
                                             </ul>
                                             <hr>
-                                            <b>Recursos Didácticos:</b> Moodle (Recursos web), docencia vía TEAMS.
+                                            <b>Recursos Didácticos:</b> Moodle (Recursos web), docencia vía Teams.
                                             <hr>
                                             <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/Mejores-Practicas-para-gestion-de-Servicios-cornograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
@@ -668,7 +668,7 @@
                                             <p class="card-text">
                                                 <b>Docencia Telemática:</b> Vídeos sobre la Teoría.
                                             <hr>
-                                            <b>Actividades Prácticas:</b> Tutoriales sobre el enfoque para el desarrollo de la práctica.Foro y chat de Moodle.
+                                            <b>Actividades Prácticas:</b> Tutoriales sobre el enfoque para el desarrollo de la práctica. Foro y chat de Moodle.
                                             <hr>
                                             <b>Criterios de evaluación:</b>
                                             <ul>
@@ -851,7 +851,7 @@
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h3>Computación Ubícua, móvil y en la nube</h3>
+                                    <h3>Computación Ubicua, móvil y en la nube</h3>
                                 </div>
 
                                 <div class="card-body">
@@ -890,7 +890,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>   <!--Computación Ubícua, móvil y en la nube -->
+                    </div>   <!--Computación Ubicua, móvil y en la nube -->
 
                     <div class="row">
                         <div class="col-md-12">

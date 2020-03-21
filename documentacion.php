@@ -73,9 +73,7 @@
                                         </div>
                                         <div class="col-sm-4" style="text-align: end;">
                                             <div style="margin-top: 0.8rem;display: inline-block;">
-                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/ESTADO/BOE_Declaració_Estado_de_Alarma.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                            <div style="display: inline-block;vertical-align:super;">
-                                                <div class="btn btn-success">ACTIVO</div>
+                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/ESTADO/BOE_Declaració_Estado_de_Alarma.pdf" role="button" target="_blank">Enlace a pdf</a>
                                             </div>
                                         </div>
                                     </div>
@@ -94,8 +92,8 @@
                                         </div>
                                         <div class="col-sm-4" style="text-align: end;">
                                             <div style="margin-top: 0.8rem;display: inline-block;">
-                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/CAM/Comunicado_Presidenta_Comunidad_Madrid.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                            <div style="display: inline-block;vertical-align: super;"><div class="btn btn-danger" sytle="background-color:red">DEROGADO</div></div>
+                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/CAM/Comunicado_Presidenta_Comunidad_Madrid.pdf" role="button" target="_blank">Enlace a pdf</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </li>    <!--Primer Comunicado de la Presidenta de la Comunidad de Madrid -->
@@ -112,8 +110,8 @@
                                         </div>
                                         <div class="col-sm-4" style="text-align: end;">
                                             <div style="margin-top: 0.8rem;display: inline-block;">
-                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/CAM/BOCM_10_de_Marzo_medidas_preventivas.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                            <div style="display: inline-block;vertical-align: super;"><div class="btn btn-success"">ACTIVO</div>
+                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/CAM/BOCM_10_de_Marzo_medidas_preventivas.pdf" role="button" target="_blank">Enlace a pdf</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </li>    <!--BOCM del 10 de Marzo - Medidas preventivas -->
@@ -130,11 +128,29 @@
                                         </div>
                                         <div class="col-sm-4" style="text-align: end;">
                                             <div style="margin-top: 0.8rem;display: inline-block;">
-                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/CAM/BOCM_11_de_Marzo.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                            <div style="display: inline-block;vertical-align: super;"><div class="btn btn-success"">ACTIVO</div>
+                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/CAM/BOCM_11_de_Marzo.pdf" role="button" target="_blank">Enlace a pdf</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </li>   <!--BOCM del 11 de Marzo -->
+
+                                <li class="list-group-item">
+                                    <div class="row">
+                                        <div class="col-sm-12"><p class="card-title"><b>
+                                                    <a href="./Documentacion/CAM-ESTATAL/CAM/BOCM_13_de_Marzo.pdf" target="_blank">BOCM 11 de Marzo de 2020</a></b>
+                                        </div>
+                                        <div class="col-sm-8">
+                                            <p class="card-text fecha" style="margin-bottom: -0.2rem;">11/03/2020</p>
+                                            <p class="card-text órgano" style="margin-bottom: -0.2rem;">Boletín Oficial de la Comunidad de Madrid</p>
+                                            <p class="card-text órgano" style="margin-bottom: -0.2rem;">Comunidad de Madrid</p>
+                                        </div>
+                                        <div class="col-sm-4" style="text-align: end;">
+                                            <div style="margin-top: 0.8rem;display: inline-block;">
+                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/CAM/BOCM_13_de_Marzo.pdf" role="button" target="_blank">Enlace a pdf</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>   <!--BOCM del 13 de Marzo -->
 
                                 <li class="list-group-item">
                                     <div class="row">
@@ -148,9 +164,7 @@
                                         </div>
                                         <div class="col-sm-4" style="text-align: end;">
                                             <div style="margin-top: 0.8rem;display: inline-block;">
-                                                <a class="btn btn-pdf" href="Documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_ERASMUS_19_03_2020.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                            <div style="display: inline-block;vertical-align:super;">
-                                                <div class="btn btn-success">ACTIVO</div>
+                                                <a class="btn btn-pdf" href="Documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_ERASMUS_19_03_2020.pdf" role="button" target="_blank">Enlace a pdf</a>
                                             </div>
                                         </div>
                                     </div>
@@ -168,9 +182,7 @@
                                         </div>
                                         <div class="col-sm-4" style="text-align: end;">
                                             <div style="margin-top: 0.8rem;display: inline-block;">
-                                                <a class="btn btn-pdf" href="Documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_Erasmus_16_03_2020.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                            <div style="display: inline-block;vertical-align:super;">
-                                                <div class="btn btn-danger">DEROGADO</div>
+                                                <a class="btn btn-pdf" href="Documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_Erasmus_16_03_2020.pdf" role="button" target="_blank">Enlace a pdf</a>
                                             </div>
                                         </div>
                                     </div>
@@ -188,9 +200,7 @@
                                         </div>
                                         <div class="col-sm-4" style="text-align: end;">
                                             <div style="margin-top: 0.8rem;display: inline-block;">
-                                                <a class="btn btn-pdf" href="Documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_ERASMUS_10_03_2020.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                            <div style="display: inline-block;vertical-align:super;">
-                                                <div class="btn btn-danger">DEROGADO</div>
+                                                <a class="btn btn-pdf" href="Documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_ERASMUS_10_03_2020.pdf" role="button" target="_blank">Enlace a pdf</a>
                                             </div>
                                         </div>
                                     </div>
@@ -208,9 +218,7 @@
                                         </div>
                                         <div class="col-sm-4" style="text-align: end;">
                                             <div style="margin-top: 0.8rem;display: inline-block;">
-                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/SEPIE/SEPIE_pautas_actuacion.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                            <div style="display: inline-block;vertical-align:super;">
-                                                <div class="btn btn-success">ACTIVO</div>
+                                                <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/SEPIE/SEPIE_pautas_actuacion.pdf" role="button" target="_blank">Enlace a pdf</a>
                                             </div>
                                         </div>
                                     </div>
@@ -230,9 +238,6 @@
                                             <div style="margin-top: 0.8rem;display: inline-block;">
                                                 <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/CRUE/Comunicado_CRUE_Estado_Alarma.pdf" role="button" target="_blank">Enlace a pdf</a>
                                             </div>
-                                            <div style="display: inline-block;vertical-align:super;">
-                                                <div class="btn btn-success">ACTIVO</div>
-                                            </div>
                                         </div>
                                     </div>
                                 </li>   <!--Comunicado CRUE por la Declaración del Estado de Alarma a consecuencia de la plandemia COVID-19  -->
@@ -250,9 +255,6 @@
                                         <div class="col-sm-4" style="text-align: end;">
                                             <div style="margin-top: 0.8rem;display: inline-block;">
                                                 <a class="btn btn-pdf" href="./Documentacion/CAM-ESTATAL/CRUE/Información_Reunión_CRUE_Ministro_de_Universidades.pdf" role="button" target="_blank">Enlace a pdf</a>
-                                            </div>
-                                            <div style="display: inline-block;vertical-align:super;">
-                                                <div class="btn btn-success">ACTIVO</div>
                                             </div>
                                         </div>
                                     </div>
@@ -285,8 +287,8 @@
                                     </div>
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
-                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_1.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-danger">DEROGADO</div></div>
+                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_1.pdf" role="button" target="_blank">Enlace a pdf</a>
+                                        </div>
                                     </div>
                                 </div>
                             </li>   <!--Primer Comunicado del Rector -->
@@ -303,8 +305,8 @@
                                     </div>
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
-                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_2.pdf" role="button">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-danger">DEROGADO</div></div>
+                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_2.pdf" role="button">Enlace a pdf</a>
+                                        </div>
                                     </div>
                                 </div>
                             </li>   <!--Segundo Comunicado del Rector -->
@@ -321,8 +323,8 @@
                                     </div>
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
-                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_3.pdf" target="_blank" role="button">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-danger"">DEROGADO</div>
+                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_3.pdf" target="_blank" role="button">Enlace a pdf</a>
+                                        </div>
                                     </div>
                                 </div>
                             </li>   <!--Tercer Comunicado del Rector -->
@@ -339,8 +341,9 @@
                                     </div>
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
-                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_4.pdf" target="_blank" role="button">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-danger"">DEROGADO</div>
+                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_4.pdf" target="_blank" role="button">Enlace a pdf</a>
+                                        </div>
+
                                     </div>
                                 </div>
                             </li>   <!--Cuarto Comunicado del Rector -->
@@ -357,8 +360,8 @@
                                     </div>
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
-                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Resoluciones/Resolución_Rectoral_Suspensión_Elecciones.pdf" role="button" alt="Suspensión Eleeciones Rector" target="_blank">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-success">ACTIVO</div></div>
+                                            <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Resoluciones/Resolución_Rectoral_Suspensión_Elecciones.pdf" role="button" alt="Suspensión Eleeciones Rector" target="_blank">Enlace a pdf</a>
+                                        </div>
                                     </div>
                                 </div>
                             </li>   <!--Resolución Rectoral sobre la Suspensión del Proceso Electoral a Rector en la UPM -->
@@ -376,9 +379,6 @@
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
                                             <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Resoluciones/Resolución_Rectoral_Decreto_de_Estado_de_Alarma_en_España.pdf" target="_blank" role="button">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align:super;">
-                                            <div class="btn btn-success">ACTIVO</div>
-                                        </div>
                                     </div>
                                 </div>
                             </li>   <!--Resolución Rectoral  con Motivo del Decreto de Estado de Alarma en España -->
@@ -396,9 +396,6 @@
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
                                             <a class="btn btn-pdf" href="./Documentacion/UPM/RECTOR/Resoluciones/Resolución_Rectoral_Medidas_Relacionadas_con_COVID-19.pdf" target="_blank"" role="button">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;">
-                                            <div class="btn btn-success">ACTIVO</div></div>
-                                    </div>
                                 </div>
                             </li>   <!--Resolución Rectoral sobre las Medidas Relacionadas con el CODID-19 -->
 
@@ -415,9 +412,6 @@
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
                                             <a class="btn btn-pdf" href="./Documentacion/UPM/Vicerrectorados/ComunicadoBiblioteca_Universitaria_UPM.pdf" atl="Información Bibliotecas UPM" target="_blank" role="button">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align:super;">
-                                            <div class="btn btn-success">ACTIVO</div>
-                                        </div>
                                     </div>
                                 </div>
                             </li>   <!--Información sobre Servicio de Biblioteca Universitaria -->
@@ -434,9 +428,7 @@
                                     </div>
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
-                                            <a class="btn btn-pdf" target="_blank" href="./Documentacion/UPM/Vicerrectorados/Comunicado_vicalumnos_deportes.pdf" role="button">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align:super;">
-                                            <div class="btn btn-success">ACTIVO</div>
+                                            <a class="btn btn-pdf" target="_blank" href="./Documentacion/UPM/Vicerrectorados/Comunicado_vicalumnos_deportes.pdf" role="button">Enlace a pdf</a>
                                         </div>
                                     </div>
                                 </div>
@@ -456,9 +448,6 @@
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
                                             <a class="btn btn-pdf" href="./Documentacion/UPM/Vicerrectorados/Información_relativa_a_Estudiantes_en_Movilidad.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align:super;">
-                                            <div class="btn btn-success">ACTIVO</div>
-                                        </div>
                                     </div>
                                 </div>
                             </li>   <!--Información Relativa a Alumnos de la UPM a causa de la Pandemia COVID-19 ok-->
@@ -477,9 +466,6 @@
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
                                             <a class="btn btn-pdf" href="./Documentacion/UPM/Vicerrectorados/Servicios_Esenciales_Referidos_a_Internacionalización_UPM.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align:super;">
-                                            <div class="btn btn-success">ACTIVO</div>
-                                        </div>
                                     </div>
                                 </div>
                             </li>   <!--Servicios Esenciales Referidos a Internacionalización UPM ok -->
@@ -496,9 +482,7 @@
                                     </div>
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
-                                            <a class="btn btn-pdf" href="./Documentacion/UPM/Vicerrectorados/Información_partners_internacionales.pdf" role="button" target="_blank">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align:super;">
-                                            <div class="btn btn-success">ACTIVO</div>
+                                            <a class="btn btn-pdf" href="./Documentacion/UPM/Vicerrectorados/Información_partners_internacionales.pdf" role="button" target="_blank">Enlace a pdf</a>
                                         </div>
                                     </div>
                                 </div>
@@ -518,17 +502,10 @@
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
                                             <a class="btn btn-pdf" href="./Documentacion/UPM/Vicerrectorados/Segundo_Comunicado_Internacional.pdf" role="button target=_blank">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align:super;">
-                                            <div class="btn btn-success">ACTIVO</div>
-                                        </div>
                                     </div>
                                 </div>
                             </li>   <!--Información sobre Alumnos Internacionales UPM -->
-
-
-
                         </ul>
-
                     </div>
                 </div>
             </div>
@@ -554,7 +531,6 @@
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
                                             <a class="btn btn-pdf" href="./Documentacion/DAUPM-DAETSISI/Comunicado_de_la_Delegación_de_Alumnos_de_la_ETSISI.pdf" role="button" target="_blank" alt="Comunicado Oficial DA-ETSISI">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-success">ACTIVO</div></div>
                                     </div>
                                 </div>
                             </li>   <!--Comunicado DA-ETSISI -->
@@ -572,7 +548,6 @@
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
                                             <a class="btn btn-pdf" href="./Documentacion/DAUPM-DAETSISI/Comunicado-DAUPM-COVID-19.pdf" role="button" target="_blank" alt="Comunicado oficial DAUPM">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-success"">ACTIVO</div>
                                     </div>
                                 </div>
                             </li>   <!--Comunicado DA-UPM -->
@@ -591,7 +566,6 @@
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
                                             <a class="btn btn-pdf" href="./Documentacion/DAUPM-DAETSISI/ComunicadoCEUNE.jpg" role="button" target="_blank" alt="Comunicado CEUNE">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-success">ACTIVO</div></div>
                                     </div>
                                 </div>
                             </li>   <!-- Comunicado CEUNE -->
@@ -610,7 +584,6 @@
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
                                             <a class="btn btn-pdf" href="./Documentacion/DAUPM-DAETSISI/Comunicado_CREUP.pdf" role="button" target="_blank" alt="Comunicado de CREUP">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-success">ACTIVO</div></div>
                                     </div>
                                 </div>
                             </li>   <!--Comunicado CREUP -->
@@ -627,8 +600,8 @@
                                     </div>
                                     <div class="col-sm-4" style="text-align: end;">
                                         <div style="margin-top: 0.8rem;display: inline-block;">
-                                            <a class="btn btn-pdf" href="./Documentacion/DAUPM-DAETSISI/El_Arte_de_Vivir_y_Estudiar_en_Tiempos_del_COVID-19.pdf" role="button" target="_blank" alt="Recomendaciones Psicóloga ETSIAAB">Enlace a pdf</a></div>
-                                        <div style="display: inline-block;vertical-align: super;"><div class="btn btn-success">ACTIVO</div></div>
+                                            <a class="btn btn-pdf" href="./Documentacion/DAUPM-DAETSISI/El_Arte_de_Vivir_y_Estudiar_en_Tiempos_del_COVID-19.pdf" role="button" target="_blank" alt="Recomendaciones Psicóloga ETSIAAB">Enlace a pdf</a>
+                                        </div>
                                     </div>
                                 </div>
                             </li>  <!--Recomendaciones Psicóloga ETSIAAB -->

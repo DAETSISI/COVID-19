@@ -90,7 +90,7 @@
                             <div class="row">
                                 <div class="col-md-7">
                                     <p class="card-text">
-                                        <b>Docencia Telemática:</b> Pídoras formativas grabadas con OBS. Tutorías Online por Skype.
+                                        <b>Docencia Telemática:</b> Píldoras formativas grabadas con OBS. Tutorías Online por Skype.
                                     <hr>
                                     <b>Actividades Prácticas:</b> Entregas y/o actividades encargadas por el profesor. (Recogida vía moodle)
                                     <hr>
@@ -227,7 +227,7 @@
                                                 <lh>Convocatoria Ordinaria</lh>
                                                 <hr>
                                                 <li>Competencia Transversal: 5%</li>
-                                                <li>Examen Evaluación Tema 1 y 2: 50% - Por determinar una Solución</li>
+                                                <li>Examen Evaluación Tema 1 y 2: 50% - Por determinar</li>
                                                 <li>Examen Evaluación Tema 3: 50%</li>
                                             </ul>
                                         <hr>

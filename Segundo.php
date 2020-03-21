@@ -201,7 +201,7 @@
                         <div class="row">
                             <div class="col-md-7">
                                 <p class="card-text">
-                                    <b>Docencia Telemática:</b> ??
+                                    <b>Docencia Telemática:</b> Píldoras formativas
                                 <hr>
                                 <b>Actividades Prácticas:</b> Enunciado de Ejercicios, se subirá posteriormente la solución al Moodle.
                                 <hr>

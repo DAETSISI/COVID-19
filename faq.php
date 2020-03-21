@@ -29,7 +29,7 @@
 
                 <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                     <div class="card-body">
-                        En un principio está programado hasta el miércoles día 26 de marzo, no obstante esta medida se podrá alargar en función de lo que determine la Comunidad de Madrid.
+                        En un principio está programado hasta el lunes día 30 de marzo, no obstante esta medida se podrá alargar en función de lo que determine la Comunidad de Madrid.
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@
                 </div>
                 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
                     <div class="card-body">
-                        Secretaría sigue abierta y funcionando durante todas las mañanas así que si necesitas hacer algún trámite puedes pasarte y preguntar/realizar lo que necesites sin ningún problema.
+                        Secretaría sigue abierta y funcionando durante todas las mañanas así que si necesitas hacer algún trámite puedes pasarte y realizar lo que necesites sin ningún problema.
                     </div>
                 </div>
             </div>
@@ -210,6 +210,7 @@
                 <div id="collapseThirtheen" class="collapse" aria-labelledby="headingThirtheen" data-parent="#accordionExample">
                     <div class="card-body">
                         Lo primero es no alarmarse, la Comunidad de Madrid ha dejado un número de teléfono para atención de cualquier ciudadano, el teléfono es: 900 102 112
+                        Además, han creado una aplicación con el objetivo de diagnosticar y monotorizar todos los casos: https://webapp.coronamadrid.com/
                     </div>
                 </div>
             </div>
