@@ -6,9 +6,10 @@
 <body>
 
 <?php include 'components/common_nav_menu.php'; ?>
-
+<h1 class="text-center">Frena la Curva</h1>
+<hr>
 <main class="main">
-    <h1 class="text-center">Frena la Curva</h1>
+
     <div class="container">
 
         <p>Cupidatat familiaritatem ita consequat et aliquip ex amet senserit. Malis hic

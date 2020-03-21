@@ -23,6 +23,7 @@
 </style>
 <main class="main">
     <h1 class="text-center">Información General</h1>
+    <hr>
 
     <div class="container">
         <div class="row">

@@ -46,11 +46,10 @@
 <?php include 'components/common_nav_menu.php'; ?>
 
 <main class="main enlaces">
-
+    <h1 class="text-center">Documentación</h1>
+    <hr>
 
     <div class="container">
-
-        <h1 class="text-center">Documentación</h1>
 
             <div class="Dcaja">
                 <div class="row">

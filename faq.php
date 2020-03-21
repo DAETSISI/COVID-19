@@ -8,8 +8,10 @@
 <?php include 'components/common_nav_menu.php'; ?>
 
 <main class="main">
+    <h1 class="text-center">Preguntas Frecuentes</h1>
+    <hr>
     <div class="container">
-        <h1 class="text-center">Preguntas Frecuentes</h1>
+
         <div id="mensaje">
             <p>En esta sección, responderemos a las preguntas más frecuentes que nos habéis ido realizando estos días.</p>
         </div>

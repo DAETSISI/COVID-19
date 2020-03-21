@@ -48,7 +48,8 @@
     clear: both; }
 
 .slicknav_nav {
-  clear: both; }
+  clear: both;
+  }
   .slicknav_nav ul {
     display: block; }
   .slicknav_nav li {
@@ -114,13 +115,13 @@
     padding: 5px 10px;
     margin: 2px 5px;
     text-decoration: none;
-    color: #fff; }
+    color: white!important; }
     .slicknav_nav a:hover {
       -webkit-border-radius: 0px;
       -moz-border-radius: 0px;
       border-radius: 0px;
       background: #ccc;
-      color: #222; }
+      color: #EFB810 !important; }
   .slicknav_nav .slicknav_txtnode {
     margin-left: 15px; }
   .slicknav_nav .slicknav_item a {

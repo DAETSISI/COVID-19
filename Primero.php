@@ -11,10 +11,11 @@
 <body>
 
 <?php include 'components/common_nav_menu.php'; ?>
-
+<h1 class="text-center">Primero</h1>
+<hr>
 <main class="main">
     <div class="container">
-        <h1 class="text-center">Primero</h1>
+
         <p>
             En esta sección tendréis toda la información relativa a todas las asignaturas del Primer Curso, por otra
             parte hemos habilitado la posibilidad de votar para que nos déis vuestra opinión de cómo se está llevando
