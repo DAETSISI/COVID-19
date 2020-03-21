@@ -28,21 +28,35 @@
 
 
         <div class="row">
-
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <h3>EPAC</h3>
+                        <h3>English for Professional and Academic Communication</h3>
                     </div>
+
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-7">
                                 <p class="card-text">
-                                    Docencia Telemática:
+                                    <b>Docencia Telemática:</b>
                                 <hr>
-                                Material de Estudio:
+                                <b>Actividades Prácticas:</b>
+                                <hr>
+                                <b>Criterios de evaluación:</b>
+                                <ul>
+                                    <lh>Convocatoria Ordinaria</lh>
+                                    <hr>
+                                    <li>Implementación de un Servicio: 40%</li>
+                                    <li>Proyecto Final: 60%</li>
+                                </ul>
+                                <hr>
+                                <b>Recursos Didácticos:</b> Academic writing
+                                <hr>
+                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/AOS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <hr>
                                 </p>
                             </div>
+
                             <div class="col-md-5">
                                 <h5 class="card-title">¡Dános tu Opión!</h5>
                                 <p class="card-text">
@@ -55,8 +69,7 @@
                     </div>
                 </div>
             </div>
-
-        </div>
+        </div>  <!--EPAC -->
 
         <div class="row">
             <div class="col-md-12">
@@ -85,7 +98,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>  <!--Agentes Inteligentes -->
 
         <div class="row">
             <div class="col-md-12">
@@ -114,7 +127,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>  <!--Inglés Nivel Medio -->
 
         <div class="row">
             <div class="col-md-12">
@@ -143,7 +156,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>  <!--Inglés Nivel Avanzado -->
 
         <div class="row">
             <div class="col-md-12">
@@ -172,7 +185,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>  <!--Tecnologías de Desarrollo para Web -->
 
         <div class="row">
             <div class="col-md-12">
@@ -180,15 +193,30 @@
                     <div class="card-header">
                         <h3>Arquitecturas Orientadas a Servicios</h3>
                     </div>
+
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-7">
                                 <p class="card-text">
-                                    Docencia Telemática:
+                                    <b>Docencia Telemática:</b> Clases magistrales grabadas en vídeo, tutoriales interactivos. Tutorías online.
                                 <hr>
-                                Material de Estudio:
+                                <b>Actividades Prácticas:</b> Cuestionarios de autoevaluación, práctica guiada no evaluable. Tele-trabajo en grupo.
+                                <hr>
+                                <b>Criterios de evaluación:</b>
+                                <ul>
+                                    <lh>Convocatoria Ordinaria</lh>
+                                    <hr>
+                                    <li>Implementación de un Servicio: 40%</li>
+                                    <li>Proyecto Final: 60%</li>
+                                </ul>
+                                <hr>
+                                <b>Recursos Didácticos:</b> Moodle Asignatura. Tutoriales interactivos sobre Docker.
+                                <hr>
+                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/AOS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <hr>
                                 </p>
                             </div>
+
                             <div class="col-md-5">
                                 <h5 class="card-title">¡Dános tu Opión!</h5>
                                 <p class="card-text">
@@ -201,7 +229,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>   <!--Arquitecturas Orientadas a Servicios -->
 
         <div class="row">
             <div class="col-md-12">
@@ -209,15 +237,32 @@
                     <div class="card-header">
                         <h3>Procesamiento Digital de la Señal</h3>
                     </div>
+
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-7">
                                 <p class="card-text">
-                                    Docencia Telemática:
+                                    <b>Docencia Telemática:</b>
                                 <hr>
-                                Material de Estudio:
+                                <b>Actividades Prácticas:</b> Prácticas y entregas OnLine, por videoconferencia (TeamViewer)
+                                <hr>
+                                <b>Criterios de evaluación:</b>
+                                <ul>
+                                    <lh>Convocatoria Ordinaria</lh>
+                                    <hr>
+                                    <li>Dos Pruebas de evaluación: 50%</li>
+                                    <li>Entrega ejercicios: 15%</li>
+                                    <li>Cuestionarios Moodle: 10%</li>
+                                    <li>Proyecto: 25%</li>
+                                </ul>
+                                <hr>
+                                <b>Recursos Didácticos:</b> Moodle Asignatura.
+                                <hr>
+                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/Procesamiento-Digital-de-la-Señal.pdf" target="_blank">Guía Modificada</a>
+                                <hr>
                                 </p>
                             </div>
+
                             <div class="col-md-5">
                                 <h5 class="card-title">¡Dános tu Opión!</h5>
                                 <p class="card-text">
@@ -230,7 +275,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>    <!--Procesamiento Digital de la Señal -->
 
         <div class="row">
             <div class="col-md-12">
@@ -259,7 +304,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>  <!--Sistemas de Control -->
 
         <div class="row">
             <div class="col-md-12">
@@ -288,7 +333,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>  <!--Sistemas y Servicios de Navegación mediante GPS -->
 
     </div>
 </main>

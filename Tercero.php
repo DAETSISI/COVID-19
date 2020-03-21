@@ -62,22 +62,39 @@
                 </a>
             <div class="collapse" id="collapse">
                 <div class="card card-body ">
-                    <div class="row">
 
+                    <div class="row">
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h3>Arquitectura y Diseño Software</h3>
+                                    <h3>Arquitectura y Diseño del Software</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b> Lecciones grabadas, foros de discusión abiertos en Moodle. Tutorías online.
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b>
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Trabajo de grupo: 10%</li>
+                                                <li>Práctica 1: 35%</li>
+                                                <li>Práctica 2: 25%</li>
+                                                <li>Examen: 30%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle Asignatura. Contenido de Consulta Online.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/ADS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -90,68 +107,101 @@
                                 </div>
                             </div>
                         </div>
+                    </div>  <!--Arquitectura y Diseño Software -->
 
-                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3>Bases de Datos Avanzadas</h3>
+                                </div>
 
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="card">
-                                    <div class="card-header">
-                                        <h3>Bases de Datos Avanzadas</h3>
-                                    </div>
-                                    <div class="card-body">
-                                        <div class="row">
-                                            <div class="col-md-7">
-                                                <p class="card-text">
-                                                    Docencia Telemática:
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-7">
+                                            <p class="card-text">
+                                                <b>Docencia Telemática:</b> Vídeos grabados de contenidos teóricos. Tutorías virtuales.
+                                            <hr>
+                                            <b>Actividades Prácticas:</b> Vídeos grabados de contenidos prácticos.
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
                                                 <hr>
-                                                Material de Estudio:
-                                                </p>
-                                            </div>
-                                            <div class="col-md-5">
-                                                <h5 class="card-title">¡Dános tu Opión!</h5>
-                                                <p class="card-text">
-                                                    Docencia Telemática:<br>
-                                                <hr>
-                                                Material de Estudio:
-                                                </p>
-                                            </div>
+                                                <li>Tests Online: 25%</li>
+                                                <li>Examen: 40%</li>
+                                                <li>Prácticas (1,2,3): 40%</li>
+                                                <li>Actividad del Estudiante: 5%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle (Recursos web y foro)
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/BDA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
+                                            </p>
+                                        </div>
+
+                                        <div class="col-md-5">
+                                            <h5 class="card-title">¡Dános tu Opión!</h5>
+                                            <p class="card-text">
+                                                Docencia Telemática:<br>
+                                            <hr>
+                                            Material de Estudio:
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    </div>  <!--Bases de Datos Avanzadas -->
 
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="card">
-                                    <div class="card-header">
-                                        <h3>Construcción y Diseño de Interfaces Gráficas de Usuario</h3>
-                                    </div>
-                                    <div class="card-body">
-                                        <div class="row">
-                                            <div class="col-md-7">
-                                                <p class="card-text">
-                                                    Docencia Telemática:
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3>Construcción y Diseño de Interfaces Gráficas de Usuario</h3>
+                                </div>
+
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-7">
+                                            <p class="card-text">
+                                                <b>Docencia Telemática:</b> Vídeos de clases. Tutorías personalizadas por Skype.
+                                            <hr>
+                                            <b>Actividades Prácticas:</b> Presentaciones online de las prácticas para cada grupo (Videostreaming).
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
                                                 <hr>
-                                                Material de Estudio:
-                                                </p>
-                                            </div>
-                                            <div class="col-md-5">
-                                                <h5 class="card-title">¡Dános tu Opión!</h5>
-                                                <p class="card-text">
-                                                    Docencia Telemática:<br>
-                                                <hr>
-                                                Material de Estudio:
-                                                </p>
-                                            </div>
+                                                <li>Entrega Parcial de la Práctica BloqueI: 15%</li>
+                                                <li>Entrega Práctica BloqueI: 35%</li>
+                                                <li>Presentación Práctica BloqueI: 15%</li>
+                                                <li>Entrega Práctica Bloque II: 35%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle Asignatura, tutorías online.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/CDI-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
+                                            </p>
+                                        </div>
+
+                                        <div class="col-md-5">
+                                            <h5 class="card-title">¡Dános tu Opión!</h5>
+                                            <p class="card-text">
+                                                Docencia Telemática:<br>
+                                            <hr>
+                                            Material de Estudio:
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    </div>  <!--Construcción y Diseño de Interfaces Gráficas de Usuario -->
 
-                        <div class="row">
+                    <div class="row">
                             <div class="col-md-12">
                                 <div class="card">
                                     <div class="card-header">
@@ -178,36 +228,53 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>  <!--Evolución y Mantenimiento del Software -->
 
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="card">
-                                    <div class="card-header">
-                                        <h3>Traductores de Lenguajes de Programación</h3>
-                                    </div>
-                                    <div class="card-body">
-                                        <div class="row">
-                                            <div class="col-md-7">
-                                                <p class="card-text">
-                                                    Docencia Telemática:
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3>Traductores de Lenguajes de Programación</h3>
+                                </div>
+
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-7">
+                                            <p class="card-text">
+                                                <b>Docencia Telemática:</b>
+                                            <hr>
+                                            <b>Actividades Prácticas:</b>
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
                                                 <hr>
-                                                Material de Estudio:
-                                                </p>
-                                            </div>
-                                            <div class="col-md-5">
-                                                <h5 class="card-title">¡Dános tu Opión!</h5>
-                                                <p class="card-text">
-                                                    Docencia Telemática:<br>
-                                                <hr>
-                                                Material de Estudio:
-                                                </p>
-                                            </div>
+                                                <li>Examen Temas 1-4: 30%</li>
+                                                <li>Examen Temas 5-8: 60%</li>
+                                                <li>Proyecto I: 10%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle Asignatura. Contenido de Consulta Online.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
+                                            </p>
+                                        </div>
+
+                                        <div class="col-md-5">
+                                            <h5 class="card-title">¡Dános tu Opión!</h5>
+                                            <p class="card-text">
+                                                Docencia Telemática:<br>
+                                            <hr>
+                                            Material de Estudio:
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    </div>  <!--Traductores de Lenguajes de Programación -->
+
                 </div>
                 </div>
 
@@ -219,22 +286,39 @@
             </a>
             <div class="collapse" id="collapse2">
                 <div class="card card-body">
-                    <div class="row">
 
+                    <div class="row">
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
                                     <h3>Arquitecturas Avanzadas</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b>
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b> Posibilidad de consulta online a los profesores de la asignatura.
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Teoría: 50% (Queda por determinar)</li>
+                                                <li>Práctica: 50%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Documentación con transparencias anotadas de cada tema, ejercicios
+                                            propuestos y soluciones.<br> Documentación sobre las prácticas.<br>
+                                            Página web de la Asignatura. <br>Recursos Web complementarios.<br> Laboratorios con acceso Remoto.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/AA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -247,25 +331,39 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                    </div>   <!--Arquitecturas Avanzadas -->
 
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h3>Programación de HW reconfigurable</h3>
+                                    <h3>Programación de HW Reconfigurable</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b> ??
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b> Se retrasa la parte física de las prácticas.
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Parciales en el Aula: 20%</li>
+                                                <li>Prácticas de Laboratorio: 20%</li>
+                                                <li>Proyecto Final: 60%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web). Bibliografía complementaria. Máquina virual con el sw necesario para el desarrollo de las prácticas.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/PHR-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -278,25 +376,40 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                    </div>  <!--Programación de HW Reconfigurable -->
 
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
                                     <h3>Seguridad en Sistemas y Redes</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b> Clases telemáticas. Vídeos grabados por los profesores. Tutorías Online.
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b> Tutorización del proyecto realizado a distancia (Pedir tutorías online).
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Cuestionarios y Tareas Moodle: 18%</li>
+                                                <li>Práctica de Laboratorio 1: 21.5%</li>
+                                                <li>Práctica de Laboratorio 2: 21.5%</li>
+                                                <li>Proyecto Realizado a distancia: 35%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web).
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/SSR-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -309,25 +422,39 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                    </div>   <!--Seguridad en Sistemas y Redes -->
 
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
                                     <h3>Traductores de Lenguajes de Programación</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b>
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b>
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Examen Temas 1-4: 30%</li>
+                                                <li>Examen Temas 5-8: 60%</li>
+                                                <li>Proyecto I: 10%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle Asignatura. Contenido de Consulta Online.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -340,8 +467,7 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                    </div>  <!--Traductores de Lenguajes de Programación -->
 
                     <div class="row">
 
@@ -372,7 +498,8 @@
                             </div>
                         </div>
 
-                    </div>
+                    </div>  <!--Optatividad -->
+
                 </div>
             </div>
         </div>
@@ -385,21 +512,40 @@
                 <div class="card card-body">
 
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
                                     <h3>Mejores Prácticas para Gestión de Servicios</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b> Clases telemáticas. (Se tiene en cuenta la asistencia Online)
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b> Se posponen algunas prácticas para la vuelta, en caso de ser necesario se eliminan las presentaciones.
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria (Por determinar)</lh>
+                                                <hr>
+                                                <li>Entrega 1: 5%</li>
+                                                <li>Entrega 2: 10%</li>
+                                                <li>Entrega 3: 5%</li>
+                                                <li>Prueba 1: 20%</li>
+                                                <li>Prueba 2: 30%</li>
+                                                <li>Prueba 3: 30%</li>
+
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle (Recursos web), docencia vía TEAMS.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/Mejores-Practicas-para-gestion-de-Servicios-cornograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -412,25 +558,40 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                    </div>  <!--Mejores Prácticas para Gestión de Servicios -->
 
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
                                     <h3>Bases de Datos Avanzadas</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b> Vídeos grabados de contenidos teóricos. Tutorías virtuales.
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b> Vídeos grabados de contenidos prácticos.
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Tests Online: 25%</li>
+                                                <li>Examen: 40%</li>
+                                                <li>Prácticas (1,2,3): 40%</li>
+                                                <li>Actividad del Estudiante: 5%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle (Recursos web y foro)
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/BDA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -443,8 +604,7 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                    </div>  <!--Bases de Datos Avanzadas -->
 
                     <div class="row">
 
@@ -475,7 +635,7 @@
                             </div>
                         </div>
 
-                    </div>
+                    </div>  <!--Minería de Datos -->
 
                     <div class="row">
 
@@ -506,24 +666,39 @@
                             </div>
                         </div>
 
-                    </div>
+                    </div>  <!--Planificación y Organización del Capital Humano -->
 
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
                                     <h3>Sistemas de Información Geográfica</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b> Vídeos sobre la Teoría.
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b> Tutoriales sobre el enfoque para el desarrollo de la práctica.Foro y chat de Moodle.
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Práctica: 60%</li>
+                                                <li>Ejercicios, actividades grupales: 40%</li>
+
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Material audiovisual, Moodle de la Asignatura.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/SIG-cronograma-no-presencial.pdf.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -536,25 +711,39 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                    </div>  <!--Sistemas de Información Geográfica -->
 
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
                                     <h3>Traductores de Lenguajes de Programación</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b>
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b>
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Examen Temas 1-4: 30%</li>
+                                                <li>Examen Temas 5-8: 60%</li>
+                                                <li>Proyecto I: 10%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle Asignatura. Contenido de Consulta Online.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -567,8 +756,8 @@
                                 </div>
                             </div>
                         </div>
+                    </div>  <!--Traductores de Lenguajes de Programación -->
 
-                    </div>
                 </div>
             </div>
         </div>
@@ -579,22 +768,38 @@
             </a>
             <div class="collapse" id="collapse3">
                 <div class="card card-body">
-                    <div class="row">
 
+                    <div class="row">
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
                                     <h3>Traductores de Lenguajes de Programación</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b>
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b>
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Examen Temas 1-4: 30%</li>
+                                                <li>Examen Temas 5-8: 60%</li>
+                                                <li>Proyecto I: 10%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle Asignatura. Contenido de Consulta Online.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -607,25 +812,40 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                    </div> <!--Traductores de Lenguajes de Programación -->
 
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
                                     <h3>Redes Avanzadas</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b> Atención, consultas y dudas vía email.
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b> Ejercicios resueltos y prácticas resueltas en Moodle.
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Cuestionarios Moodle: 10%</li>
+                                                <li>Prácticas: 30%</li>
+                                                <li>Examen 1: 30%</li>
+                                                <li>Examen 2: 30%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle (Recursos Web). Apuntes del curso elaborados por los profesores.
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/RA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -638,8 +858,7 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                    </div>  <!--Redes Avanzadas -->
 
                     <div class="row">
 
@@ -670,24 +889,40 @@
                             </div>
                         </div>
 
-                    </div>
+                    </div>  <!--Computación Ubícua, móvil y en la nube -->
 
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
                                     <h3>Seguridad en Sistemas y Redes</h3>
                                 </div>
+
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                Docencia Telemática:
+                                                <b>Docencia Telemática:</b> Clases telemáticas. Vídeos grabados por los profesores. Tutorías Online.
                                             <hr>
-                                            Material de Estudio:
+                                            <b>Actividades Prácticas:</b> Tutorización del proyecto realizado a distancia (Pedir tutorías online).
+                                            <hr>
+                                            <b>Criterios de evaluación:</b>
+                                            <ul>
+                                                <lh>Convocatoria Ordinaria</lh>
+                                                <hr>
+                                                <li>Cuestionarios y Tareas Moodle: 18%</li>
+                                                <li>Práctica de Laboratorio 1: 21.5%</li>
+                                                <li>Práctica de Laboratorio 2: 21.5%</li>
+                                                <li>Proyecto Realizado a distancia: 35%</li>
+                                            </ul>
+                                            <hr>
+                                            <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web).
+                                            <hr>
+                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/SSR-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <hr>
                                             </p>
                                         </div>
+
                                         <div class="col-md-5">
                                             <h5 class="card-title">¡Dános tu Opión!</h5>
                                             <p class="card-text">
@@ -700,8 +935,7 @@
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                    </div>   <!--Seguridad en Sistemas y Redes -->
 
                     <div class="row">
 
@@ -732,7 +966,7 @@
                             </div>
                         </div>
 
-                    </div>
+                    </div>  <!--Optatividad -->
 
                 </div>
             </div>
