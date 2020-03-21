@@ -42,7 +42,7 @@ $navigationSections = [
                     <div class="col-xl-2 col-lg-2">
                         <div class="logo-img">
                             <a href="/" class="logo-img-child">
-                                <img src="../img/header-image.png" class="logo-img-child" width="270px" alt="">
+                                <img src="../img/header-image.png" class="logo-img-child" alt="">
                             </a>
                         </div>
                     </div>
