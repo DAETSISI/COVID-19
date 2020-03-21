@@ -142,7 +142,7 @@
                 </div>
             </div>
 
-        </div>  <!--Probabilidad y Estadística -->
+        </div>  <!--Probabilidad y Estadística FALTA-->
 
         <div class="row">
 

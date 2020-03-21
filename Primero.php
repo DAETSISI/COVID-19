@@ -165,7 +165,7 @@
                     </div>
                 </div>
 
-            </div>  <!-- Estructura de Computadores -->
+            </div>  <!-- Estructura de Computadores FALTA-->
 
             <div class="row">
 
@@ -183,7 +183,7 @@
                                         <hr>
                                         <b>Actividades Prácticas:</b> Faltan por determinar.
                                         <hr>
-                                        <b>Criterios de evaluación:</b> Falta por determiinar todo tipo de evaluación.
+                                        <b>Criterios de evaluación:</b> Falta por determinar todo tipo de evaluación.
                                         <hr>
                                         <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web)
                                         <hr>
@@ -218,7 +218,7 @@
                             <div class="row">
                                 <div class="col-md-7">
                                     <p class="card-text">
-                                        <b>Docencia Telemática:</b> ??
+                                        <b>Docencia Telemática:</b> Píldoras formativas
                                         <hr>
                                         <b>Actividades Prácticas:</b> Enunciado de Ejercicios, se subirá posteriormente la solución al Moodle.
                                         <hr>
@@ -264,7 +264,7 @@
                         <div class="row">
                             <div class="col-md-7">
                                 <p class="card-text">
-                                    <b>Docencia Telemática:</b> ??
+                                    <b>Docencia Telemática:</b>
                                 <hr>
                                 <b>Actividades Prácticas:</b> Se aplazan todas las actividades presenciales.
                                 <hr>

@@ -362,7 +362,7 @@
                                     <div class="row">
                                         <div class="col-md-7">
                                             <p class="card-text">
-                                                <b>Docencia Telemática:</b> ??
+                                                <b>Docencia Telemática:</b>
                                             <hr>
                                             <b>Actividades Prácticas:</b> Se retrasa la parte física de las prácticas.
                                             <hr>
@@ -486,37 +486,6 @@
                             </div>
                         </div>
                     </div>  <!--Traductores de Lenguajes de Programación -->
-
-                    <div class="row">
-
-                        <div class="col-md-12">
-                            <div class="card">
-                                <div class="card-header">
-                                    <h3>Optatividad</h3>
-                                </div>
-                                <div class="card-body">
-                                    <div class="row">
-                                        <div class="col-md-7">
-                                            <p class="card-text">
-                                                Docencia Telemática:
-                                            <hr>
-                                            Material de Estudio:
-                                            </p>
-                                        </div>
-                                        <div class="col-md-5">
-                                            <h5 class="card-title">¡Dános tu Opión!</h5>
-                                            <p class="card-text">
-                                                Docencia Telemática:<br>
-                                            <hr>
-                                            Material de Estudio:
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>  <!--Optatividad -->
 
                 </div>
             </div>
@@ -653,7 +622,7 @@
                             </div>
                         </div>
 
-                    </div>  <!--Minería de Datos -->
+                    </div>  <!--Minería de Datos FALTA-->
 
                     <div class="row">
 
@@ -684,7 +653,7 @@
                             </div>
                         </div>
 
-                    </div>  <!--Planificación y Organización del Capital Humano -->
+                    </div>  <!--Planificación y Organización del Capital Humano FALTA-->
 
                     <div class="row">
                         <div class="col-md-12">
@@ -968,38 +937,7 @@
                             </div>
                         </div>
                     </div>   <!--Seguridad en Sistemas y Redes -->
-
-                    <div class="row">
-
-                        <div class="col-md-12">
-                            <div class="card">
-                                <div class="card-header">
-                                    <h3>Optatividad</h3>
-                                </div>
-                                <div class="card-body">
-                                    <div class="row">
-                                        <div class="col-md-7">
-                                            <p class="card-text">
-                                                Docencia Telemática:
-                                            <hr>
-                                            Material de Estudio:
-                                            </p>
-                                        </div>
-                                        <div class="col-md-5">
-                                            <h5 class="card-title">¡Dános tu Opión!</h5>
-                                            <p class="card-text">
-                                                Docencia Telemática:<br>
-                                            <hr>
-                                            Material de Estudio:
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>  <!--Optatividad -->
-
+                    
                 </div>
             </div>
         </div>
