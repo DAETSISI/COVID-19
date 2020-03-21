@@ -7,6 +7,10 @@
     .row{
         margin-top: 1em;
     }
+
+    .card-header{
+        text-align:center;
+    }
 </style>
 <body>
 

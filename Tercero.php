@@ -35,6 +35,9 @@
         color:black;
     }
 
+    .card-header{
+        text-align:center;
+    }
 
 
 
@@ -54,12 +57,11 @@
         </p>
 
         <div class ="separadores">
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapse" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <a class="card card-body text-center" data-toggle="collapse" href="#collapse" role="button" aria-expanded="false" aria-controls="collapseExample">
                     Grado de Ingeniería del Software
                 </a>
-            <hr>
             <div class="collapse" id="collapse">
-                <div class="card card-body">
+                <div class="card card-body ">
                     <div class="row">
 
                         <div class="col-md-12">
@@ -211,12 +213,10 @@
 
         </div>
 
-
         <div class ="separadores">
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <a class="card card-body text-center" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample">
                 Grado de Ingeniería de Computadores
             </a>
-            <hr>
             <div class="collapse" id="collapse2">
                 <div class="card card-body">
                     <div class="row">
@@ -378,10 +378,9 @@
         </div>
 
         <div class ="separadores">
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <a class="card card-body text-center" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
                 Grado de Sistemas de Información
             </a>
-            <hr>
             <div class="collapse" id="collapseExample">
                 <div class="card card-body">
 
@@ -575,10 +574,9 @@
         </div>
 
         <div class ="separadores">
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <a class="card card-body text-center" data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapseExample">
                 Grado de Tecnologías para la Sociedad de la Información
             </a>
-            <hr>
             <div class="collapse" id="collapse3">
                 <div class="card card-body">
                     <div class="row">
