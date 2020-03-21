@@ -683,7 +683,7 @@ h3 {
   left: 0;
   right: 0;
   top: 0;
-  background: url(../img/navbar-background.jpg) center center;
+  background: url(../img/navbar-background-blur.jpg) center;
   z-index: 999;
   /*background: #000;*/
 }
@@ -726,19 +726,17 @@ h3 {
   .header-area .main-header-area .logo-img {
     padding-left: 20px;
   }
+
+  .logo-img .logo-img-child {
+    display: block;
+    width: 100%;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 23, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img {
     padding-left: 20px;
-  }
-}
-
-@media (max-width: 767px) {
-  /* line 30, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area .logo-img img {
-    width: 120px;
   }
 }
 
@@ -912,7 +910,7 @@ h3 {
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  background: url(../img/navbar-background.jpg) center center;
+  background: url(../img/navbar-background-blur.jpg) center center;
 }
 
 @media (max-width: 767px) {

@@ -10,10 +10,6 @@
         margin-top: 4em;
     }
 
-
-
-
-
     #RRSS{
         line-height: 2.5em;
         text-align:justify;
