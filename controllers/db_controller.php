@@ -47,3 +47,34 @@ function get_subjects( $year, $study ) {
 
 	return $subjects;
 }
+
+function get_user_votes( $ip ) {
+	$db    = open_database();
+	$query = " SELECT * FROM Votes WHERE IP = '$ip' ";
+
+	$votes = array();
+	if ( $result = $db->query( $query ) ) {
+		while ( $obj = $result->fetch_object() ) {
+			$votes[ $obj->Subject_ID ] = json_decode( $obj->votes );
+		}
+		$result->close();
+	}
+
+	close_database( $db );
+
+	return $votes;
+}
+
+function update_votes( $IP, $subject_id, $votes ) {
+	$db    = open_database();
+	$query = " INSERT INTO Votes (IP, Subject_ID, votes) VALUES(?, ?, ?) ON DUPLICATE KEY UPDATE votes = ? ";
+
+	$stmt = $db->prepare( $query );
+	$stmt->bind_param( 'sdss', $IP, $subject_id, $votes, $votes );
+
+	$stmt->execute();
+
+	close_database( $db );
+
+	return $votes;
+}

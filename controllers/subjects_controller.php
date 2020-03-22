@@ -3,7 +3,8 @@
 include 'db_controller.php';
 
 function prepare_html_for_year( $year, $study = 0 ) {
-	$subjects = get_subjects( $year, $study );
+	$subjects   = get_subjects( $year, $study );
+	$user_votes = get_user_votes( getUserIpAddr() );
 
 	$html = "";
 	foreach ( $subjects as $subject ) {
@@ -19,6 +20,8 @@ EOL;
 		} else {
 			$html_url_guia = "";
 		}
+
+		$votes_html = prepare_subject_votes_html( $subject->id, $user_votes );
 
 		$html .= <<<EOL
         <div class="row">
@@ -49,14 +52,8 @@ EOL;
                                 </div>
                             </div>
 
-                            <div class="col-md-5">
-                                <h5 class="card-title">¡Dános tu Opión!</h5>
-                                <p class="card-text">
-                                    Docencia Telemática:<br>
-                                <hr>
-                                Material de Estudio:
-                                </p>
-                            </div>
+						$votes_html
+                            
                         </div>
                     </div>
                 </div>
@@ -67,4 +64,68 @@ EOL;
 	}
 
 	return $html;
+}
+
+function prepare_subject_votes_html( $subject_id, $user_votes ) {
+	$subject_votes = $user_votes[$subject_id];
+	$first_topic_html = prepare_topic_vote_html($subject_id, $subject_votes[0], 0);
+	$second_topic_html = prepare_topic_vote_html($subject_id, $subject_votes[1], 1);
+	$third_topic_html = prepare_topic_vote_html($subject_id, $subject_votes[2], 2);
+	$fourth_topic_html = prepare_topic_vote_html($subject_id, $subject_votes[3], 3);
+
+	$html = <<<EOL
+		<div class="col-md-5">
+			<h4 class="card-title">¡Danos tu opinión!</h4>
+			<div class="card-text">
+				<span>Docencia telemática</span><br>
+				$first_topic_html
+				<hr>
+				<span>Actividades prácticas</span><br>
+				$second_topic_html
+				<hr>
+				<span>Criterios de evaluación</span><br>
+				$third_topic_html
+				<hr>
+				<span>Recursos didácticos</span><br>
+				$fourth_topic_html
+				<hr>
+			</div>
+		</div>
+EOL;
+
+	return $html;
+}
+
+function prepare_topic_vote_html($subject_id, $topic_votes, $topic_index) {
+	if($topic_votes == null || $topic_votes === 0) {
+		return <<<EOL
+				<button id="vote_button-$subject_id-$topic_index-up" class="btn btn-outline-success subject_vote_button" value="1">👍</button>
+				<button id="vote_button-$subject_id-$topic_index-down" class="btn btn-outline-danger subject_vote_button" value="-1">👎</button> 
+EOL;
+
+	} else if ($topic_votes === 1) {
+		return <<<EOL
+				<button id="vote_button-$subject_id-$topic_index-up" class="btn btn-success subject_vote_button" value="1" disabled>👍</button>
+				<button id="vote_button-$subject_id-$topic_index-down" class="btn btn-outline-danger subject_vote_button" value="-1">👎</button> 
+EOL;
+	} else {
+		return <<<EOL
+				<button id="vote_button-$subject_id-$topic_index-up" class="btn btn-outline-success subject_vote_button" value="1">👍</button>
+				<button id="vote_button-$subject_id-$topic_index-down" class="btn btn-danger subject_vote_button" value="-1" disabled>👎</button> 
+EOL;
+	}
+}
+
+function getUserIpAddr() {
+	if ( ! empty( $_SERVER['HTTP_CLIENT_IP'] ) ) {
+		//ip from share internet
+		$ip = $_SERVER['HTTP_CLIENT_IP'];
+	} elseif ( ! empty( $_SERVER['HTTP_X_FORWARDED_FOR'] ) ) {
+		//ip pass from proxy
+		$ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
+	} else {
+		$ip = $_SERVER['REMOTE_ADDR'];
+	}
+
+	return $ip;
 }

@@ -28,5 +28,6 @@ include '../controllers/subjects_controller.php';
 </main>
 <?php include '../components/common_footer.php'; ?>
 <?php include '../components/js_scripts.php'; ?>
+<?php include '../components/common_subjects_votes_js.php'; ?>
 </body>
 </html>
