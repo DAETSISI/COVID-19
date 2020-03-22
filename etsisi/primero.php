@@ -12,7 +12,7 @@ include '../controllers/subjects_controller.php';
 
 <?php include '../components/common_nav_menu.php'; ?>
 
-<h1 class="text-center">Primero</h1>
+<h1 class="text-center">Primer curso</h1>
 <hr>
 <main class="main">
     <div class="container">

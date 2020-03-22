@@ -18,7 +18,7 @@ include '../controllers/subjects_controller.php';
 <body>
 
 <?php include '../components/common_nav_menu.php'; ?>
-<h1 class="text-center">Tercero</h1>
+<h1 class="text-center">Tercer curso</h1>
 <hr>
 <main class="main">
     <div class="container">
