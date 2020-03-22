@@ -517,7 +517,7 @@
                                 </div>
                                 <div class="col-sm-4" style="text-align: end;">
                                     <div style="margin-top: 0.8rem;display: inline-block;">
-                                        <a class="btn btn-pdf" href="https://covid19.daetsisi.es/documentacion/DAUPM-DAETSISI/ComunicadoCEUNE.jpg" role="button" target="_blank" alt="Comunicado CEUNE">Enlace a pdf</a></div>
+                                        <a class="btn btn-pdf" href="https://covid19.daetsisi.es/documentacion/DAUPM-DAETSISI/ComunicadoCEUNE.pdf" role="button" target="_blank" alt="Comunicado CEUNE">Enlace a pdf</a></div>
                                 </div>
                             </div>
                         </li>   <!-- Comunicado CEUNE -->

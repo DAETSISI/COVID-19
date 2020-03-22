@@ -54,15 +54,16 @@
             <div class="card">
                 <div class="card-header" id="headingOne">
                     <h2 class="mb-0">
-                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapseOne">
                             1. ¿Cuánto va a durar la suspensión?
                         </button>
                     </h2>
                 </div>
 
-                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                     <div class="card-body">
-                        En un principio está programado hasta el lunes día 30 de marzo, no obstante esta medida se podrá alargar en función de lo que determine la Comunidad de Madrid.
+                        En principio la suspensión durará hasta el día 29 de marzo, fecha en la que acaba actualmente el estado de alarma decretado por el Gobierno.
+                        Podría alargarse en el tiempo si se amplía la duración de este estado de alarma o si las autoridades competentes deciden mantener cerradas las universidades.
                     </div>
                 </div>
             </div>
@@ -70,14 +71,14 @@
             <div class="card">
                 <div class="card-header" id="headingTwo">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapseTwo">
                             2. ¿Se puede entrar a la Escuela?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div id="collapse2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                     <div class="card-body">
-                        La Escuela está abierta, se pueden realizar trámites en Secretaría y en Publicaciones. Sin embargo, las asociaciones, la Delegación, la Biblioteca, las instalaciones deportivas y todas las aulas del CIC permanecerán cerradas.
+                        No. La escuela está cerrada desde el pasado martes 17 de marzo hasta nuevo aviso.
                     </div>
                 </div>
             </div>
@@ -85,14 +86,14 @@
             <div class="card">
                 <div class="card-header" id="headingThree">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapseThree">
                             3. ¿Qué va a pasar con las clases hasta que se reanuden?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                <div id="collapse3" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                     <div class="card-body">
-                        Se dará docencia telemática, los profesores de todas las asignaturas están viendo el método más apropiado para continuar con el temario, en caso de que surja cualquier problema, contactad con la Delegación.
+                        Habrá docencia telemática. Cada asignatura se reorganizará dentro de lo posible para que se pueda continuar con el temario sin problemas.
                     </div>
                 </div>
             </div>
@@ -100,14 +101,14 @@
             <div class="card">
                 <div class="card-header" id="headingFour">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapseFour">
                             4. ¿Qué va a pasar con los exámenes?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                <div id="collapse4" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                     <div class="card-body">
-                        Durante este periodo, no se realizarán exámenes presenciales. En principio se están moviendo los exámenes para cuando finalicen las medidas, sin embargo si se alarga el proceso, se estudiarán otras opciones.
+                        Durante este periodo no habrá exámenes presenciales. En algunas asignaturas se pospondrán para cuando acabe la suspensión y en otras se estudiarán otras opciones.
                     </div>
                 </div>
             </div>
@@ -115,14 +116,14 @@
             <div class="card">
                 <div class="card-header" id="headingFive">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapseFive">
                             5. ¿Qué pasa con la Secretaría puedo seguir haciendo trámites?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                <div id="collapse5" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
                     <div class="card-body">
-                        Secretaría sigue abierta y funcionando durante todas las mañanas así que si necesitas hacer algún trámite puedes pasarte y realizar lo que necesites sin ningún problema.
+                        Las secretarías están cerradas. En caso de necesitar realizar un trámite debes ponerte en contacto con la Escuela.
                     </div>
                 </div>
             </div>
@@ -130,14 +131,14 @@
             <div class="card">
                 <div class="card-header" id="headingSix">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapseSix">
                             6. ¿Qué pasa con mi beca de comedor?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+                <div id="collapse6" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                     <div class="card-body">
-                        No te preocupes, estos días no cuentan para la beca de comedor ya que no se está realizando seguimiento debido a que la cafetería se encuentra cerrada.
+                        No debes preocuparte por tu beca comedor, dada esta situación están suspendidas hasta nuevo aviso.
                     </div>
                 </div>
             </div>
@@ -145,14 +146,14 @@
             <div class="card">
                 <div class="card-header" id="headingSeven">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapseSeven">
                             7. ¿Publicaciones cierra?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
+                <div id="collapse7" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
                     <div class="card-body">
-                        El servicio de Publicaciones estará disponible de 11:00 - 13:00 todos los días.
+                        Estará cerrado a la par que la Escuela.
                     </div>
                 </div>
             </div>
@@ -160,12 +161,12 @@
             <div class="card">
                 <div class="card-header" id="headingEight">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapseEight">
                             8. ¿Qué pasa con las entregas de moodle?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
+                <div id="collapse8" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
                     <div class="card-body">
                         Las entregas de moodle seguirán siendo parte de las actividades evaluables de la asignatura, no se han producido cambios con ellas.
                     </div>
@@ -173,16 +174,31 @@
             </div>
 
             <div class="card">
-                <div class="card-header" id="headingNine">
+                <div class="card-header" id="headingEight">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                            9. ¿Qué pasa con las actividades deportivas?
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapseEight">
+                            9. ¿Qué pasa con las tutorías?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionExample">
+                <div id="collapse9" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
                     <div class="card-body">
-                        Cualquier tipo de actividad deportiva tanto en el campus como a nivel territorial, nacional o internacional han sido suspendidas.
+                        Las tutorías con profesores siguen estando disponibles pero exclusivamente de forma telemática.
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header" id="headingNine">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapseNine">
+                            10. ¿Qué pasa con las actividades deportivas?
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapse10" class="collapse" aria-labelledby="headingNine" data-parent="#accordionExample">
+                    <div class="card-body">
+                        Cualquier tipo de actividad deportiva tanto en el campus, como a nivel nacional han sido suspendidas.
                     </div>
                 </div>
             </div>
@@ -190,12 +206,12 @@
             <div class="card">
                 <div class="card-header" id="headingTen">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                            10. Estoy realizando prácticas externas. ¿Qué puedo hacer?
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapseTen">
+                            11. Estoy realizando prácticas externas. ¿Qué puedo hacer?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionExample">
+                <div id="collapse11" class="collapse" aria-labelledby="headingTen" data-parent="#accordionExample">
                     <div class="card-body">
                         La única forma de poder seguir realizando prácticas externas es de manera telemática. La empresa deberá garantizar la integridad del estudiante y la correcta realización de las prácticas.
                     </div>
@@ -203,16 +219,31 @@
             </div>
 
             <div class="card">
-                <div class="card-header" id="headingEleventh">
+                <div class="card-header" id="headingTen">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEleventh" aria-expanded="false" aria-controls="collapseEleventh">
-                            11. ¿Qué pasa con el calendario académico?¿Vamos a dar más días de clase?
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapseTen">
+                            12. Estoy realizando una beca colaboración. ¿Qué puedo hacer?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseEleventh" class="collapse" aria-labelledby="headingEleventh" data-parent="#accordionExample">
+                <div id="collapse12" class="collapse" aria-labelledby="headingTen" data-parent="#accordionExample">
                     <div class="card-body">
-                        En un principio se mantiene igual, si no funciona la docencia telemática, se procederá a ampliar hasta 15 días.
+                        Al igual que las prácticas externas, solo pueden realizarse telemáticamente.
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header" id="headingEleventh">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse13" aria-expanded="false" aria-controls="collapseEleventh">
+                            13. ¿Qué pasa con el calendario académico?¿Vamos a dar más días de clase?
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapse13" class="collapse" aria-labelledby="headingEleventh" data-parent="#accordionExample">
+                    <div class="card-body">
+                        Por el momento no hay ninguna ampliación. En caso de no funcionar la docencia telemática, se podría a llegar a prorrogar el curso a criterio de la Escuela.
                     </div>
                 </div>
             </div>
@@ -220,14 +251,14 @@
             <div class="card">
                 <div class="card-header" id="headingTwelve">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
-                            12. ¿Estará abierta la biblioteca?
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse14" aria-expanded="false" aria-controls="collapseTwelve">
+                            14. ¿Estarán abiertas las Asociaciones?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordionExample">
+                <div id="collapse14" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordionExample">
                     <div class="card-body">
-                        No, la biblioteca se encuentra totalmente cerrada hasta nuevo aviso.
+                        Los locales de asociaciones también permanecerán cerrados.
                     </div>
                 </div>
             </div>
@@ -235,12 +266,12 @@
             <div class="card">
                 <div class="card-header" id="headingThirtheen">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThirtheen" aria-expanded="false" aria-controls="collapseThirtheen">
-                            13. ¿Qué hago en caso de tener los síntomas?
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse15" aria-expanded="false" aria-controls="collapseThirtheen">
+                            15. ¿Qué hago en caso de tener los síntomas?
                         </button>
                     </h2>
                 </div>
-                <div id="collapseThirtheen" class="collapse" aria-labelledby="headingThirtheen" data-parent="#accordionExample">
+                <div id="collapse15" class="collapse" aria-labelledby="headingThirtheen" data-parent="#accordionExample">
                     <div class="card-body">
                         Lo primero es no alarmarse, la Comunidad de Madrid ha dejado un número de teléfono para atención de cualquier ciudadano, el teléfono es: 900 102 112
                         <br>
@@ -254,12 +285,12 @@
             <div class="card">
                 <div class="card-header" id="headingFourtheen">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourtheen" aria-expanded="false" aria-controls="collapseFourtheen">
-                            14. Si tu pregunta no es ninguna de estas
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse17" aria-expanded="false" aria-controls="collapseFourtheen">
+                            16. Si tu pregunta no es ninguna de las anteriores
                         </button>
                     </h2>
                 </div>
-                <div id="collapseFourtheen" class="collapse" aria-labelledby="headingFourtheen" data-parent="#accordionExample">
+                <div id="collapse17" class="collapse" aria-labelledby="headingFourtheen" data-parent="#accordionExample">
                     <div class="card-body">
                         Si tu pregunta no está resuelta, contacta directamente con nosotros enviándonos un correo a dalum.etsisi@gmail.com y te responderemos con la mayor brevedad posible.
                     </div>
