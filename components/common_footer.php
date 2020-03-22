@@ -25,7 +25,7 @@
 <div class="footer">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6" style="margin-bottom:0.5em">
                 <h3>Contacto</h3>
                 <div>
                     <b>Delegación de Alumnos ETSISI</b>

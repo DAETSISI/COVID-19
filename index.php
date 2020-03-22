@@ -12,7 +12,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-6" style="padding-top:1em">
+            <div class="col-md-7" style="padding-top:1em">
                 <div style="text-align: justify">
                     Desde la <b>Delegación de Alumnos de la ETSI Sistemas Informáticos</b> hemos habilitado esta plataforma con el objetivo de comunicar de una manera más centralizada y sencilla todas las novedades
                     y toda la información académica disponible que tenemos sobre la situación que estamos viviendo en relación al coronavirus (COVID-19).
@@ -30,7 +30,7 @@
                         <li><b>Sección ETSISI:</b> toda la información académica de la escuela sobre los <b>cambios en las asignaturas</b> para adaptarse a esta situación excepcional.</li>
                         <li><b>Sección FAQs:</b> un recopilatorio de las preguntas más frecuentes que nos habéis realizado.</li>
                         <li><b>Sección Frena la curva:</b> recomendaciones, consejos y tips para frenar la expansión del virus.</li>
-                        <li><b>Sección Documentación:</b> recopilatorio de todos los comunicados, reales decretos, resoluciones rectorales y documentos en general relativos a la crisis del coronavirus, del ámbito de la representación estudiantil, Universidad, Comunidad Autónoma y Estado.</li>
+                        <li><b>Sección Documentación:</b> recopilatorio de todos los comunicados, Reales Decretos, Resoluciones Rectorales y documentos en general relativos a la crisis del coronavirus, del ámbito de la representación estudiantil, Universidad, Comunidad Autónoma y Estado.</li>
                     </ul>
                 </div>
 
@@ -55,7 +55,7 @@
 
 
             </div>
-            <div class="col-md-6" style="padding-top:1em">
+            <div class="col-md-5" style="padding-top:1em">
                 <h2>Tweets sobre el COVID-19</h2>
                 <a class="twitter-timeline" href="https://twitter.com/dalumETSISI/timelines/1240621718659633155?ref_src=twsrc%5Etfw">COVID-19 - Curated tweets by dalumETSISI</a>
                 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

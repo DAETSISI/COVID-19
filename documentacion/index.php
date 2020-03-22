@@ -15,11 +15,10 @@
 
     .Dcaja a:hover {
         color: #EFB810;
-
     }
 
     .btn-pdf {
-        background-color: darkblue;
+        background-color: #17a2b8;
         color: white !important;
         margin-bottom: 0.8rem;
     }
@@ -30,7 +29,8 @@
 
     .btn:focus {
         outline: 0;
-        box-shadow: 0 0 0 .1rem rgba(0, 0, 0, 0.25);
+        box-shadow: 0 0 0 0rem rgba(0, 0, 0, 0.25);
+        border-radius: unset;
     }
 
     h1 {
@@ -268,8 +268,8 @@
                     <h4>Universidad Politécnica de Madrid</h4>
                 </a>
                 <div class="collapse" id="collapse2">
-
-                    <ul class="list-group list-group-flush" style="overflow: hidden;max-height: fit-content;">
+                    <div class="card card-body">
+                        <ul class="list-group list-group-flush" style="overflow: hidden;max-height: fit-content;">
 
                         <li class="list-group-item">
                             <div class="row">
@@ -490,6 +490,7 @@
                             </div>
                         </li>   <!--Primer Comunicado del Rector 7-->
                     </ul>
+                    </div>
                 </div>
             </div>
         </div>
@@ -500,7 +501,8 @@
                     <h4>Representación de Estudiantes</h4>
                 </a>
                 <div class="collapse" id="collapse3">
-                    <ul class="list-group list-group-flush" style="overflow: hidden;max-height: fit-content;">
+                    <div class="card card-body">
+                        <ul class="list-group list-group-flush" style="overflow: hidden;max-height: fit-content;">
 
                         <li class="list-group-item">
                             <div class="row">
@@ -541,24 +543,6 @@
                         <li class="list-group-item">
                             <div class="row">
                                 <div class="col-sm-12"><p class="card-title"><b>
-                                            <a href="https://covid19.daetsisi.es/documentacion/DAUPM-DAETSISI/El_Arte_de_Vivir_y_Estudiar_en_Tiempos_del_COVID-19.pdf" target="_blank" alt="Recomendaciones Psicóloga">El arte de Vivir y Estudiar en Tiempos del COVID-19</a></b>
-                                </div>
-                                <div class="col-sm-8">
-                                    <p class="card-text fecha" style="margin-bottom: -0.2rem;">13/03/2020</p>
-                                    <p class="card-text órgano" style="margin-bottom: -0.2rem;">Recomendaciones Psicóloga ETSIAAB</p>   <!--Quedaría mejor poner Gabinete Psicológico ETSIAAB -->
-                                    <p class="card-text Persona" style="margin-bottom: -0.2rem;">Luz Rodríguez</p>
-                                </div>
-                                <div class="col-sm-4" style="text-align: end;">
-                                    <div style="margin-top: 0.8rem;display: inline-block;">
-                                        <a class="btn btn-pdf" href="https://covid19.daetsisi.es/documentacion/DAUPM-DAETSISI/El_Arte_de_Vivir_y_Estudiar_en_Tiempos_del_COVID-19.pdf" role="button" target="_blank" alt="Recomendaciones Psicóloga ETSIAAB">Enlace a pdf</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>  <!--Recomendaciones Psicóloga ETSIAAB -->
-
-                        <li class="list-group-item">
-                            <div class="row">
-                                <div class="col-sm-12"><p class="card-title"><b>
                                             <a href="https://covid19.daetsisi.es/documentacion/DAUPM-DAETSISI/Comunicado_de_la_Delegación_de_Alumnos_de_la_ETSISI.pdf" target="_blank" alt="Comunicado Oficial DA-ETSISI">Comunicado oficial de la Delegación de Alumnos de la ETSI Sistemas Informáticos</a></b>
                                 </div>
                                 <div class="col-sm-8">
@@ -591,6 +575,7 @@
                         </li>   <!--Comunicado DA-UPM -->
 
                     </ul>
+                    </div>
                 </div>
             </div>
         </div>

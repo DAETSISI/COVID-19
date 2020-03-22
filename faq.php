@@ -7,6 +7,39 @@
 
 <?php include 'components/common_nav_menu.php'; ?>
 
+<style>
+
+    .btn-link{
+        color: black;
+        text-decoration: none;
+    }
+
+    .btn-link:hover{
+        color: #EFB810;
+        text-decoration: none;
+
+    }
+
+    .btn-link:active{
+        color: #EFB810;
+        text-decoration: none;
+
+    }
+
+    .btn-link:visited{
+        color: black;
+        text-decoration: none;
+
+    }
+
+    .btn-link:focus{
+        color: black;
+        text-decoration: none;
+    }
+
+
+
+</style>
 <main class="main">
     <h1 class="text-center">Preguntas frecuentes</h1>
     <hr>
@@ -210,7 +243,10 @@
                 <div id="collapseThirtheen" class="collapse" aria-labelledby="headingThirtheen" data-parent="#accordionExample">
                     <div class="card-body">
                         Lo primero es no alarmarse, la Comunidad de Madrid ha dejado un número de teléfono para atención de cualquier ciudadano, el teléfono es: 900 102 112
-                        Además, han creado una aplicación con el objetivo de diagnosticar y monotorizar todos los casos: https://webapp.coronamadrid.com/
+                        <br>
+                        Además, han creado una aplicación con el objetivo de diagnosticar y monotorizar todos los casos.
+                        <br>
+                        <a href=" https://webapp.coronamadrid.com/" target="_blank">Enlace a la Aplicación</a>
                     </div>
                 </div>
             </div>
