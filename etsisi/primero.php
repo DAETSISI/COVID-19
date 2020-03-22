@@ -16,20 +16,8 @@ include '../controllers/subjects_controller.php';
 <hr>
 <main class="main">
     <div class="container">
-        <div class="row" style="text-align: center; margin-bottom: 30px">
-            <div class="col-md-3">
-                <button class="btn btn-warning">Primero</button>
-            </div>
-            <div class="col-md-3">
-                <a class="btn btn-dark" href="/etsisi/segundo" style="text-decoration: none">Segundo</a>
-            </div>
-            <div class="col-md-3">
-                <a class="btn btn-dark" href="/etsisi/tercero" style="text-decoration: none">Tercero</a>
-            </div>
-            <div class="col-md-3">
-                <a class="btn btn-dark" href="/etsisi/cuarto" style="text-decoration: none">Cuarto</a>
-            </div>
-        </div>
+
+	    <?php include '../components/common_years_quick_navigation.php'; ?>
 
         <p style="text-align: justify">
             En esta sección tenéis toda la información relativa a las asignaturas del <b>primer curso</b>
