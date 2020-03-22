@@ -8,11 +8,9 @@
 			if (select) {
 			    button.removeClass(targetNotSelectedClass);
 			    button.addClass(targetSelectedClass);
-                button.prop('disabled', true);
 			} else {
                 button.removeClass(targetSelectedClass);
                 button.addClass(targetNotSelectedClass);
-                button.prop('disabled', false);
 			}
         }
 
@@ -22,14 +20,15 @@
             let subjectId = splittedId[1];
             let topicIndex = splittedId[2];
             console.clear();
-            // console.log("Subject ID: " + subjectId);
-            // console.log("Topic index: " + topicIndex);
-            // console.log("Vote value: " + $(this).attr('value'));
 
             // Toggle votes buttons
-
             let selectedTopicVoteButton = $("#" + selectedTopicVoteButtonId);
-            setVoteButtonCSS(selectedTopicVoteButton, true);
+            let selectedTopicVoteButtonTargetClass = selectedTopicVoteButtonId.includes("up") ? "btn-success" : "btn-danger";
+            if (selectedTopicVoteButton.hasClass(selectedTopicVoteButtonTargetClass)) {
+                setVoteButtonCSS(selectedTopicVoteButton, false);
+            } else {
+                setVoteButtonCSS(selectedTopicVoteButton, true);
+            }
             let notSelectedTopicVoteButton = selectedTopicVoteButtonId.includes("up") ? $('#vote_button-' + subjectId + '-' + topicIndex + '-down') : $('#vote_button-' + subjectId + '-' + topicIndex + '-up');
             setVoteButtonCSS(notSelectedTopicVoteButton, false);
 

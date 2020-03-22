@@ -105,13 +105,13 @@ EOL;
 
 	} else if ($topic_votes === 1) {
 		return <<<EOL
-				<button id="vote_button-$subject_id-$topic_index-up" class="btn btn-success subject_vote_button" value="1" disabled>👍</button>
+				<button id="vote_button-$subject_id-$topic_index-up" class="btn btn-success subject_vote_button" value="1">👍</button>
 				<button id="vote_button-$subject_id-$topic_index-down" class="btn btn-outline-danger subject_vote_button" value="-1">👎</button> 
 EOL;
 	} else {
 		return <<<EOL
 				<button id="vote_button-$subject_id-$topic_index-up" class="btn btn-outline-success subject_vote_button" value="1">👍</button>
-				<button id="vote_button-$subject_id-$topic_index-down" class="btn btn-danger subject_vote_button" value="-1" disabled>👎</button> 
+				<button id="vote_button-$subject_id-$topic_index-down" class="btn btn-danger subject_vote_button" value="-1">👎</button> 
 EOL;
 	}
 }
