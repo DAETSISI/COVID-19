@@ -4,17 +4,18 @@
 <?php include '../components/common_head.php'; ?>
 
 <style>
-    .card-header{
-        text-align:center;
+    .card-header {
+        text-align: center;
     }
 
     .btn {
         border: 0px;
     }
-    .btn:focus{
+
+    .btn:focus {
         outline: 0;
-        box-shadow: 0 0 0 0rem rgba(0,0,0,0);
-        color:black;
+        box-shadow: 0 0 0 0rem rgba(0, 0, 0, 0);
+        color: black;
     }
 </style>
 <body>
@@ -36,7 +37,7 @@
             a como se desenvuelve al situación.
         </p>
 
-            <div class="row">
+        <div class="row">
 
             <div class="col-md-12">
                 <div class="card">
@@ -81,183 +82,183 @@
                 </div>
             </div>
 
-            </div>  <!--Álgebra -->
+        </div>  <!--Álgebra -->
 
-            <div class="row">
+        <div class="row">
 
-                <div class="col-md-12">
-                    <div class="card">
-                        <div class="card-header">
-                            <h3>Aspectos Éticos y Sociales</h3>
-                        </div>
-
-                        <div class="card-body">
-                            <div class="row">
-                                <div class="col-md-7">
-                                    <p class="card-text">
-                                        <b>Docencia Telemática:</b> Píldoras formativas grabadas con OBS. Tutorías Online por Skype.
-                                    <hr>
-                                    <b>Actividades Prácticas:</b> Entregas y/o actividades encargadas por el profesor. (Recogida vía moodle)
-                                    <hr>
-                                    <b>Criterios de evaluación:</b>
-                                    <br>
-                                    Convocatoria Ordinaria
-                                    <ul>
-                                        <li>Examen 1 (Temas 1 y 2): 25%</li>
-                                        <li>Exámen 2 (Temas 3 y 4): 15%</li>
-                                        <li>Actividades prácticas: 30%</li>
-                                        <li>Trabajo en Grupo/Debate: 30%</li>
-                                    </ul>
-                                    <hr>
-                                    <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web).
-                                    <hr>
-                                    <a class="btn btn-pdf" href="https://covid19.daetsisi.es/documentacion/GuiasAprendizaje/Primero/AspectosES-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
-                                    <hr>
-                                    </p>
-                                </div>
-
-                                <div class="col-md-5">
-                                    <h5 class="card-title">¡Dános tu Opión!</h5>
-                                    <p class="card-text">
-                                        Docencia Telemática:<br>
-                                    <hr>
-                                    Material de Estudio:
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Aspectos Éticos y Sociales</h3>
                     </div>
-                </div>
 
-            </div>  <!--Aspectos Éticos y Sociales -->
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-7">
+                                <p class="card-text">
+                                    <b>Docencia Telemática:</b> Píldoras formativas grabadas con OBS. Tutorías Online por Skype.
+                                <hr>
+                                <b>Actividades Prácticas:</b> Entregas y/o actividades encargadas por el profesor. (Recogida vía moodle)
+                                <hr>
+                                <b>Criterios de evaluación:</b>
+                                <br>
+                                Convocatoria Ordinaria
+                                <ul>
+                                    <li>Examen 1 (Temas 1 y 2): 25%</li>
+                                    <li>Exámen 2 (Temas 3 y 4): 15%</li>
+                                    <li>Actividades prácticas: 30%</li>
+                                    <li>Trabajo en Grupo/Debate: 30%</li>
+                                </ul>
+                                <hr>
+                                <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web).
+                                <hr>
+                                <a class="btn btn-pdf" href="https://covid19.daetsisi.es/documentacion/GuiasAprendizaje/Primero/AspectosES-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <hr>
+                                </p>
+                            </div>
 
-            <div class="row">
-
-                <div class="col-md-12">
-                    <div class="card">
-                        <div class="card-header">
-                            <h3>Estructura de Computadores</h3>
-                        </div>
-                        <div class="card-body">
-                            <div class="row">
-                                <div class="col-md-7">
-                                    <p class="card-text">
-                                        Docencia Telemática:
-                                    <hr>
-                                    Cronograma:
-                                    <hr>
-                                    Actividades:
-                                    <hr>
-                                    Criterios de evaluación:
-                                    <hr>
-                                    Recursos Didácticos:
-                                    <hr>
-                                    Guía Modificada:
-                                    <hr>
-                                    </p>
-                                </div>
-                                <div class="col-md-5">
-                                    <h5 class="card-title">¡Dános tu Opión!</h5>
-                                    <p class="card-text">
-                                        Docencia Telemática:<br>
-                                    <hr>
-                                    Material de Estudio:
-                                    </p>
-                                </div>
+                            <div class="col-md-5">
+                                <h5 class="card-title">¡Dános tu Opión!</h5>
+                                <p class="card-text">
+                                    Docencia Telemática:<br>
+                                <hr>
+                                Material de Estudio:
+                                </p>
                             </div>
                         </div>
                     </div>
+
                 </div>
+            </div>
 
-            </div>  <!-- Estructura de Computadores FALTA-->
+        </div>  <!--Aspectos Éticos y Sociales -->
 
-            <div class="row">
+        <div class="row">
 
-                <div class="col-md-12">
-                    <div class="card">
-                        <div class="card-header">
-                            <h3>Estructura de Datos</h3>
-                        </div>
-
-                        <div class="card-body">
-                            <div class="row">
-                                <div class="col-md-7">
-                                    <p class="card-text">
-                                        <b>Docencia Telemática:</b> Grabaciones realizadas con un OBS.
-                                        <hr>
-                                        <b>Actividades Prácticas:</b> Faltan por determinar.
-                                        <hr>
-                                        <b>Criterios de evaluación:</b> Falta por determinar todo tipo de evaluación.
-                                        <hr>
-                                        <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web)
-                                        <hr>
-                                        <a class="btn btn-pdf" href="https://covid19.daetsisi.es/documentacion/GuiasAprendizaje/Primero/ED-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
-                                        <hr>
-                                    </p>
-                                </div>
-
-                                <div class="col-md-5">
-                                    <h5 class="card-title">¡Dános tu Opión!</h5>
-                                        <p class="card-text">
-                                            Docencia Telemática:<br>
-                                            <hr>
-                                            Material de Estudio:
-                                        </p>
-                                </div>
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Estructura de Computadores</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-7">
+                                <p class="card-text">
+                                    Docencia Telemática:
+                                <hr>
+                                Cronograma:
+                                <hr>
+                                Actividades:
+                                <hr>
+                                Criterios de evaluación:
+                                <hr>
+                                Recursos Didácticos:
+                                <hr>
+                                Guía Modificada:
+                                <hr>
+                                </p>
+                            </div>
+                            <div class="col-md-5">
+                                <h5 class="card-title">¡Dános tu Opión!</h5>
+                                <p class="card-text">
+                                    Docencia Telemática:<br>
+                                <hr>
+                                Material de Estudio:
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>  <!--Estructura de Datos -->
+            </div>
 
-            <div class="row">
+        </div>  <!-- Estructura de Computadores FALTA-->
 
-                <div class="col-md-12">
-                    <div class="card">
-                        <div class="card-header">
-                            <h3>Fundamentos de Seguridad</h3>
-                        </div>
+        <div class="row">
 
-                        <div class="card-body">
-                            <div class="row">
-                                <div class="col-md-7">
-                                    <p class="card-text">
-                                        <b>Docencia Telemática:</b> Píldoras formativas
-                                        <hr>
-                                        <b>Actividades Prácticas:</b> Enunciado de Ejercicios, se subirá posteriormente la solución al Moodle.
-                                        <hr>
-                                        <b>Criterios de evaluación:</b>
-                                    <br>
-                                            Convocatoria Ordinaria
-                                            <ul>
-                                                <li>Competencia Transversal: 5%</li>
-                                                <li>Examen Evaluación Tema 1 y 2: 50% - Por determinar</li>
-                                                <li>Examen Evaluación Tema 3: 50%</li>
-                                            </ul>
-                                        <hr>
-                                        <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web), lecturas adicionales.
-                                        <hr>
-                                        <a class="btn btn-pdf" href="https://covid19.daetsisi.es/documentacion/GuiasAprendizaje/Primero/FS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
-                                        <hr>
-                                    </p>
-                                </div>
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Estructura de Datos</h3>
+                    </div>
 
-                                <div class="col-md-5">
-                                    <h5 class="card-title">¡Dános tu Opión!</h5>
-                                    <p class="card-text">
-                                        Docencia Telemática:<br>
-                                    <hr>
-                                    Material de Estudio:
-                                    </p>
-                                </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-7">
+                                <p class="card-text">
+                                    <b>Docencia Telemática:</b> Grabaciones realizadas con un OBS.
+                                <hr>
+                                <b>Actividades Prácticas:</b> Faltan por determinar.
+                                <hr>
+                                <b>Criterios de evaluación:</b> Falta por determinar todo tipo de evaluación.
+                                <hr>
+                                <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web)
+                                <hr>
+                                <a class="btn btn-pdf" href="https://covid19.daetsisi.es/documentacion/GuiasAprendizaje/Primero/ED-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <hr>
+                                </p>
+                            </div>
+
+                            <div class="col-md-5">
+                                <h5 class="card-title">¡Dános tu Opión!</h5>
+                                <p class="card-text">
+                                    Docencia Telemática:<br>
+                                <hr>
+                                Material de Estudio:
+                                </p>
                             </div>
                         </div>
                     </div>
-                    </div>
-                </div>  <!--Fundamentos de Seguridad -->
+                </div>
+            </div>
+        </div>  <!--Estructura de Datos -->
 
-            <div class="row">
+        <div class="row">
+
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Fundamentos de Seguridad</h3>
+                    </div>
+
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-7">
+                                <p class="card-text">
+                                    <b>Docencia Telemática:</b> Píldoras formativas
+                                <hr>
+                                <b>Actividades Prácticas:</b> Enunciado de Ejercicios, se subirá posteriormente la solución al Moodle.
+                                <hr>
+                                <b>Criterios de evaluación:</b>
+                                <br>
+                                Convocatoria Ordinaria
+                                <ul>
+                                    <li>Competencia Transversal: 5%</li>
+                                    <li>Examen Evaluación Tema 1 y 2: 50% - Por determinar</li>
+                                    <li>Examen Evaluación Tema 3: 50%</li>
+                                </ul>
+                                <hr>
+                                <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web), lecturas adicionales.
+                                <hr>
+                                <a class="btn btn-pdf" href="https://covid19.daetsisi.es/documentacion/GuiasAprendizaje/Primero/FS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <hr>
+                                </p>
+                            </div>
+
+                            <div class="col-md-5">
+                                <h5 class="card-title">¡Dános tu Opión!</h5>
+                                <p class="card-text">
+                                    Docencia Telemática:<br>
+                                <hr>
+                                Material de Estudio:
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>  <!--Fundamentos de Seguridad -->
+
+        <div class="row">
 
             <div class="col-md-12">
                 <div class="card">

@@ -1,6 +1,3 @@
-<?php
-?>
-
 <style type="text/css">
 
     .footer {

@@ -2,44 +2,45 @@
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900|Poppins:100,100i,200i,300,400,500,500i,600,600i,700&display=swap");
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_extend.scss */
 
-.container{
-  width: 85%;
+.container {
+    width: 85%;
 }
+
 .flex-center-start {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-pack: start;
-  -ms-flex-pack: start;
-  justify-content: start;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: start;
 }
 
 /* line 14, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .img {
-  max-width: 100%;
-  -webkit-transition: 0.3s;
-  -moz-transition: 0.3s;
-  -o-transition: 0.3s;
-  transition: 0.3s;
+    max-width: 100%;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
 }
 
 /* line 18, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 a,
 .button {
-  -webkit-transition: 0.3s;
-  -moz-transition: 0.3s;
-  -o-transition: 0.3s;
-  transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
 }
 
 /* line 22, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 a:focus,
 .button:focus, button:focus {
-  text-decoration: none;
-  outline: none;
+    text-decoration: none;
+    outline: none;
 }
 
 /* line 31, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
@@ -47,679 +48,679 @@ a:focus,
 a:hover,
 .portfolio-cat a:hover,
 .footer -menu li a:hover {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 /* line 38, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 a,
 button {
-  color: #1F1F1F;
-  outline: medium none;
+    color: #1F1F1F;
+    outline: medium none;
 }
 
 /* line 63, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 
 /* line 72, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 label {
-  color: #7e7e7e;
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: 400;
+    color: #7e7e7e;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
 }
 
 /* line 78, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 *::-moz-selection {
-  background: #444;
-  color: #fff;
-  text-shadow: none;
+    background: #444;
+    color: #fff;
+    text-shadow: none;
 }
 
 /* line 83, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 ::-moz-selection {
-  background: #444;
-  color: #fff;
-  text-shadow: none;
+    background: #444;
+    color: #fff;
+    text-shadow: none;
 }
 
 /* line 88, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 ::selection {
-  background: #444;
-  color: #fff;
-  text-shadow: none;
+    background: #444;
+    color: #fff;
+    text-shadow: none;
 }
 
 /* line 93, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 *::-webkit-input-placeholder {
-  color: #cccccc;
-  font-size: 14px;
-  opacity: 1;
+    color: #cccccc;
+    font-size: 14px;
+    opacity: 1;
 }
 
 /* line 98, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 *:-ms-input-placeholder {
-  color: #cccccc;
-  font-size: 14px;
-  opacity: 1;
+    color: #cccccc;
+    font-size: 14px;
+    opacity: 1;
 }
 
 /* line 103, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 *::-ms-input-placeholder {
-  color: #cccccc;
-  font-size: 14px;
-  opacity: 1;
+    color: #cccccc;
+    font-size: 14px;
+    opacity: 1;
 }
 
 /* line 108, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 *::placeholder {
-  color: #cccccc;
-  font-size: 14px;
-  opacity: 1;
+    color: #cccccc;
+    font-size: 14px;
+    opacity: 1;
 }
 
 /* line 114, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 h3 {
-  font-size: 24px;
+    font-size: 24px;
 }
 
 /* line 118, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .mb-65 {
-  margin-bottom: 67px;
+    margin-bottom: 67px;
 }
 
 /* line 122, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .black-bg {
-  background: #020c26 !important;
+    background: #020c26 !important;
 }
 
 /* line 126, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .white-bg {
-  background: #ffffff;
+    background: #ffffff;
 }
 
 /* line 129, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .gray-bg {
-  background: #FFF5F5;
+    background: #FFF5F5;
 }
 
 /* line 147, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .overlay {
-  position: relative;
-  z-index: 0;
+    position: relative;
+    z-index: 0;
 }
 
 /* line 151, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .overlay::before {
-  position: absolute;
-  content: "";
-  background-color: #020c26;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  opacity: 0.851;
+    position: absolute;
+    content: "";
+    background-color: #020c26;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.851;
 }
 
 /* line 163, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .overlay2 {
-  position: relative;
-  z-index: 0;
+    position: relative;
+    z-index: 0;
 }
 
 /* line 167, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .overlay2::before {
-  position: absolute;
-  content: "";
-  background-color: #1F1F1F;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  opacity: 0.7;
+    position: absolute;
+    content: "";
+    background-color: #1F1F1F;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.7;
 }
 
 /* line 179, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .section-padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 /* line 183, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .pt-120 {
-  padding-top: 120px;
+    padding-top: 120px;
 }
 
 /* button style */
 /* line 189, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .owl-carousel .owl-nav div {
-  background: transparent;
-  height: 40px;
-  left: 0px;
-  line-height: 40px;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  -webkit-transition: all 0.3s ease 0s;
-  -o-transition: all 0.3s ease 0s;
-  transition: all 0.3s ease 0s;
-  font-size: 25px;
-  color: #fff;
-  background: transparent;
-  border-radius: 10px;
-  width: 40px;
-  border: 1px solid #5D5C5C;
+    background: transparent;
+    height: 40px;
+    left: 0px;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -webkit-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    font-size: 25px;
+    color: #fff;
+    background: transparent;
+    border-radius: 10px;
+    width: 40px;
+    border: 1px solid #5D5C5C;
 }
 
 /* line 214, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .owl-carousel .owl-nav div.owl-next {
-  left: auto;
-  right: 0;
+    left: auto;
+    right: 0;
 }
 
 /* line 219, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .owl-carousel .owl-nav div.owl-next i {
-  position: relative;
-  right: -1px;
-  top: -2px;
+    position: relative;
+    right: -1px;
+    top: -2px;
 }
 
 /* line 226, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .owl-carousel .owl-nav div.owl-prev i {
-  position: relative;
-  right: 1px;
-  top: -2px;
+    position: relative;
+    right: 1px;
+    top: -2px;
 }
 
 /* line 236, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .owl-carousel:hover .owl-nav div {
-  opacity: 1;
-  visibility: visible;
+    opacity: 1;
+    visibility: visible;
 }
 
 /* line 239, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 .owl-carousel:hover .owl-nav div:hover {
-  color: #000;
-  background: #fff;
-  border: 1px solid #fff;
+    color: #000;
+    background: #fff;
+    border: 1px solid #fff;
 }
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn {
-  background: #fff;
-  color: #000;
-  display: inline-block;
-  padding: 18px 44px;
-  font-family: "Poppins", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  border: 0;
-  border: 1px solid #000;
-  letter-spacing: 3px;
-  text-align: center;
-  color: #000 !important;
-  text-transform: uppercase;
+    background: #fff;
+    color: #000;
+    display: inline-block;
+    padding: 18px 44px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    border: 0;
+    border: 1px solid #000;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #000 !important;
+    text-transform: uppercase;
 }
 
 /* line 16, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn:hover {
-  background: #000;
-  color: #fff !important;
-  border: 1px solid #000;
+    background: #000;
+    color: #fff !important;
+    border: 1px solid #000;
 }
 
 /* line 21, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn:focus {
-  outline: none;
+    outline: none;
 }
 
 /* line 24, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn.large-width {
-  width: 220px;
+    width: 220px;
 }
 
 /* line 28, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn2 {
-  background: #000;
-  color: #fff;
-  display: inline-block;
-  padding: 17px 50px 16px 50px;
-  font-family: "Poppins", sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  border: 0;
-  text-transform: capitalize;
-  color: #fff;
+    background: #000;
+    color: #fff;
+    display: inline-block;
+    padding: 17px 50px 16px 50px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    border: 0;
+    text-transform: capitalize;
+    color: #fff;
 }
 
 /* line 39, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn2:hover {
-  background: #fff;
+    background: #fff;
 }
 
 /* line 42, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn2:focus {
-  outline: none;
+    outline: none;
 }
 
 /* line 46, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed_btn3 {
-  background: #A70000;
-  padding: 9px 26px;
-  margin-bottom: 0;
-  font-size: 20px;
-  color: #fff;
-  -webkit-transition: 0.5s;
-  -moz-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
-  display: inline-block;
+    background: #A70000;
+    padding: 9px 26px;
+    margin-bottom: 0;
+    font-size: 20px;
+    color: #fff;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+    display: inline-block;
 }
 
 /* line 54, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed_btn3:hover {
-  background: #FAF0F0;
-  color: #A70000;
+    background: #FAF0F0;
+    color: #A70000;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  /* line 46, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
-  .boxed_btn3 {
-    padding: 9px 16px;
-  }
+    /* line 46, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
+    .boxed_btn3 {
+        padding: 9px 16px;
+    }
 }
 
 /* line 63, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn4 {
-  background: transparent;
-  color: #F2C64D;
-  display: inline-block;
-  padding: 15px 44px;
-  font-family: "Poppins", sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  border: 0;
-  border: 1px solid #F2C64D;
-  text-align: center;
-  text-transform: capitalize;
+    background: transparent;
+    color: #F2C64D;
+    display: inline-block;
+    padding: 15px 44px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border: 0;
+    border: 1px solid #F2C64D;
+    text-align: center;
+    text-transform: capitalize;
 }
 
 /* line 76, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn4:hover {
-  background: #F2C64D;
-  color: #fff !important;
-  border: 1px solid transparent;
+    background: #F2C64D;
+    color: #fff !important;
+    border: 1px solid transparent;
 }
 
 /* line 81, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn4:focus {
-  outline: none;
+    outline: none;
 }
 
 /* line 84, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn4.large-width {
-  width: 220px;
+    width: 220px;
 }
 
 /* line 89, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn5 {
-  background: #F2C64D;
-  color: #fff;
-  display: inline-block;
-  padding: 15px 44px;
-  font-family: "Poppins", sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  border: 0;
-  border: 1px solid #F2C64D;
-  text-align: center;
-  text-transform: capitalize;
+    background: #F2C64D;
+    color: #fff;
+    display: inline-block;
+    padding: 15px 44px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border: 0;
+    border: 1px solid #F2C64D;
+    text-align: center;
+    text-transform: capitalize;
 }
 
 /* line 102, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn5:hover {
-  background: #fff;
-  color: #F2C64D !important;
-  border: 1px solid #F2C64D;
+    background: #fff;
+    color: #F2C64D !important;
+    border: 1px solid #F2C64D;
 }
 
 /* line 107, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn5:focus {
-  outline: none;
+    outline: none;
 }
 
 /* line 110, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_btn.scss */
 .boxed-btn5.large-width {
-  width: 220px;
+    width: 220px;
 }
 
 /* line 2, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
 .section_title h3 {
-  font-size: 42px;
-  line-height: 48px;
-  font-weight: 700;
-  color: #1F1F1F;
+    font-size: 42px;
+    line-height: 48px;
+    font-weight: 700;
+    color: #1F1F1F;
 }
 
 @media (max-width: 767px) {
-  /* line 2, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .section_title h3 {
-    font-size: 22px;
-    line-height: 30px;
-  }
+    /* line 2, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .section_title h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  /* line 2, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .section_title h3 {
-    font-size: 25px;
-    line-height: 30px;
-  }
+    /* line 2, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .section_title h3 {
+        font-size: 25px;
+        line-height: 30px;
+    }
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
-  /* line 2, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .section_title h3 {
-    font-size: 30px;
-    line-height: 35px;
-  }
+    /* line 2, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .section_title h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
 }
 
 @media (max-width: 767px) {
-  /* line 19, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .section_title h3 br {
-    display: none;
-  }
+    /* line 19, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .section_title h3 br {
+        display: none;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  /* line 19, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .section_title h3 br {
-    display: none;
-  }
+    /* line 19, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .section_title h3 br {
+        display: none;
+    }
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
-  /* line 19, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .section_title h3 br {
-    display: none;
-  }
+    /* line 19, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .section_title h3 br {
+        display: none;
+    }
 }
 
 /* line 31, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
 .section_title p {
-  font-size: 16px;
-  font-weight: 400;
-  color: #727272;
-  margin-bottom: 0;
+    font-size: 16px;
+    font-weight: 400;
+    color: #727272;
+    margin-bottom: 0;
 }
 
 @media (max-width: 767px) {
-  /* line 31, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .section_title p {
-    font-size: 14px;
-  }
+    /* line 31, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .section_title p {
+        font-size: 14px;
+    }
 }
 
 @media (max-width: 767px) {
-  /* line 39, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .section_title p br {
-    display: none;
-  }
+    /* line 39, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .section_title p br {
+        display: none;
+    }
 }
 
 /* line 47, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
 .mb-95 {
-  margin-bottom: 95px;
+    margin-bottom: 95px;
 }
 
 @media (max-width: 767px) {
-  /* line 47, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .mb-95 {
-    margin-bottom: 30px;
-  }
+    /* line 47, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .mb-95 {
+        margin-bottom: 30px;
+    }
 }
 
 /* line 54, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
 .mb-80 {
-  margin-bottom: 80px;
+    margin-bottom: 80px;
 }
 
 @media (max-width: 767px) {
-  /* line 54, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .mb-80 {
-    margin-bottom: 30px;
-  }
+    /* line 54, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .mb-80 {
+        margin-bottom: 30px;
+    }
 }
 
 /* line 60, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
 .mb-60 {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
 }
 
 @media (max-width: 767px) {
-  /* line 60, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
-  .mb-60 {
-    margin-bottom: 30px;
-  }
+    /* line 60, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
+    .mb-60 {
+        margin-bottom: 30px;
+    }
 }
 
 /* line 66, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
 .mb-20 {
-  margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 /* line 69, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_section_title.scss */
 .mb-60 {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
 }
 
 @media (max-width: 767px) {
-  /* line 4, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
-  .mobile_menu {
-    position: absolute;
-    right: 0px;
-    width: 100%;
-    z-index: 9;
-  }
+    /* line 4, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
+    .mobile_menu {
+        position: absolute;
+        right: 0px;
+        width: 100%;
+        z-index: 9;
+    }
 }
 
 /* line 13, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav {
-  background: #00364a;
-  float: right;
-  margin-top: 0;
-  padding: 0;
-  width: 95%;
-  padding: 0;
-  border-radius: 0px;
-  margin-top: 5px;
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin: auto!important;
-  top: 0px;
+    background: #00364a;
+    float: right;
+    margin-top: 0;
+    padding: 0;
+    width: 95%;
+    padding: 0;
+    border-radius: 0px;
+    margin-top: 5px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto !important;
+    top: 0px;
 }
 
 /* line 28, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav a:hover {
-  background: transparent;
-  color: #F2C64D;
+    background: transparent;
+    color: #F2C64D;
 }
 
 /* line 32, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav a.active {
-  color: #F2C64D;
+    color: #F2C64D;
 }
 
 @media (max-width: 767px) {
-  /* line 35, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
-  .slicknav_menu .slicknav_nav a i {
-    display: none;
-  }
+    /* line 35, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
+    .slicknav_menu .slicknav_nav a i {
+        display: none;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  /* line 35, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
-  .slicknav_menu .slicknav_nav a i {
-    display: none;
-  }
+    /* line 35, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
+    .slicknav_menu .slicknav_nav a i {
+        display: none;
+    }
 }
 
 /* line 44, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav .slicknav_btn {
-  background-color: transparent;
-  cursor: pointer;
-  margin-bottom: 10px;
-  margin-top: -40px;
-  position: relative;
-  z-index: 99;
-  border: 1px solid #ddd;
-  top: 3px;
-  right: 5px;
-  top: -32px;
+    background-color: transparent;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-top: -40px;
+    position: relative;
+    z-index: 99;
+    border: 1px solid #ddd;
+    top: 3px;
+    right: 5px;
+    top: -32px;
 }
 
 /* line 55, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav .slicknav_btn .slicknav_icon {
-  margin-right: 6px;
-  margin-top: 3px;
-  position: relative;
-  padding-bottom: 3px;
-  top: -11px;
-  right: -5px;
+    margin-right: 6px;
+    margin-top: 3px;
+    position: relative;
+    padding-bottom: 3px;
+    top: -11px;
+    right: -5px;
 }
 
 @media (max-width: 767px) {
-  /* line 12, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
-  .slicknav_menu {
-    margin-right: 12px;
-  }
+    /* line 12, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
+    .slicknav_menu {
+        margin-right: 12px;
+    }
 }
 
 /* line 72, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
 .slicknav_nav .slicknav_arrow {
-  float: right;
-  font-size: 22px;
-  position: relative;
-  top: -9px;
+    float: right;
+    font-size: 22px;
+    position: relative;
+    top: -9px;
 }
 
 /* line 78, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
 .slicknav_btn {
-  background-color: transparent;
-  cursor: pointer;
-  margin-bottom: 10px;
-  position: relative;
-  z-index: 99;
-  border: none;
-  border-radius: 3px;
-  top: 5px;
-  padding: 5px;
-  right: 5px;
-  margin-top: -5px;
-  top: -31px;
+    background-color: transparent;
+    cursor: pointer;
+    margin-bottom: 10px;
+    position: relative;
+    z-index: 99;
+    border: none;
+    border-radius: 3px;
+    top: 5px;
+    padding: 5px;
+    right: 5px;
+    margin-top: -5px;
+    top: -31px;
 }
 
 /* line 92, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
 .slicknav_btn {
-  background-color: transparent;
-  cursor: pointer;
-  margin-bottom: 10px;
-  position: relative;
-  z-index: 99;
-  border: none;
-  border-radius: 3px;
-  top: 5px;
-  padding: 5px;
-  right: 0;
-  margin-top: -5px;
-  top: -32px;
+    background-color: transparent;
+    cursor: pointer;
+    margin-bottom: 10px;
+    position: relative;
+    z-index: 99;
+    border: none;
+    border-radius: 3px;
+    top: 5px;
+    padding: 5px;
+    right: 0;
+    margin-top: -5px;
+    top: -32px;
 }
 
 /* line 106, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_slick-nav.scss */
 .slicknav_icon-bar {
-  background: #fff !important;
+    background: #fff !important;
 }
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area {
-  left: 0;
-  right: 0;
-  top: 0;
-  background: url(../img/navbar-background-blur.jpg) center;
-  z-index: 999;
-  /*background: #000;*/
+    left: 0;
+    right: 0;
+    top: 0;
+    background: url(../img/navbar-background-blur.jpg) center;
+    z-index: 999;
+    /*background: #000;*/
 }
 
 /* line 9, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area {
-  padding: 0 50px;
+    padding: 0 50px;
 }
 
 @media (max-width: 767px) {
-  /* line 9, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area {
-    padding: 10px 0;
-  }
+    /* line 9, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area {
+        padding: 10px 0;
+    }
 
-  .logo-img .logo-img-child {
-    display: block;
-    width: 90%;
-  }
+    .logo-img .logo-img-child {
+        display: block;
+        width: 90%;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  /* line 9, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area {
-    padding: 10px 50px;
-  }
+    /* line 9, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area {
+        padding: 10px 50px;
+    }
 
-  .logo-img .logo-img-child {
-    display: block;
-    width: 270px;
-  }
+    .logo-img .logo-img-child {
+        display: block;
+        width: 270px;
+    }
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
-  /* line 9, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area {
-    padding: 0 50px;
-  }
+    /* line 9, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area {
+        padding: 0 50px;
+    }
 
-  .logo-img .logo-img-child {
-    display: block;
-    width: 100%;
-  }
+    .logo-img .logo-img-child {
+        display: block;
+        width: 100%;
+    }
 }
 
 @media (min-width: 1200px) and (max-width: 1500px) {
-  /* line 9, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area {
-    padding: 0 50px;
-  }
+    /* line 9, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area {
+        padding: 0 50px;
+    }
 
-  .logo-img .logo-img-child {
-    display: block;
-    width: 90%;
-  }
+    .logo-img .logo-img-child {
+        display: block;
+        width: 90%;
+    }
 }
 
 @media (min-width: 1500px) {
-  .logo-img .logo-img-child {
-    display: block;
-    width: 270px;
-  }
+    .logo-img .logo-img-child {
+        display: block;
+        width: 270px;
+    }
 }
 
 @media (max-width: 767px) {
-  /* line 23, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area .logo-img {
-    padding-left: 20px;
-  }
+    /* line 23, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area .logo-img {
+        padding-left: 20px;
+    }
 }
 
 /*@media (min-width: 768px) and (max-width: 991px) {*/
@@ -731,361 +732,361 @@ h3 {
 
 /* line 40, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu {
-  text-align: center;
+    text-align: center;
 }
 
 /* line 43, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li {
-  display: inline-block;
-  position: relative;
+    display: inline-block;
+    position: relative;
 }
 
 /* line 46, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a {
-  color: #fff;
-  font-size: 15px;
-  text-transform: capitalize;
-  font-weight: 400;
-  display: inline-block;
-  padding: 38px 23px 38px 23px;
-  font-family: "Poppins", sans-serif;
-  position: relative;
+    color: #fff;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 400;
+    display: inline-block;
+    padding: 38px 23px 38px 23px;
+    font-family: "Poppins", sans-serif;
+    position: relative;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
-  /* line 46, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area .main-menu ul li a {
-    padding: 35px 8px 35px 8px;
-    font-size: 15px;
-  }
+    /* line 46, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area .main-menu ul li a {
+        padding: 35px 8px 35px 8px;
+        font-size: 15px;
+    }
 }
 
 @media (min-width: 1200px) and (max-width: 1500px) {
-  /* line 46, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area .main-menu ul li a {
-    padding: 38px 18px 38px 18px;
-  }
+    /* line 46, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area .main-menu ul li a {
+        padding: 38px 18px 38px 18px;
+    }
 }
 
 /* line 64, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a i {
-  font-size: 9px;
+    font-size: 9px;
 }
 
 @media (max-width: 767px) {
-  /* line 64, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area .main-menu ul li a i {
-    display: none !important;
-  }
+    /* line 64, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area .main-menu ul li a i {
+        display: none !important;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  /* line 64, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area .main-menu ul li a i {
-    display: none !important;
-  }
+    /* line 64, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area .main-menu ul li a i {
+        display: none !important;
+    }
 }
 
 /* line 73, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a.active {
-  color: #F2C64D;
+    color: #F2C64D;
 }
 
 /* line 76, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a::before {
-  position: absolute;
-  content: "";
-  background: #F2C64D;
-  width: 100%;
-  height: 2px;
-  bottom: 0;
-  left: 0;
-  opacity: 0;
-  transform: scaleX(0);
-  -webkit-transition: 0.3s;
-  -moz-transition: 0.3s;
-  -o-transition: 0.3s;
-  transition: 0.3s;
+    position: absolute;
+    content: "";
+    background: #F2C64D;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    transform: scaleX(0);
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
 }
 
 /* line 88, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a:hover::before {
-  opacity: 1;
-  transform: scaleX(1);
+    opacity: 1;
+    transform: scaleX(1);
 }
 
 /* line 93, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a.active::before {
-  opacity: 1;
-  transform: scaleX(1);
+    opacity: 1;
+    transform: scaleX(1);
 }
 
 /* line 102, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li .submenu {
-  position: absolute;
-  left: 0;
-  top: 140%;
-  background: #fff;
-  width: 200px;
-  z-index: 2;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.02);
-  opacity: 0;
-  visibility: hidden;
-  text-align: left;
-  -webkit-transition: 0.6s;
-  -moz-transition: 0.6s;
-  -o-transition: 0.6s;
-  transition: 0.6s;
-  z-index: 9;
+    position: absolute;
+    left: 0;
+    top: 140%;
+    background: #fff;
+    width: 200px;
+    z-index: 2;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.02);
+    opacity: 0;
+    visibility: hidden;
+    text-align: left;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -o-transition: 0.6s;
+    transition: 0.6s;
+    z-index: 9;
 }
 
 /* line 115, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li .submenu li {
-  display: block;
+    display: block;
 }
 
 /* line 117, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li .submenu li a {
-  padding: 10px 15px;
-  position: inherit;
-  -webkit-transition: 0.3s;
-  -moz-transition: 0.3s;
-  -o-transition: 0.3s;
-  transition: 0.3s;
-  display: block;
-  color: #000;
+    padding: 10px 15px;
+    position: inherit;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    display: block;
+    color: #000;
 }
 
 /* line 123, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li .submenu li a::before {
-  display: none;
+    display: none;
 }
 
 /* line 127, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li .submenu li:hover a {
-  color: #F2C64D;
+    color: #F2C64D;
 }
 
 /* line 132, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li:hover > .submenu {
-  opacity: 1;
-  visibility: visible;
-  top: 100%;
+    opacity: 1;
+    visibility: visible;
+    top: 100%;
 }
 
 /* line 137, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li:hover > a::before {
-  opacity: 1;
-  transform: scaleX(1);
+    opacity: 1;
+    transform: scaleX(1);
 }
 
 /* line 144, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area.sticky {
-  box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  position: fixed;
-  width: 100%;
-  top: -70px;
-  left: 0;
-  right: 0;
-  z-index: 99;
-  transform: translateY(70px);
-  transition: transform 500ms ease, background 500ms ease;
-  -webkit-transition: transform 500ms ease, background 500ms ease;
-  box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  background: url(../img/navbar-background-blur.jpg) center center;
+    box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    width: 100%;
+    top: -70px;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    transform: translateY(70px);
+    transition: transform 500ms ease, background 500ms ease;
+    -webkit-transition: transform 500ms ease, background 500ms ease;
+    box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
+    background: url(../img/navbar-background-blur.jpg) center center;
 }
 
 @media (max-width: 767px) {
-  /* line 144, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area.sticky {
-    padding: 10px 0;
-  }
+    /* line 144, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area.sticky {
+        padding: 10px 0;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  /* line 144, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area.sticky {
-    padding: 10px 0;
-  }
+    /* line 144, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area.sticky {
+        padding: 10px 0;
+    }
 }
 
 /* line 170, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area.sticky .main-menu {
-  padding: 0;
+    padding: 0;
 }
 
 /* line 174, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .main-header-area.sticky .main-menu ul li a {
-  padding: 35px 18px 35px 18px;
+    padding: 35px 18px 35px 18px;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
-  /* line 174, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area.sticky .main-menu ul li a {
-    padding: 35px 8px 35px 8px;
-  }
+    /* line 174, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area.sticky .main-menu ul li a {
+        padding: 35px 8px 35px 8px;
+    }
 }
 
 @media (min-width: 1200px) and (max-width: 1500px) {
-  /* line 174, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
-  .header-area .main-header-area.sticky .main-menu ul li a {
-    padding: 35px 8px 35px 8px;
-  }
+    /* line 174, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
+    .header-area .main-header-area.sticky .main-menu ul li a {
+        padding: 35px 8px 35px 8px;
+    }
 }
 
 /* line 192, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .social_media_links {
-  text-align: right;
+    text-align: right;
 }
 
 /* line 195, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .social_media_links ul li {
-  display: inline-block;
+    display: inline-block;
 }
 
 /* line 197, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .social_media_links ul li a {
-  background: #ffffff;
-  color: #00364a;
-  width: 40px;
-  height: 40px;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
-  display: inline-block;
-  text-align: center;
-  line-height: 40px;
-  margin: 0 3px;
-  font-size: 17px;
+    background: #ffffff;
+    color: #00364a;
+    width: 40px;
+    height: 40px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    margin: 0 3px;
+    font-size: 17px;
 }
 
 /* line 208, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_header.scss */
 .header-area .social_media_links ul li a:hover {
-  color: #F2C64D;
+    color: #F2C64D;
 }
 
 @media (max-width: 576px) {
-  /* line 97, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card span {
-    margin-bottom: 5px;
-    margin-top: 5px;
-  }
+    /* line 97, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card span {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  /* line 97, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card span {
-    margin-bottom: 5px;
-    margin-top: 5px;
-  }
+    /* line 97, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card span {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  /* line 97, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card span {
-    margin-bottom: 5px;
-    margin-top: 5px;
-  }
+    /* line 97, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card span {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-  /* line 97, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card span {
-    margin-bottom: 5px;
-    margin-top: 5px;
-  }
+    /* line 97, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card span {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
 }
 
 /* line 119, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
 .blog_part .single-home-blog .card h5 {
-  font-weight: 600;
-  line-height: 1.5;
-  font-size: 20px;
-  -webkit-transition: 0.8s;
-  transition: 0.8s;
-  text-transform: capitalize;
-  margin-bottom: 22px;
+    font-weight: 600;
+    line-height: 1.5;
+    font-size: 20px;
+    -webkit-transition: 0.8s;
+    transition: 0.8s;
+    text-transform: capitalize;
+    margin-bottom: 22px;
 }
 
 @media (max-width: 576px) {
-  /* line 119, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card h5 {
-    margin-bottom: 10px;
-  }
+    /* line 119, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card h5 {
+        margin-bottom: 10px;
+    }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  /* line 119, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card h5 {
-    margin-bottom: 10px;
-    font-size: 16px;
-  }
+    /* line 119, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card h5 {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  /* line 119, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card h5 {
-    margin-bottom: 10px;
-  }
+    /* line 119, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card h5 {
+        margin-bottom: 10px;
+    }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-  /* line 119, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card h5 {
-    margin-bottom: 10px;
-    font-size: 18px;
-  }
+    /* line 119, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card h5 {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
 }
 
 /* line 140, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
 .blog_part .single-home-blog .card h5:hover {
-  -webkit-transition: 0.8s;
-  transition: 0.8s;
-  background: -webkit-linear-gradient(131deg, #feb47b 0%, #ff7e5f 99%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -webkit-animation: 1s;
+    -webkit-transition: 0.8s;
+    transition: 0.8s;
+    background: -webkit-linear-gradient(131deg, #feb47b 0%, #ff7e5f 99%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: 1s;
 }
 
 /* line 150, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
 .blog_part .single-home-blog .card ul li {
-  display: inline-block;
-  color: #8a8a8a;
-  margin-right: 14px;
+    display: inline-block;
+    color: #8a8a8a;
+    margin-right: 14px;
 }
 
 @media (max-width: 576px) {
-  /* line 150, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card ul li {
-    margin-right: 10px;
-  }
+    /* line 150, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card ul li {
+        margin-right: 10px;
+    }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  /* line 150, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card ul li {
-    margin-right: 10px;
-  }
+    /* line 150, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card ul li {
+        margin-right: 10px;
+    }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  /* line 150, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card ul li {
-    margin-right: 10px;
-  }
+    /* line 150, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card ul li {
+        margin-right: 10px;
+    }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-  /* line 150, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
-  .blog_part .single-home-blog .card ul li {
-    margin-right: 10px;
-  }
+    /* line 150, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
+    .blog_part .single-home-blog .card ul li {
+        margin-right: 10px;
+    }
 }
 
 /* line 166, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/_blog_part.scss */
 .blog_part .single-home-blog .card ul li span {
-  margin-right: 10px;
-  font-size: 12px;
+    margin-right: 10px;
+    font-size: 12px;
 }
 
 /*# sourceMappingURL=style.css.map */

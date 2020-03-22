@@ -23,7 +23,7 @@ include '../controllers/subjects_controller.php';
             la docencia. Para poder votar, deberás ser un estudiante de la ETSI Sistemas Informáticos.
         </p>
 
-	    <?= prepare_html_for_year(2) ?>
+		<?= prepare_html_for_year( 2 ) ?>
 
     </div>
 </main>

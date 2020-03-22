@@ -1,23 +1,24 @@
 <?php
+
 class NavigationItem {
 	public $title;
 	public $url;
 	public $active;
 
-	function __construct($title, $url) {
-		$this->title = $title;
-		$this->url = $url;
+	function __construct( $title, $url ) {
+		$this->title  = $title;
+		$this->url    = $url;
 		$this->active = false;
 	}
 }
 
-function parsedUrlForLocalhost($url) {
+function parsedUrlForLocalhost( $url ) {
 	$whitelist = array(
 		'127.0.0.1',
 		'::1'
 	);
 
-	if($url != '/' && in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
+	if ( $url != '/' && in_array( $_SERVER['REMOTE_ADDR'], $whitelist ) ) {
 		return $url . ".php";
 	} else {
 		return $url;
@@ -25,29 +26,29 @@ function parsedUrlForLocalhost($url) {
 }
 
 function createNavigationSections() {
-	$requestURI = strtok($_SERVER['REQUEST_URI'], '?');
+	$requestURI = strtok( $_SERVER['REQUEST_URI'], '?' );
 
 	// Root item must be the first in the array
 	$navigationSections = [
-		new NavigationItem('Información', '/'),
-		new NavigationItem('ETSISI', '/etsisi'),
-		new NavigationItem('FAQs', '/faq'),
-		new NavigationItem('Frena la curva', '/flc'),
-		new NavigationItem('Documentación', '/documentacion'),
+		new NavigationItem( 'Información', '/' ),
+		new NavigationItem( 'ETSISI', '/etsisi' ),
+		new NavigationItem( 'FAQs', '/faq' ),
+		new NavigationItem( 'Frena la curva', '/flc' ),
+		new NavigationItem( 'Documentación', '/documentacion' ),
 	];
 
-    if ($requestURI == '/') {
-	    $navigationSections[0]->active = true;
-    } else {
-	    for ($i = 1; $i < count($navigationSections); ++$i) {
-		    $navigationSections[$i]->active = strpos($requestURI, parsedUrlForLocalhost($navigationSections[$i]->url)) !== false;
-	    }
-    }
+	if ( $requestURI == '/' ) {
+		$navigationSections[0]->active = true;
+	} else {
+		for ( $i = 1; $i < count( $navigationSections ); ++ $i ) {
+			$navigationSections[ $i ]->active = strpos( $requestURI, parsedUrlForLocalhost( $navigationSections[ $i ]->url ) ) !== false;
+		}
+	}
 
-    return $navigationSections;
+	return $navigationSections;
 }
 
-$requestURI = strtok($_SERVER['REQUEST_URI'], '?');
+$requestURI = strtok( $_SERVER['REQUEST_URI'], '?' );
 
 $navigationSections = createNavigationSections();
 
@@ -69,15 +70,15 @@ $navigationSections = createNavigationSections();
                         <div class="main-menu d-none d-lg-block">
                             <nav>
                                 <ul id="navigation" style="margin:0px;padding:0px">
-	                                <?php
-	                                foreach ($navigationSections as $item) {
-		                                ?>
+									<?php
+									foreach ( $navigationSections as $item ) {
+										?>
                                         <li class="nav-item">
-                                            <a <?= $item->active ? "class=\"active\"" : "" ?> href="<?= parsedUrlForLocalhost($item->url) ?>" style="text-decoration: none;"><?= $item->title ?></a>
+                                            <a <?= $item->active ? "class=\"active\"" : "" ?> href="<?= parsedUrlForLocalhost( $item->url ) ?>" style="text-decoration: none;"><?= $item->title ?></a>
                                         </li>
-		                                <?php
-	                                }
-	                                ?>
+										<?php
+									}
+									?>
                                 </ul>
                             </nav>
                         </div>

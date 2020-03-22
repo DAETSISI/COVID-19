@@ -37,7 +37,7 @@ class Subject {
 	}
 
 	function html_docencia() {
-		if($this->html_docencia === "") {
+		if ( $this->html_docencia === "" ) {
 			return "<i>Por determinar.</i>";
 		} else {
 			return $this->html_docencia;
@@ -45,7 +45,7 @@ class Subject {
 	}
 
 	function html_practicas() {
-		if($this->html_practicas === "") {
+		if ( $this->html_practicas === "" ) {
 			return "<i>Por determinar.</i>";
 		} else {
 			return $this->html_practicas;
@@ -53,7 +53,7 @@ class Subject {
 	}
 
 	function html_evaluacion() {
-		if($this->html_evaluacion === "") {
+		if ( $this->html_evaluacion === "" ) {
 			return "<i>Por determinar.</i>";
 		} else {
 			return $this->html_evaluacion;
@@ -61,7 +61,7 @@ class Subject {
 	}
 
 	function html_recursos() {
-		if($this->html_recursos === "") {
+		if ( $this->html_recursos === "" ) {
 			return "<i>Por determinar.</i>";
 		} else {
 			return $this->html_recursos;

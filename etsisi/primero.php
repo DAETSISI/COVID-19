@@ -28,7 +28,7 @@ include '../controllers/subjects_controller.php';
             a como se desenvuelve al situación.
         </p>
 
-        <?= prepare_html_for_year(1) ?>
+		<?= prepare_html_for_year( 1 ) ?>
     </div>
 </main>
 
