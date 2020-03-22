@@ -55,7 +55,7 @@
                     resto de la Comunidad Universitaria, a seguir las indicaciones del Gobierno y de la Comunidad de Madrid.
                     <br> <br>
                     Asimismo, entendemos que es una situación complicada, sin embargo instamos a todos los profesores a que den docencia telemática,
-                    o graben vídeos para que puedan ser reproducidos posteriormente, a que se suba material didáctico al moodle, aparte del habitual del formato presencial.
+                    o graben vídeos para que puedan ser reproducidos posteriormente, y a que se suba material didáctico al moodle, aparte del habitual del formato presencial.
                     <br> <br>
                     Pedimos, que los cambios que se produzcan en los criterios de calificación estén siempre orientados a la salvaguarda de la docencia, y miren por el
                     bienestar de los estudiantes. Entendemos que la cancelación de los exámenes y forzar al desarrollo de exámenes finales no es el camino.
@@ -66,30 +66,28 @@
                     páginas web a través de las cuáles podemos seguir formándonos.
                 </p>
                 <ul>
-                    <li>Página de formación transversal:
+                    <li>Páginas de formación transversal:
                         <ul>
                             <li><a href="https://www.udemy.com" target="_blank">Udemy</a></li>
                             <li><a href="https://es.coursera.org/" target="_blank">Coursera</a></li>
                             <li><a href="https://www.edx.org/es" target="_blank">Edx</a></li>
-                            <li>la de los patrones</li>
-                            <li>Desarrollo de videojuegos con unity</li>
+                            <li><a href="https://unity.com/products/learn-premium" target="_blank">Desarrollo de videojuegos con unity</a></li>
                         </ul>
                     </li>
 
-                    <li>Página para cursos gratis de lenguajes de programación:
+                    <li>Páginas para cursos gratis de lenguajes de programación:
                         <ul>
-                            <li>CodeAcademy</li>
-                            <li>FreeCodeCamp</li>
-                            <li>Khan Academy</li>
+                            <li><a href="https://www.codecademy.com/" target="_blank">CodeAcademy</a></li>
+                            <li><a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
+                            <li><a href="https://es.khanacademy.org/" target="_blank">Khan Academy</a></li>
                         </ul>
                     </li>
 
-                    <li>Página web de Ciberseguridad:
+                    <li>Páginas web de Ciberseguridad:
                         <ul>
-                            <li>hacktebox.org</li>
-                            <li>picoCTF</li>
-                            <li>The Cibermentor</li>
-                            <li>DVWA</li>
+                            <li><a href="https://www.hackthebox.eu/" target="_blank">Hack The Box</a></li>
+                            <li><a href="https://picoctf.com/" target="_blank">PicoCTF</a></li>
+                            <li><a href="http://www.dvwa.co.uk/" target="_blank">DVWA</a></li>
                         </ul>
                     </li>
                 </ul>
