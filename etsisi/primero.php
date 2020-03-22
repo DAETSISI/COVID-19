@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-<?php include 'components/common_head.php'; ?>
+<?php include '../components/common_head.php'; ?>
 
 <style>
-    .row{
-        margin-top: 1em;
-    }
-
     .card-header{
         text-align:center;
     }
@@ -23,7 +19,7 @@
 </style>
 <body>
 
-<?php include 'components/common_nav_menu.php'; ?>
+<?php include '../components/common_nav_menu.php'; ?>
 <h1 class="text-center">Primero</h1>
 <hr>
 <main class="main">
@@ -67,7 +63,7 @@
                                 <hr>
                                 <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web), diapositivas, apuntes y problemas resueltos.
                                 <hr>
-                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Primero/Algebra-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Primero/Algebra-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                 <hr>
                                 </p>
                             </div>
@@ -115,7 +111,7 @@
                                     <hr>
                                     <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web).
                                     <hr>
-                                    <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Primero/AspectosES-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                    <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Primero/AspectosES-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                     <hr>
                                     </p>
                                 </div>
@@ -196,7 +192,7 @@
                                         <hr>
                                         <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web)
                                         <hr>
-                                        <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Primero/ED-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                        <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Primero/ED-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                         <hr>
                                     </p>
                                 </div>
@@ -242,7 +238,7 @@
                                         <hr>
                                         <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web), lecturas adicionales.
                                         <hr>
-                                        <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Primero/FS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                        <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Primero/FS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                         <hr>
                                     </p>
                                 </div>
@@ -289,7 +285,7 @@
                                 <hr>
                                 <b>Recursos Didácticos:</b> Bibliografía
                                 <hr>
-                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Primero/Física-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Primero/Física-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                 <hr>
                                 </p>
                             </div>
@@ -312,7 +308,7 @@
     </div>
 </main>
 
-<?php include 'components/common_footer.php'; ?>
-<?php include 'components/js_scripts.php'; ?>
+<?php include '../components/common_footer.php'; ?>
+<?php include '../components/js_scripts.php'; ?>
 </body>
 </html>

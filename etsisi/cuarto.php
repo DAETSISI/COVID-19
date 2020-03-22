@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-<?php include 'components/common_head.php'; ?>
+<?php include '../components/common_head.php'; ?>
 
 <style>
-    .row{
-        margin-top: 1em;
-    }
-
     .card-header{
         text-align:center;
     }
@@ -23,7 +19,8 @@
 </style>
 <body>
 
-<?php include 'components/common_nav_menu.php'; ?>
+<?php include '../components/common_nav_menu.php'; ?>
+
 <h1 class="text-center">Cuarto</h1>
 <hr>
 <main class="main">
@@ -63,7 +60,7 @@
                                 <hr>
                                 <b>Recursos Didácticos:</b> Moodle. Material complementario.
                                 <hr>
-                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/EPAC-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Cuarto/EPAC-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                 <hr>
                                 </p>
                             </div>
@@ -136,7 +133,7 @@
                                 <hr>
                                 <b>Recursos Didácticos:</b> Moodle. Recursos Web.
                                 <hr>
-                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/Inglés-Medio-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Cuarto/Inglés-Medio-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                 <hr>
                                 </p>
                             </div>
@@ -182,7 +179,7 @@
                                 <hr>
                                 <b>Recursos Didácticos:</b> Moodle(Recursos Web y Foro). Vídeos explicativos de páginas web.
                                 <hr>
-                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/Inglés-Medio-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Cuarto/Inglés-Medio-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                 <hr>
                                 </p>
                             </div>
@@ -227,7 +224,7 @@
                                 <hr>
                                 <b>Recursos Didácticos:</b> Moodle de la Asignatura.
                                 <hr>
-                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/TDW-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Cuarto/TDW-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                 <hr>
                                 </p>
                             </div>
@@ -271,7 +268,7 @@
                                 <hr>
                                 <b>Recursos Didácticos:</b> Moodle Asignatura. Tutoriales interactivos sobre Docker.
                                 <hr>
-                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/AOS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Cuarto/AOS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                 <hr>
                                 </p>
                             </div>
@@ -317,7 +314,7 @@
                                 <hr>
                                 <b>Recursos Didácticos:</b> Moodle Asignatura.
                                 <hr>
-                                <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Cuarto/Procesamiento-Digital-de-la-Señal.pdf" target="_blank">Guía Modificada</a>
+                                <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Cuarto/Procesamiento-Digital-de-la-Señal.pdf" target="_blank">Guía Modificada</a>
                                 <hr>
                                 </p>
                             </div>
@@ -396,7 +393,7 @@
 
     </div>
 </main>
-<?php include 'components/common_footer.php'; ?>
-<?php include 'components/js_scripts.php'; ?>
+<?php include '../components/common_footer.php'; ?>
+<?php include '../components/js_scripts.php'; ?>
 </body>
 </html>

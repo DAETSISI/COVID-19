@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 
-<?php include 'components/common_head.php'; ?>
+<?php include '../components/common_head.php'; ?>
 
 <body>
 
-<?php include 'components/common_nav_menu.php'; ?>
+<?php include '../components/common_nav_menu.php'; ?>
 <style>
     .col a:link,a:visited, a:active{
         text-decoration: none;
@@ -36,34 +36,34 @@
 
         <div class="row row-cols-1 row-cols-md-2">
             <div class="col mb-4">
-                <a href="./Primero.php" target="_blank">
+                <a href="/etsisi/primero">
                 <div class="card">
-                    <img src="./img/1.png" class="card-img-top" alt="Logo de la Escuela para Primero">
+                    <img src="../img/1.png" class="card-img-top" alt="Logo de la Escuela para Primero">
                 </div>
                 </a>
 
             </div>
 
             <div class="col mb-4">
-                <a href="./Segundo.php" target="_blank">
+                <a href="/etsisi/segundo">
                 <div class="card">
-                    <img src="./img/2.png" class="card-img-top" alt="Logo de la Escuela para Segundo">
+                    <img src="../img/2.png" class="card-img-top" alt="Logo de la Escuela para Segundo">
                 </div>
                 </a>
             </div>
 
             <div class="col mb-4">
-                <a href="./Tercero.php" target="_blank">
+                <a href="/etsisi/tercero">
                 <div class="card">
-                    <img src="./img/3.png" class="card-img-top" alt="Logo de la Escuela para Tercero">
+                    <img src="../img/3.png" class="card-img-top" alt="Logo de la Escuela para Tercero">
                 </div>
                 </a>
             </div>
 
             <div class="col mb-4">
-                <a href="./Cuarto.php" target="_blank">
+                <a href="/etsisi/cuarto">
                 <div class="card">
-                    <img src="./img/4.png" class="card-img-top" alt="Logo de la Escuela para Cuarto">
+                    <img src="../img/4.png" class="card-img-top" alt="Logo de la Escuela para Cuarto">
                 </div>
                 </a>
             </div>
@@ -74,7 +74,7 @@
 
     </div>
 </main>
-<?php include 'components/common_footer.php'; ?>
-<?php include 'components/js_scripts.php'; ?>
+<?php include '../components/common_footer.php'; ?>
+<?php include '../components/js_scripts.php'; ?>
 </body>
 </html>

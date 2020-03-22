@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-<?php include 'components/common_head.php'; ?>
+<?php include '../components/common_head.php'; ?>
 
 <style>
-    .row{
-        margin-top: 1em;
-    }
-
     .separadores{
         margin-top: 1em;
         border: 1px solid black;
@@ -44,7 +40,7 @@
 </style>
 <body>
 
-<?php include 'components/common_nav_menu.php'; ?>
+<?php include '../components/common_nav_menu.php'; ?>
 <h1 class="text-center">Tercero</h1>
 <hr>
 <main class="main">
@@ -90,7 +86,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle de la Asignatura. Contenido de Consulta Online.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/ADS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/ADS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -136,7 +132,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle (Recursos web y foro)
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/BDA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/BDA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -182,7 +178,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle Asignatura, tutorías online.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/CDI-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/CDI-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -229,7 +225,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle (Recursos Web y Chat).
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/EMS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/EMS-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -274,7 +270,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle Asignatura. Contenido de Consulta Online.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -332,7 +328,7 @@
                                             propuestos y soluciones.<br> Documentación sobre las prácticas.<br>
                                             Página web de la Asignatura. <br>Recursos Web complementarios.<br> Laboratorios con acceso Remoto.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/AA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/AA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -377,7 +373,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web). Bibliografía complementaria. Máquina virual con el sw necesario para el desarrollo de las prácticas.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/PHR-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/PHR-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -423,7 +419,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web).
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/SSR-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/SSR-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -468,7 +464,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle Asignatura. Contenido de Consulta Online.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -528,7 +524,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle (Recursos web), docencia vía Teams.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/Mejores-Practicas-para-gestion-de-Servicios-cornograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/Mejores-Practicas-para-gestion-de-Servicios-cornograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -574,7 +570,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle (Recursos web y foro)
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/BDA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/BDA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -726,7 +722,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle Asignatura. Contenido de Consulta Online.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -782,7 +778,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle Asignatura. Contenido de Consulta Online.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/TLP-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -828,7 +824,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle (Recursos Web). Apuntes del curso elaborados por los profesores.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/RA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/RA-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -873,7 +869,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle (Recursos Web). Apuntes del curso elaborados por los profesores.
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/Computación-ubicua-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/Computación-ubicua-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -919,7 +915,7 @@
                                             <hr>
                                             <b>Recursos Didácticos:</b> Moodle asignatura (Recursos Web).
                                             <hr>
-                                            <a class="btn btn-pdf"href="./Documentacion/GuiasAprendizaje/Tercero/SSR-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
+                                            <a class="btn btn-pdf" href="../Documentacion/GuiasAprendizaje/Tercero/SSR-cronograma-no-presencial.pdf" target="_blank">Guía Modificada</a>
                                             <hr>
                                             </p>
                                         </div>
@@ -944,7 +940,7 @@
 
     </div>
 </main>
-<?php include 'components/common_footer.php'; ?>
-<?php include 'components/js_scripts.php'; ?>
+<?php include '../components/common_footer.php'; ?>
+<?php include '../components/js_scripts.php'; ?>
 </body>
 </html>
