@@ -7,7 +7,7 @@
 
 <?php include 'components/common_nav_menu.php'; ?>
 <main class="main">
-    <h1 class="text-center">Información General</h1>
+    <h1 class="text-center">Información general</h1>
     <hr>
 
     <div class="container">
