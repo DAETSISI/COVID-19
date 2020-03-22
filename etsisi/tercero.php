@@ -43,7 +43,7 @@ include '../controllers/subjects_controller.php';
         </p>
 
         <div class="separadores">
-            <a class="card card-body text-center" data-toggle="collapse" href="#collapse" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <a class="card card-body text-center" data-toggle="collapse" href="#collapse" role="button" aria-expanded="false" aria-controls="collapseExample" style="text-decoration: none;">
                 Grado en Ingeniería del Software
             </a>
             <div class="collapse" id="collapse">
@@ -55,7 +55,7 @@ include '../controllers/subjects_controller.php';
         </div>
 
         <div class="separadores">
-            <a class="card card-body text-center" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <a class="card card-body text-center" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample" style="text-decoration: none;">
                 Grado en Ingeniería de Computadores
             </a>
             <div class="collapse" id="collapse2">
@@ -66,7 +66,7 @@ include '../controllers/subjects_controller.php';
         </div>
 
         <div class="separadores">
-            <a class="card card-body text-center" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <a class="card card-body text-center" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" style="text-decoration: none;">
                 Grado en Sistemas de Información
             </a>
             <div class="collapse" id="collapseExample">
@@ -77,7 +77,7 @@ include '../controllers/subjects_controller.php';
         </div>
 
         <div class="separadores">
-            <a class="card card-body text-center" data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <a class="card card-body text-center" data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapseExample" style="text-decoration: none;">
                 Grado en Tecnologías para la Sociedad de la Información
             </a>
             <div class="collapse" id="collapse3">
