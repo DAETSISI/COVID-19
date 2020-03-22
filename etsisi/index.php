@@ -31,7 +31,7 @@
             que hemos habilitado para los distintos cursos de grado, podréis encontrar toda la información que hemos recopilado hasta ahora. Continuaremos actualizándolas conforme se nos remita más información.<br></p>
         <h4 style="padding-top:1em">Información de asignaturas</h4>
         <hr>
-        <div class="row row-cols-1 row-cols-md-2">
+        <div class="row row-cols-1 row-cols-md-4">
             <div class="col mb-4">
                 <a href="/etsisi/primero">
                     <div class="card">
