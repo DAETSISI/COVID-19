@@ -8,21 +8,6 @@ include '../controllers/subjects_controller.php';
 
 <?php include '../components/common_head.php'; ?>
 
-<style>
-    .card-header {
-        text-align: center;
-    }
-
-    .btn {
-        border: 0px;
-    }
-
-    .btn:focus {
-        outline: 0;
-        box-shadow: 0 0 0 0rem rgba(0, 0, 0, 0);
-        color: black;
-    }
-</style>
 <body>
 
 <?php include '../components/common_nav_menu.php'; ?>
