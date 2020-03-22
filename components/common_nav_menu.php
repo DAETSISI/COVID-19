@@ -32,7 +32,7 @@ function createNavigationSections() {
 	$navigationSections = [
 		new NavigationItem( 'Información', '/' ),
 		new NavigationItem( 'ETSISI', '/etsisi' ),
-		new NavigationItem( 'FAQs', '/faq' ),
+		new NavigationItem( 'FAQs', '/faqs' ),
 		new NavigationItem( 'Frena la curva', '/flc' ),
 		new NavigationItem( 'Documentación', '/documentacion' ),
 	];

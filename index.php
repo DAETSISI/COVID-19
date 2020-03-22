@@ -37,7 +37,7 @@
                 <div style="text-align: justify">Esta plataforma consta de varias secciones:
                     <ul>
                         <li><b><a href="/etsisi">ETSISI</a>:</b> toda la información académica de la escuela sobre los <b>cambios en las asignaturas</b> para adaptarse a esta situación excepcional.</li>
-                        <li><b><a href="/faq">FAQs</a>:</b> un recopilatorio de las preguntas más frecuentes que nos habéis realizado.</li>
+                        <li><b><a href="/faqs">FAQs</a>:</b> un recopilatorio de las preguntas más frecuentes que nos habéis realizado.</li>
                         <li><b><a href="/flc">Frena la curva</a>:</b> recomendaciones, consejos y tips para frenar la expansión del virus.</li>
                         <li><b><a href="/documentacion">Documentación</a>:</b> recopilatorio de todos los comunicados, Reales Decretos, Resoluciones Rectorales y documentos en general relativos a la crisis del coronavirus, del ámbito de la representación estudiantil, Universidad, Comunidad
                             Autónoma
