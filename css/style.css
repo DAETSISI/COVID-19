@@ -68,27 +68,6 @@ label {
     font-weight: 400;
 }
 
-/* line 78, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
-*::-moz-selection {
-    background: #444;
-    color: #fff;
-    text-shadow: none;
-}
-
-/* line 83, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
-::-moz-selection {
-    background: #444;
-    color: #fff;
-    text-shadow: none;
-}
-
-/* line 88, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
-::selection {
-    background: #444;
-    color: #fff;
-    text-shadow: none;
-}
-
 /* line 93, C:/Users/SPN Graphics/Desktop/CL September/211 Lawyer/HTML/scss/theme-default.scss */
 *::-webkit-input-placeholder {
     color: #cccccc;
