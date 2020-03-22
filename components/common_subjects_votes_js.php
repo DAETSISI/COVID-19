@@ -6,12 +6,11 @@
 			let targetSelectedClass = button.attr('id').includes("up") ? "btn-success" : "btn-danger";
 
 			if (select) {
-			    button.removeClass(targetNotSelectedClass);
-			    button.addClass(targetSelectedClass);
-			} else {
-                button.removeClass(targetSelectedClass);
-                button.addClass(targetNotSelectedClass);
-			}
+			    button.attr("class", "btn " + targetSelectedClass + " subject_vote_button");
+            } else {
+                button.attr("class", "btn " + targetNotSelectedClass + " subject_vote_button");
+                button.unbind('hover');
+            }
         }
 
         $('.subject_vote_button').click(function () {

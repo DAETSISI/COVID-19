@@ -11,3 +11,11 @@ a:hover {
 ul {
     padding-top: 0.5em;
 }
+
+.btn-outline-success.subject_vote_button:hover {
+    background-color: white;
+}
+
+.btn-outline-danger.subject_vote_button:hover {
+    background-color: white;
+}
