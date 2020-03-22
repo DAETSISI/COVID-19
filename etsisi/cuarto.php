@@ -16,6 +16,21 @@ include '../controllers/subjects_controller.php';
 <hr>
 <main class="main">
     <div class="container">
+        <div class="row" style="text-align: center; margin-bottom: 30px">
+            <div class="col-md-3">
+                <a class="btn btn-dark" href="/etsisi/primero" style="text-decoration: none">Primero</a>
+            </div>
+            <div class="col-md-3">
+                <a class="btn btn-dark" href="/etsisi/segundo" style="text-decoration: none">Segundo</a>
+            </div>
+            <div class="col-md-3">
+                <a class="btn btn-dark" href="/etsisi/tercero" style="text-decoration: none">Tercero</a>
+            </div>
+            <div class="col-md-3">
+                <button class="btn btn-warning">Cuarto</button>
+            </div>
+        </div>
+
         <p style="text-align: justify">
             En esta sección tenéis toda la información relativa a las asignaturas del <b>cuarto curso</b>
             que hemos recopilado hasta el momento. Además, hemos habilitado la posibilidad de valorar,
