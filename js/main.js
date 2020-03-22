@@ -12,7 +12,6 @@
          }
      });*/
 
-    //Si quito la función de abajo desaparece el desplegable en la función móvil xd
     $(document).ready(function () {
 
 // mobile_menu
