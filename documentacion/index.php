@@ -67,6 +67,75 @@
                 <div class="collapse" id="collapse1">
                     <div class="card card-body">
                         <ul class="list-group list-group-flush" style="overflow: hidden;max-height: fit-content;">
+
+                            <li class="list-group-item">
+                                <div class="row">
+                                    <div class="col-sm-12"><p class="card-title"><b>
+                                                <a href="../documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_Erasmus_27_03_2020.pdf" target="_blank">Actualización de la Situación Europea</a></b>
+                                    </div>
+                                    <div class="col-sm-8">
+                                        <p class="card-text fecha" style="margin-bottom: -0.2rem;">27/03/2020</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;"><a href="http://sepie.es/coronavirus.html" target="_blank">SEPIE</a> - Ministerior de Universidades</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;">Servicio Español para la Internacionalización de la Educación</p>
+                                    </div>
+                                    <div class="col-sm-4" style="text-align: end;">
+                                        <div style="margin-top: 0.8rem;display: inline-block;">
+                                            <a class="btn btn-pdf" href="../documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_Erasmus_27_03_2020.pdf" role="button" target="_blank">Enlace a pdf</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>   <!--Información SEPIE: Actualización de Situación en Europa 27/03/2020-->
+                            <li class="list-group-item">
+                                <div class="row">
+                                    <div class="col-sm-12"><p class="card-title"><b>
+                                                <a href="../documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_Erasmus_25_03_2020.pdf" target="_blank">Actualización de la Situación Europea</a></b>
+                                    </div>
+                                    <div class="col-sm-8">
+                                        <p class="card-text fecha" style="margin-bottom: -0.2rem;">25/03/2020</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;"><a href="http://sepie.es/coronavirus.html" target="_blank">SEPIE</a> - Ministerior de Universidades</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;">Servicio Español para la Internacionalización de la Educación</p>
+                                    </div>
+                                    <div class="col-sm-4" style="text-align: end;">
+                                        <div style="margin-top: 0.8rem;display: inline-block;">
+                                            <a class="btn btn-pdf" href="../documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_Erasmus_25_03_2020.pdf" role="button" target="_blank">Enlace a pdf</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>   <!--Información SEPIE: Actualización de Situación en Europa 25/03/2020-->
+                            <li class="list-group-item">
+                                <div class="row">
+                                    <div class="col-sm-12"><p class="card-title"><b>
+                                                <a href="../documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_Erasmus_23_03_2020.pdf" target="_blank">Actualización de la Situación Europea</a></b>
+                                    </div>
+                                    <div class="col-sm-8">
+                                        <p class="card-text fecha" style="margin-bottom: -0.2rem;">23/03/2020</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;"><a href="http://sepie.es/coronavirus.html" target="_blank">SEPIE</a> - Ministerior de Universidades</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;">Servicio Español para la Internacionalización de la Educación</p>
+                                    </div>
+                                    <div class="col-sm-4" style="text-align: end;">
+                                        <div style="margin-top: 0.8rem;display: inline-block;">
+                                            <a class="btn btn-pdf" href="../documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_Erasmus_23_03_2020.pdf" role="button" target="_blank">Enlace a pdf</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>   <!--Información SEPIE: Actualización de Situación en Europa 23/03/2020-->
+                            <li class="list-group-item">
+                                <div class="row">
+                                    <div class="col-sm-12"><p class="card-title"><b>
+                                                <a href="../documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_Erasmus_20_03_2020.pdf" target="_blank">Actualización de la Situación Europea</a></b>
+                                    </div>
+                                    <div class="col-sm-8">
+                                        <p class="card-text fecha" style="margin-bottom: -0.2rem;">20/03/2020</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;"><a href="http://sepie.es/coronavirus.html" target="_blank">SEPIE</a> - Ministerior de Universidades</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;">Servicio Español para la Internacionalización de la Educación</p>
+                                    </div>
+                                    <div class="col-sm-4" style="text-align: end;">
+                                        <div style="margin-top: 0.8rem;display: inline-block;">
+                                            <a class="btn btn-pdf" href="../documentacion/CAM-ESTATAL/SEPIE/Situación_en_el_Programa_Erasmus_20_03_2020.pdf" role="button" target="_blank">Enlace a pdf</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>   <!--Información SEPIE: Actualización de Situación en Europa 20/03/2020-->
                             <li class="list-group-item">
                                 <div class="row">
                                     <div class="col-sm-12"><p class="card-title"><b>
@@ -271,6 +340,24 @@
                     <div class="card card-body">
                         <ul class="list-group list-group-flush" style="overflow: hidden;max-height: fit-content;">
 
+                            <li class="list-group-item">
+                                <div class="row">
+                                    <div class="col-sm-12"><p class="card-title"><b>
+                                                <a href="https://covid19.daetsisi.es/documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_5.pdf" target="_blank">Quinto Comunicado del Rector</a></b>
+                                    </div>
+                                    <div class="col-sm-8">
+                                        <p class="card-text fecha" style="margin-bottom: -0.2rem;">27/03/2020</p>
+                                        <p class="card-text órgano" style="margin-bottom: -0.2rem;">Comunicado del Rector</p>
+                                        <p class="card-text persona" style="margin-bottom: -0.2rem;">Guillermo Cisneros</p>
+                                    </div>
+                                    <div class="col-sm-4" style="text-align: end;">
+                                        <div style="margin-top: 0.8rem;display: inline-block;">
+                                            <a class="btn btn-pdf" href="https://covid19.daetsisi.es/documentacion/UPM/RECTOR/Comunicados/Comunicado_Rector_5.pdf" target="_blank" role="button">Enlace a pdf</a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </li>   <!--Quinto Comunicado del Rector 20-->
                         <li class="list-group-item">
                             <div class="row">
                                 <div class="col-sm-12"><p class="card-title"><b>
