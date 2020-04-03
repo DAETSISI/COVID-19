@@ -7,6 +7,7 @@
    .btn{
        background-color: #17a2b8;
        margin-left: 0.5em;
+       width: 105px;
    }
     #conexion{
         justify-content: center;
@@ -19,6 +20,20 @@
         margin-top: 2em;
 
     }
+
+    #botones{
+        justify-content: center;
+        margin-top:0.5em;
+        margin-bottom: 0.5em;
+    }
+    .row1 {
+        width: 400px;
+    }
+
+    input{
+        width: 3.75em 2em;
+    }
+
 </style>
 
 <body>
@@ -26,7 +41,9 @@
 <main>
     <h1 class="text-center">Entrar</h1>
     <div class="container">
+        <hr>
         <div class="container-flex" id="formcontainer">
+
             <forms id="loginform" name="loginform" action="https://covid19.daetsisi.es/login.php">
 
             <div class="row">
@@ -50,16 +67,8 @@
                 </div>
             </div>
 
-            <div class="row" style="align-items: center; margin-bottom: 0.25em;">
-                <div class="col-mb-2">
-                    <input type="checkbox" class="form-control" id="remember">
-                </div>
-                <div class="col-mb-10" style="margin-left: 0.5em">
-                    <label for="remember"> Mantenerme Conectado</label>
-                </div>
-            </div>
 
-            <div class="row">
+            <div class="row" id="botones">
                 <div class="col-mb-6">
                     <button type="submit-btn" class="btn btn-primary" value="Entrar">Entrar</button>
                 </div>
