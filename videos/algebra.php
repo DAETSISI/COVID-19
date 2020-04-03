@@ -8,28 +8,52 @@
 <?php include '../components/common_nav_menu.php'; ?>
 
 <main class="main">
-    <h1 class="text-center">Álgebra</h1>
+    <h1 class="text-center" style="padding-bottom: 0.5em;">Álgebra</h1>
     <div class="container">
         <div class="row">
             <div class="col-md-8">
                 <div class="card">
                     <div class="card-header">Temario</div>
                     <div class="card-body">
-
+                        <p>Clases Telemáticas</p>
+                        <ul>
+                            <li>Clases telemáticas de Ana Isabel Lías Quintero()</li>
+                            <li>Clases telemáticas de Jose Ignacio Tello del Castillo ()</li>
+                            <li>Clases telemáticas de María Ángeles Martínez Sánchez ()</li>
+                            <li>Clases telemáticas de Gregoria Blanco Viejo ()</li>
+                            <li>Clases telemáticas de Francisco Gómez Martín ()</li>
+                            <li>Clases telemáticas de Jose Juan Carreño Carreño ()</li>
+                        </ul>
+                        <p>Vídeos Magistrales</p>
+                        <ul>
+                            <li>Tema 3</li>
+                            <li>Tema 4</li>
+                            <li>Tema 5</li>
+                            <li>Tema 6</li>
+                        </ul>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="card">
-                    <div class="card-header">Repositorio</div>
+            <div class="col-md-4 flex">
+                <div class="card" style="display:flex;align-items: stretch;">
+                    <div class="card-header">Repositorio de Apuntes</div>
                     <div class="card-body">
-
+                        <ul>
+                            <li>Tema 1. Aritmética Entera y Modular</li>
+                            <li>Tema 2. Gauss</li>
+                            <li>Tema 3. Espacios Vectoriales</li>
+                            <li>Tema 4. Aplicaciones Lineales</li>
+                            <li>Tema 5. Diagonalización</li>
+                            <li>Tema 6. Códigos Lineales</li>
+                            <li>Apuntes Academia</li>
+                            <li>Apuntes Generales</li>
+                            <li>Apuntes de Aplicaciones Lineales</li>
+                            <li>Problemas Aritmética Entera y Modular</li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
-        
-        <hr>
 
         <div class="row">
             <div class="col-md-12">

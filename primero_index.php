@@ -21,7 +21,7 @@
             </div>
 
             <div class="col mb-4">
-                <a href="/videos/primero/aspectos_eticos_y_sociales">
+                <a href="/videos/aspectos_eticos_y_sociales">
                     <div class="card">
                         <img src="img/aspectos.png" class="card-img-top" alt="Aspectos Éticos y Sociales">
                     </div>
@@ -29,7 +29,7 @@
             </div>
 
             <div class="col mb-4">
-                <a href="/videos/primero/estructura_de_computadores">
+                <a href="/videos/estructura_de_computadores">
                     <div class="card">
                         <img src="img/ec.png" class="card-img-top" alt="Estructura de Computadores">
                     </div>
@@ -39,7 +39,7 @@
 
         <div class="row row-cols-1 row-cols-md-3">
             <div class="col mb-4">
-                <a href="/videos/primero/estructura_de_datos">
+                <a href="/videos/estructura_de_datos">
                     <div class="card">
                         <img src="img/ed.png" class="card-img-top" alt="Estructura de Datos">
                     </div>
