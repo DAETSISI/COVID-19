@@ -77,25 +77,33 @@
 
                     <div class="row">
                         <div class="form-group">
+                            <label for="correo">Correo Electrónico:</label>
+                            <input type="correo" class="form-control" id="correo" placeholder="Enter Webmail">
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="form-group">
                             <label for="password">Contraseña:</label>
                             <input type="password" class="form-control" id="password" placeholder="Enter Password">
                         </div>
                     </div>
 
-                    <div class="row" id="botones">
-                        <div class="col-mb-6">
-                            <button type="submit-btn" class="btn btn-primary" value="Entrar">Entrar</button>
+                    <div class="row">
+                        <div class="form-group">
+                            <label for="password">Confirmar Contraseña:</label>
+                            <input type="password" class="form-control" id="password" placeholder="Enter Password">
                         </div>
-                        <div class="col-mb-6">
+                    </div>
+
+
+
+                    <div class="row" id="botones">
+                        <div class="col-mb-12">
                             <button type="submit-btn" class="btn btn-primary" value="Entrar">Registro</button>
                         </div>
                     </div>
 
-                    <div class="row" id="conexion">
-                        <div class="col-mb-12">
-                            <a class="um-link alt" href="https://covid19.daetsisi.es/password-reset/">¿Has olvidado tu contraseña?</a>
-                        </div>
-                    </div>
                 </forms>
             </div>
 
