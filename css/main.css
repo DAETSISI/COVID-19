@@ -1,0 +1,21 @@
+a {
+    color: #000000;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #EFB810;
+    text-decoration: underline;
+}
+
+ul {
+    padding-top: 0.5em;
+}
+
+.btn-outline-success.subject_vote_button:hover {
+    background-color: white;
+}
+
+.btn-outline-danger.subject_vote_button:hover {
+    background-color: white;
+}
