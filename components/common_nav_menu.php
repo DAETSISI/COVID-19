@@ -100,3 +100,10 @@ $navigationSections = createNavigationSections();
         </div>
     </div>
 </header>
+
+<div class="container" style="color: red; text-align: center">
+	<p>⚠️ ATENCIÓN ⚠️: Esta página web fue desarrollada por la Delegación de Alumnos de la ETSI Sistemas Informáticos de la UPM para informar a sus compañer@s estudiantes de las novedades en la docencia y en los exámenes <b>durante el periodo de estado de alarma</b>, coincidente con el final del
+		segundo
+		semestre del curso 2019-2020. <b>ESTA PÁGINA YA NO SE ACTUALIZA</b>, por lo que la información en ella disponible puede no ajustarse a la realidad.</p>
+	<p>Toda la información actualizada que publicamos desde la Delegación de Alumnos puede consultarse en nuestra página web: <a href="https://daetsisi.es">daetsisi.es</a></p>
+</div>
