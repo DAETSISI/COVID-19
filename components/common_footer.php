@@ -41,10 +41,10 @@
             </div>
             <div class="col-md-6" style="line-height: 2.5em;">
                 <h3>¡Conoce Nuestras Redes Sociales!</h3>
-                <a href="https://twitter.com/dalumETSISI?s=20" alt="Twitter" target="_blank">
+                <a href="https://twitter.com/daETSISI" alt="Twitter" target="_blank">
                     <i class="fa fa-twitter"></i> Twitter
                 </a><br>
-                <a href="https://www.instagram.com/dalumetsisi/" alt="Instagram" target="_blank">
+                <a href="https://www.instagram.com/daetsisi/" alt="Instagram" target="_blank">
                     <i class="fa fa-instagram"></i> Instagram
                 </a><br>
                 <a href="https://t.me/canaldaetsisi" alt="Canal Telegram" target="_blank">
