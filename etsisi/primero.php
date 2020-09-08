@@ -36,6 +36,24 @@ include '../controllers/subjects_controller.php';
             <br>
         </p>
 
+		<div>
+			<div>
+				<div>
+					<div>
+						<div>
+							<p>
+								<!--
+								*************************************
+								* "Si lees esto vas a aprobar todo" *
+								*************************************
+								-->
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
 		<?= prepare_html_for_year( 1 ) ?>
     </div>
 </main>
